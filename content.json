@@ -1,0 +1,1045 @@
+{
+  "title": "Codex Defensionis",
+  "author": "Silas Ravenshaw",
+  "setting": 1890,
+  "years": [
+    {
+      "name": "Fondamenti e controllo",
+      "goal": "Distinguere minacce ed effetti; consolidare Protego, Flipendo e Rictusempra."
+    },
+    {
+      "name": "Interrompere l’azione",
+      "goal": "Confrontare disarmo, sbilanciamento e movimento imposto, scegliendo un obiettivo limitato."
+    },
+    {
+      "name": "Vincoli e paura",
+      "goal": "Riconoscere immobilizzazione, appoggi bloccati e manifestazioni che alterano la percezione."
+    },
+    {
+      "name": "Potenza e ambiente",
+      "goal": "Studiare effetti esplosivi e oggetti sospetti senza confondere forza ed efficacia difensiva."
+    },
+    {
+      "name": "Lucidità e responsabilità",
+      "goal": "Distinguere confusione, pericolo e competenza specialistica nel giudizio sulle persone."
+    },
+    {
+      "name": "Memoria e coordinamento",
+      "goal": "Comprendere i limiti degli interventi avanzati e proteggere gli altri attraverso un lavoro ordinato."
+    },
+    {
+      "name": "Difendere con giudizio",
+      "goal": "Studiare il Patronus e motivare una risposta difensiva proporzionata alla situazione."
+    }
+  ],
+  "lessons": [
+    {
+      "year": 1,
+      "meeting": 1,
+      "week": 1,
+      "title": "Leggere una minaccia",
+      "subtitle": "Fattura, maleficio e maledizione",
+      "theory": [
+        "La Difesa contro le Arti Oscure insegna a riconoscere un rischio e a scegliere una risposta. Un nome impressionante non descrive da solo ciò che sta accadendo. Prima di agire occorre identificare bersaglio, effetto e condizioni del luogo.",
+        "Fattura, maleficio e maledizione indicano famiglie di effetti ostili, non una graduatoria che renda innocuo tutto ciò che viene chiamato lieve. Una limitazione breve del movimento può diventare grave vicino a un dislivello. Il giudizio collega natura dell’effetto e situazione concreta.",
+        "La materia non coincide con una raccolta di attacchi. Interrompere un’aggressione, creare distanza e consentire l’allontanamento sono obiettivi diversi dalla punizione dell’avversario. Conoscere una formula non dimostra che il suo impiego sia necessario o adeguato."
+      ],
+      "notions": [
+        [
+          "Effetto",
+          "Descrivere ciò che cambia nel bersaglio prima di attribuirgli un nome."
+        ],
+        [
+          "Contesto",
+          "Luogo, persone vicine e possibilità di movimento modificano le conseguenze."
+        ],
+        [
+          "Obiettivo",
+          "La difesa deve indicare quale rischio si intenda ridurre."
+        ]
+      ],
+      "opening": "Una formula considerata semplice può essere usata in modo pericoloso?",
+      "steps": [
+        "Confrontare due casi immaginari con lo stesso effetto in luoghi diversi.",
+        "Indicare bersaglio, rischio e risultato necessario.",
+        "Separare la cessazione del pericolo dall’idea di infliggere una punizione."
+      ],
+      "question": "Perché il nome della categoria non basta a giudicare una situazione?",
+      "answer": "Perché gravità e risposta dipendono anche da condizioni, bersaglio e conseguenze osservabili.",
+      "source": "Percorso difensivo rielaborato dai materiali di riferimento.",
+      "spell": null
+    },
+    {
+      "year": 1,
+      "meeting": 2,
+      "week": 1,
+      "title": "Protego",
+      "subtitle": "Lo scudo e i suoi limiti",
+      "theory": [
+        "Genera uno scudo magico difensivo, utile a contrastare effetti compatibili con la protezione. Il primo compito consiste nel comprendere che cosa venga protetto e quale effetto si stia affrontando, non nel presumere che la sola presenza dello scudo renda sicura ogni situazione.",
+        "Uno scudo non è una garanzia assoluta contro ogni magia. La protezione va distinta dall’attacco e dalla deviazione osservata di un singolo effetto.",
+        "La dimostrazione usa condizioni predisposte dal docente. Gli studenti osservano avvio, orientamento e risultato; non cercano di misurare la protezione esponendosi a formule ignote. Uno scudo riuscito in una prova non prova la stessa efficacia contro ogni minaccia."
+      ],
+      "notions": [
+        [
+          "Protezione",
+          "Uno scudo è una difesa attiva da valutare rispetto all’effetto affrontato."
+        ],
+        [
+          "Orientamento",
+          "Bersaglio protetto e provenienza del rischio devono essere riconosciuti."
+        ],
+        [
+          "Riscontro",
+          "La manifestazione visibile e l’efficacia nel compito sono dati collegati ma distinti."
+        ]
+      ],
+      "opening": "Uno scudo visibile basta a dimostrare che ogni persona nell’aula sia protetta?",
+      "steps": [
+        "Indicare il bersaglio da proteggere in una scena su tavola.",
+        "Osservare una dimostrazione concordata, senza aggiungere prove spontanee.",
+        "Descrivere soltanto ciò che il risultato permette di verificare."
+      ],
+      "question": "Protego è una garanzia universale contro qualsiasi effetto?",
+      "answer": "No. La sua efficacia va riferita alla minaccia e alle condizioni conosciute, senza estenderla automaticamente ad altri casi.",
+      "source": "Catalogo del corso · Protego; confronto con il repertorio di D.C.A.O.",
+      "spell": "Protego"
+    },
+    {
+      "year": 1,
+      "meeting": 3,
+      "week": 2,
+      "title": "Flipendo",
+      "subtitle": "L’impulso e il punto d’arrivo",
+      "theory": [
+        "Colpisce con un impulso capace di respingere o rovesciare il bersaglio. Nel programma della scuola appartiene al primo anno. Il suo studio distingue il semplice spostamento dal controllo delle conseguenze che seguono lo sbilanciamento.",
+        "L’impulso offensivo si distingue dal trasporto controllato di un oggetto. Nella classificazione della scuola la formula appartiene a D.C.A.O.",
+        "La pratica usa un bersaglio inanimato e uno spazio predisposto. Il punto d’arrivo conta quanto il movimento iniziale: allontanare un oggetto verso una persona o un passaggio non risolve il problema. Una maggiore preparazione si riconosce anche nella capacità di scegliere un impulso contenuto."
+      ],
+      "notions": [
+        [
+          "Impulso",
+          "Produce movimento o rovesciamento, non una guida libera e continua."
+        ],
+        [
+          "Destinazione",
+          "La zona verso cui si muove il bersaglio deve essere considerata prima."
+        ],
+        [
+          "Misura",
+          "Un effetto più intenso non è automaticamente più adatto."
+        ]
+      ],
+      "opening": "Liberare il proprio spazio può creare un nuovo problema per chi si trova dietro al bersaglio?",
+      "steps": [
+        "Individuare origine e punto d’arrivo di un oggetto su una tavola.",
+        "Svolgere il compito guidato su un bersaglio preparato.",
+        "Confrontare risultato previsto ed effetti sullo spazio vicino."
+      ],
+      "question": "Perché spostare un bersaglio non significa necessariamente aver risolto il rischio?",
+      "answer": "Perché il movimento può trasferire il pericolo verso altri o creare ostacoli non previsti.",
+      "source": "Catalogo del corso · Flipendo; confronto con il repertorio di D.C.A.O.",
+      "spell": "Flipendo"
+    },
+    {
+      "year": 1,
+      "meeting": 4,
+      "week": 2,
+      "title": "Rictusempra",
+      "subtitle": "Distrazione e interruzione",
+      "theory": [
+        "Provoca solletico nel bersaglio, interferendo con la sua capacità di mantenere la concentrazione. La formula, già assegnata al primo anno, permette di studiare come una sensazione imposta possa interferire con l’azione. Il solletico non rende il suo uso su una persona un gioco privo di conseguenze.",
+        "La distrazione è una conseguenza dell’effetto sul bersaglio; non equivale a controllarne la mente o a imporne ogni movimento.",
+        "La lezione distingue riconoscimento dell’effetto e prova pratica. Non si ricercano reazioni umilianti né si insiste per ottenere una risposta più vistosa. Il docente stabilisce se e come mostrare il fenomeno; gli allievi analizzano il rapporto tra sensazione, concentrazione e ambiente."
+      ],
+      "notions": [
+        [
+          "Sensazione",
+          "Il solletico è l’effetto centrale, non un controllo generale della mente."
+        ],
+        [
+          "Interruzione",
+          "Distrarre e immobilizzare non sono azioni equivalenti."
+        ],
+        [
+          "Rispetto",
+          "La risata osservata non dimostra un consenso all’esecuzione."
+        ]
+      ],
+      "opening": "Il fatto che qualcuno rida dimostra che desideri continuare la prova?",
+      "steps": [
+        "Descrivere l’effetto senza attribuirgli automaticamente innocuità.",
+        "Confrontarlo con uno spostamento prodotto da Flipendo.",
+        "Raccogliere il ripasso delle tre formule del primo anno e dei loro scopi diversi."
+      ],
+      "question": "Rictusempra garantisce che il bersaglio non possa più agire?",
+      "answer": "No. Un’interferenza con la concentrazione non equivale a un’immobilizzazione completa.",
+      "source": "Catalogo del corso · Rictusempra; confronto con il repertorio di D.C.A.O.",
+      "spell": "Rictusempra"
+    },
+    {
+      "year": 2,
+      "meeting": 1,
+      "week": 1,
+      "title": "Expelliarmus",
+      "subtitle": "Il disarmo come risultato circoscritto",
+      "theory": [
+        "Disarma il bersaglio, facendogli perdere la presa sulla bacchetta o sull’oggetto interessato dall’effetto. La nozione centrale riguarda la perdita della presa. Si distingue dal ferimento e dalla cessazione automatica di ogni capacità di reagire.",
+        "Disarmare e ferire sono compiti distinti. Nel ragionamento difensivo conta interrompere l’azione avversaria e riconoscere la perdita della presa.",
+        "Il docente prepara una prova su un supporto inanimato o una dimostrazione concordata. Il giudizio non si ferma all’oggetto lasciato cadere: occorre osservare chi sia presente, dove finisca e quale possibilità di allontanamento si apra. Disarmare non conferisce il controllo totale della situazione."
+      ],
+      "notions": [
+        [
+          "Presa",
+          "È il rapporto tra il bersaglio e l’oggetto che impugna."
+        ],
+        [
+          "Esito",
+          "La perdita della bacchetta non è sinonimo di svenimento."
+        ],
+        [
+          "Spazio",
+          "Anche l’oggetto allontanato entra nella valutazione del risultato."
+        ]
+      ],
+      "opening": "Un avversario disarmato ha necessariamente perso ogni possibilità di movimento?",
+      "steps": [
+        "Individuare l’obiettivo del disarmo in una scena immaginaria.",
+        "Distinguere perdita della presa e condizioni della persona.",
+        "Indicare quale osservazione serva prima di considerare concluso il problema."
+      ],
+      "question": "Disarmo e immobilizzazione sono lo stesso effetto?",
+      "answer": "No. Il disarmo riguarda la presa sull’oggetto, non ogni movimento o capacità del bersaglio.",
+      "source": "Catalogo del corso · Expelliarmus; confronto con il repertorio di D.C.A.O.",
+      "spell": "Expelliarmus"
+    },
+    {
+      "year": 2,
+      "meeting": 2,
+      "week": 1,
+      "title": "Everte Statum",
+      "subtitle": "Arretramento, equilibrio e conseguenze",
+      "theory": [
+        "Respinge e sbilancia il bersaglio, provocandone un arretramento o una caduta secondo l’esecuzione. Il confronto con Flipendo permette di ragionare su effetti affini senza dichiararli identici per intensità o applicazioni.",
+        "Sbilanciamento e immobilizzazione non coincidono. Un bersaglio spostato può conservare capacità di movimento.",
+        "La spiegazione considera equilibrio e appoggi. Un arretramento può risolvere una vicinanza oppure creare una caduta. Gli allievi lavorano su traiettorie disegnate e bersagli predisposti, senza usare il compagno come misura della forza della formula."
+      ],
+      "notions": [
+        [
+          "Equilibrio",
+          "La posizione del bersaglio influenza le conseguenze del movimento."
+        ],
+        [
+          "Confronto",
+          "Somiglianza del risultato non significa identità di condizioni d’impiego."
+        ],
+        [
+          "Misura",
+          "La distanza richiesta dal compito non coincide con la massima ottenibile."
+        ]
+      ],
+      "opening": "La stessa spinta ha conseguenze uguali su un piano libero e vicino a una scala?",
+      "steps": [
+        "Confrontare due posizioni iniziali su tavola.",
+        "Indicare il movimento previsto e una conseguenza da evitare.",
+        "Motivare la scelta senza attribuire portata o potenza numerica alla formula."
+      ],
+      "question": "Perché un arretramento corretto nella direzione può essere comunque inadatto?",
+      "answer": "Perché appoggi, ostacoli e persone vicine possono rendere pericoloso il punto d’arrivo.",
+      "source": "Catalogo del corso · Everte Statum; confronto con il repertorio di D.C.A.O.",
+      "spell": "Everte Statum"
+    },
+    {
+      "year": 2,
+      "meeting": 3,
+      "week": 2,
+      "title": "Tarantallegra",
+      "subtitle": "Movimento imposto degli arti inferiori",
+      "theory": [
+        "Costringe le gambe del bersaglio a un movimento incontrollato simile a una danza. Il risultato viene studiato come interferenza con il controllo delle gambe. Il nome scherzoso non cancella il carattere imposto dell’effetto.",
+        "L’effetto riguarda il movimento imposto degli arti; si distingue dal semplice sbilanciamento e non implica il controllo generale della persona.",
+        "La lezione è un confronto descrittivo guidato. Un movimento incontrollato può aumentare il rischio di urti e cadute; non si trasforma quindi la dimostrazione in un’esibizione tra compagni. Il compito consiste nel riconoscere quale parte del corpo sia coinvolta e quale controllo rimanga non dimostrato."
+      ],
+      "notions": [
+        [
+          "Ambito",
+          "L’effetto descritto riguarda le gambe, non ogni azione della persona."
+        ],
+        [
+          "Appoggio",
+          "Il movimento imposto cambia le condizioni dell’equilibrio."
+        ],
+        [
+          "Interpretazione",
+          "Un gesto prodotto dalla magia non prova un’intenzione del bersaglio."
+        ]
+      ],
+      "opening": "Una danza involontaria può essere descritta come una scelta della persona?",
+      "steps": [
+        "Confrontare movimento volontario e movimento imposto in due descrizioni.",
+        "Indicare quali conseguenze dipendano dal luogo.",
+        "Distinguere questa formula da disarmo e arretramento."
+      ],
+      "question": "Tarantallegra dimostra un controllo completo sulla persona?",
+      "answer": "No. Si descrive l’effetto sugli arti inferiori senza dedurne altri poteri.",
+      "source": "Catalogo del corso · Tarantallegra; confronto con il repertorio di D.C.A.O.",
+      "spell": "Tarantallegra"
+    },
+    {
+      "year": 2,
+      "meeting": 4,
+      "week": 2,
+      "title": "Lo spazio della difesa",
+      "subtitle": "Leggere il luogo prima della formula",
+      "theory": [
+        "Una situazione difensiva comprende persone, accessi e ostacoli. Il risultato utile non è sempre colpire un bersaglio: può essere mantenere libero un passaggio o permettere a qualcuno di raggiungere un docente.",
+        "Un oggetto spostato, una persona sbilanciata o una bacchetta lasciata cadere entrano nello stesso ambiente. La successione delle formule va quindi confrontata con le conseguenze dei passaggi precedenti.",
+        "L’attività conclusiva del secondo anno propone un caso immaginario. Si sceglie un obiettivo circoscritto e si giustificano gli interventi evitati. Usare meno formule può rendere più chiara e controllabile una soluzione."
+      ],
+      "notions": [
+        [
+          "Accesso",
+          "Un passaggio serve solo se rimane utilizzabile."
+        ],
+        [
+          "Conseguenza",
+          "Ogni intervento modifica le condizioni della scelta successiva."
+        ],
+        [
+          "Necessità",
+          "Saper eseguire una formula non dimostra che occorra usarla."
+        ]
+      ],
+      "opening": "Un risultato appariscente è utile se impedisce agli altri di allontanarsi?",
+      "steps": [
+        "Disegnare una scena con due persone e un passaggio.",
+        "Scegliere un solo effetto adeguato al primo problema.",
+        "Spiegare che cosa sia cambiato e quale azione non serva più."
+      ],
+      "question": "Perché una sequenza lunga non è automaticamente una difesa migliore?",
+      "answer": "Perché ogni passaggio può aggiungere conseguenze e incertezze. Conta il risultato necessario, non il numero delle formule.",
+      "source": "Percorso difensivo rielaborato dai materiali di riferimento.",
+      "spell": null
+    },
+    {
+      "year": 3,
+      "meeting": 1,
+      "week": 1,
+      "title": "Petrificus",
+      "subtitle": "Immobilizzazione e stato del bersaglio",
+      "theory": [
+        "Nel catalogo indica la formula di immobilizzazione del corpo. Il bersaglio viene irrigidito e limitato nei movimenti. Il volume conserva la denominazione presente nel catalogo della scuola. Il concetto centrale è il vincolo del movimento, distinto da una trasformazione del materiale.",
+        "Si conserva il nome mostrato dalla scuola. Immobilizzazione, perdita di coscienza e trasformazione in pietra sono concetti diversi.",
+        "La trattazione chiarisce che immobilità, perdita di coscienza e cessazione delle percezioni non sono equivalenti. La pratica su persone non viene presunta dal testo: il docente sceglie dimostrazione e condizioni. Non si aggiungono varianti, durate o contromisure non comprese nel catalogo adottato."
+      ],
+      "notions": [
+        [
+          "Movimento",
+          "Un corpo che non può muoversi non è per questo diventato pietra."
+        ],
+        [
+          "Coscienza",
+          "L’assenza di movimento non dimostra incoscienza."
+        ],
+        [
+          "Assistenza",
+          "Riconoscere l’effetto è diverso dal saperne gestire ogni conseguenza."
+        ]
+      ],
+      "opening": "Una persona immobile è necessariamente inconsapevole di ciò che accade?",
+      "steps": [
+        "Classificare tre descrizioni: movimento bloccato, svenimento e trasformazione materiale.",
+        "Indicare quali siano sostenute dalla definizione della formula.",
+        "Descrivere il risultato senza inventare la durata."
+      ],
+      "question": "Il nome della formula giustifica parlare di una trasformazione in pietra?",
+      "answer": "No. Il corso descrive immobilizzazione e irrigidimento, senza dedurre un cambiamento materiale dal nome.",
+      "source": "Catalogo del corso · Petrificus; confronto con il repertorio di D.C.A.O.",
+      "spell": "Petrificus"
+    },
+    {
+      "year": 3,
+      "meeting": 2,
+      "week": 1,
+      "title": "Colloshoo",
+      "subtitle": "Il vincolo degli appoggi",
+      "theory": [
+        "Incolla o fissa le scarpe del bersaglio al terreno, ostacolandone lo spostamento. Si studia la differenza tra bloccare le scarpe e limitare l’intero corpo. La grafia segue la voce del catalogo, anche quando i testi di partenza ne riportano varianti.",
+        "Un vincolo agli appoggi non equivale all’immobilizzazione di tutto il corpo. Il punto sul quale agisce l’effetto aiuta a classificarlo.",
+        "Il confronto riguarda il rapporto tra appoggi e equilibrio. Se i piedi rimangono fermi mentre il corpo si muove, il problema non si riduce a un mancato avanzamento. La lezione usa schemi e supporti predisposti dal docente; gli allievi non sperimentano vincoli inattesi sui compagni."
+      ],
+      "notions": [
+        [
+          "Appoggio",
+          "Il punto d’azione è essenziale per distinguere la formula da un’immobilizzazione generale."
+        ],
+        [
+          "Corpo",
+          "Le parti non vincolate possono continuare a muoversi."
+        ],
+        [
+          "Ambiente",
+          "Una limitazione dello spostamento va giudicata rispetto al luogo."
+        ]
+      ],
+      "opening": "Fissare i piedi e bloccare tutto il corpo sono descrizioni intercambiabili?",
+      "steps": [
+        "Indicare su uno schema il punto nel quale agisce il vincolo.",
+        "Confrontare il caso con Petrificus.",
+        "Formulare una descrizione che non aggiunga effetti alle altre parti del corpo."
+      ],
+      "question": "Colloshoo rende automaticamente immobile ogni parte del bersaglio?",
+      "answer": "No. Il vincolo descritto riguarda gli appoggi, non ogni movimento.",
+      "source": "Catalogo del corso · Colloshoo; confronto con il repertorio di D.C.A.O.",
+      "spell": "Colloshoo"
+    },
+    {
+      "year": 3,
+      "meeting": 3,
+      "week": 2,
+      "title": "Riddikulus",
+      "subtitle": "Il Molliccio e la forma della paura",
+      "theory": [
+        "Contrasta un Molliccio trasformandone l’apparenza in qualcosa di comico, sostenuto dall’immaginazione di chi lo affronta. Il Molliccio assume una forma legata alla paura di chi lo affronta. Il suo aspetto non dimostra che sia davvero presente la persona o la creatura imitata.",
+        "Il rapporto fra paura, immagine mentale e comicità è centrale. La formula non è una trasformazione universale di qualunque creatura.",
+        "La lezione prepara immagini comiche su casi immaginari, senza imporre racconti personali. La presenza del docente e il sostegno del gruppo fanno parte della dimostrazione. Ridere della trasformazione non significa deridere il compagno che prova paura."
+      ],
+      "notions": [
+        [
+          "Molliccio",
+          "La forma osservata dipende dall’incontro e non definisce un aspetto stabile noto."
+        ],
+        [
+          "Immaginazione",
+          "Il risultato richiede una trasformazione comica riconoscibile."
+        ],
+        [
+          "Rispetto",
+          "Il lavoro in aula non richiede di esporre una paura privata."
+        ]
+      ],
+      "opening": "Un’immagine spaventosa dimostra che l’essere imitato sia realmente presente?",
+      "steps": [
+        "Scegliere una figura immaginaria, senza riferirsi a paure dei compagni.",
+        "Proporne una trasformazione comica chiara.",
+        "Distinguere la nozione dal diritto di affrontare da soli un Molliccio."
+      ],
+      "question": "Riddikulus è una trasformazione universale di qualunque creatura?",
+      "answer": "No. Il corso la collega al Molliccio e al rapporto fra paura e immaginazione.",
+      "source": "Catalogo del corso · Riddikulus; confronto con il repertorio di D.C.A.O.",
+      "spell": "Riddikulus"
+    },
+    {
+      "year": 3,
+      "meeting": 4,
+      "week": 2,
+      "title": "Creature e false impressioni",
+      "subtitle": "Ghoul, piccoli esseri e grandi rischi",
+      "theory": [
+        "Un aspetto sgradevole non misura da solo la pericolosità. Il repertorio presenta il Ghoul come un frequentatore di solai e granai che può fare rumore e spostare oggetti, senza essere per questo una minaccia equivalente a ogni creatura oscura.",
+        "Piccole creature capaci di mordere o provocare disordine richiedono attenzione alla specie e al contesto. Un gruppo di osservatori può complicare un intervento. Non si deduce dalla taglia ridotta che sia opportuno catturare o affrontare l’animale.",
+        "Il confronto con creature molto forti, come i troll, mette in luce un limite comune: riconoscere un possibile pericolo non conferisce la competenza per risolverlo. Si documentano indizi e condizioni, evitando prove di coraggio e formule scelte soltanto per la loro intensità."
+      ],
+      "notions": [
+        [
+          "Aspetto",
+          "Non è una classificazione affidabile del rischio."
+        ],
+        [
+          "Identificazione",
+          "Una descrizione incerta resta tale finché mancano riscontri."
+        ],
+        [
+          "Competenza",
+          "Il riconoscimento aiuta a richiedere l’intervento adatto."
+        ]
+      ],
+      "opening": "Una creatura rumorosa è necessariamente più pericolosa di una silenziosa?",
+      "steps": [
+        "Confrontare descrizioni di Ghoul e troll senza incontrare animali reali.",
+        "Elencare indizi osservabili e supposizioni.",
+        "Concludere il terzo anno motivando quando interrompere l’osservazione."
+      ],
+      "question": "Perché il solo aspetto non basta?",
+      "answer": "Perché comportamento, capacità, numero e condizioni dell’incontro possono pesare più dell’impressione iniziale.",
+      "source": "Percorso difensivo rielaborato dai materiali di riferimento.",
+      "spell": null
+    },
+    {
+      "year": 4,
+      "meeting": 1,
+      "week": 1,
+      "title": "Expulso",
+      "subtitle": "L’effetto esplosivo e ciò che lo circonda",
+      "theory": [
+        "Produce un effetto esplosivo sul bersaglio o nel punto colpito. La formula viene introdotta per comprenderne la natura e le conseguenze sull’ambiente. Non è presentata come semplice alternativa a una spinta controllata.",
+        "Esplosione e spinta direzionale non sono equivalenti. La descrizione generale non stabilisce raggio, danno o materiali coinvolti nella versione della scuola.",
+        "Il luogo modifica l’esito: superfici, oggetti e persone vicine possono essere coinvolti. La lezione è soprattutto progettuale e dimostrativa, con condizioni decise dal docente. Gli studenti non deducono raggio, danno o comportamento della versione disponibile dal solo nome della formula."
+      ],
+      "notions": [
+        [
+          "Esplosione",
+          "Non coincide con un trasporto ordinato del bersaglio."
+        ],
+        [
+          "Ambiente",
+          "Il punto interessato non è l’unico elemento da considerare."
+        ],
+        [
+          "Limite",
+          "La descrizione non assegna valori numerici o capacità ulteriori."
+        ]
+      ],
+      "opening": "Un effetto sul bersaglio può coinvolgere anche ciò che non si intendeva colpire?",
+      "steps": [
+        "Segnare su una tavola bersaglio e presenze vicine.",
+        "Indicare una condizione che renda la scelta inadeguata.",
+        "Confrontare l’effetto con un impulso già studiato."
+      ],
+      "question": "Perché Expulso non va descritto come una semplice spinta più forte?",
+      "answer": "Perché la natura esplosiva richiede una valutazione distinta delle conseguenze sul luogo.",
+      "source": "Catalogo del corso · Expulso; confronto con il repertorio di D.C.A.O.",
+      "spell": "Expulso"
+    },
+    {
+      "year": 4,
+      "meeting": 2,
+      "week": 1,
+      "title": "Confringo",
+      "subtitle": "Potenza e responsabilità del risultato",
+      "theory": [
+        "Provoca un’esplosione nel punto o sul bersaglio raggiunto dalla formula. Si conserva la distinzione tra descrizione di un effetto offensivo e decisione di impiegarlo. La sua presenza nel programma non autorizza prove libere sull’ambiente.",
+        "Va distinto da Incendio, studiato per la produzione di fuoco. La classificazione offensiva e le condizioni d’impiego appartengono alla lezione di D.C.A.O.",
+        "Il confronto con Expulso non introduce differenze numeriche che i materiali non stabiliscono. Entrambe le voci richiedono di ragionare su ciò che può essere coinvolto oltre al bersaglio. La riuscita difensiva non coincide con il danno più grande possibile."
+      ],
+      "notions": [
+        [
+          "Riconoscimento",
+          "Il punto dell’impatto e gli effetti sull’ambiente vanno descritti separatamente."
+        ],
+        [
+          "Confronto",
+          "Due formule affini non si distinguono inventando portate o potenziamenti."
+        ],
+        [
+          "Scopo",
+          "L’obiettivo di protezione deve restare riconoscibile."
+        ]
+      ],
+      "opening": "Distruggere un ostacolo risolve il problema se blocca l’unico accesso disponibile?",
+      "steps": [
+        "Analizzare una scena immaginaria con un ostacolo e un passaggio.",
+        "Valutare una conseguenza dell’effetto che comprometta l’obiettivo.",
+        "Proporre quali informazioni servano prima di una dimostrazione."
+      ],
+      "question": "Un danno maggiore dimostra una difesa migliore?",
+      "answer": "No. Si giudica la corrispondenza con l’obiettivo e le conseguenze per le persone e il luogo.",
+      "source": "Catalogo del corso · Confringo; confronto con il repertorio di D.C.A.O.",
+      "spell": "Confringo"
+    },
+    {
+      "year": 4,
+      "meeting": 3,
+      "week": 2,
+      "title": "Gli oggetti sospetti",
+      "subtitle": "Non verificare un pericolo toccandolo",
+      "theory": [
+        "Un oggetto insolito può richiedere cautela senza essere automaticamente maledetto. Provenienza, cambiamenti osservati e testimonianze aiutano il docente a ricostruire il problema.",
+        "La curiosità non costituisce un metodo di verifica. Toccare, spostare o tentare formule casuali può modificare la situazione e rendere più difficile comprenderla. Si conserva la distinzione tra ciò che è stato visto e l’ipotesi di un effetto ostile.",
+        "Il lavoro scolastico è un resoconto: dove si trova l’oggetto, chi vi è entrato in contatto e quali cambiamenti siano stati osservati. La rimozione e l’esame appartengono a persone competenti. Una precauzione può essere motivata anche prima di una conclusione certa."
+      ],
+      "notions": [
+        [
+          "Provenienza",
+          "Una storia riferita non equivale a una verifica dell’oggetto."
+        ],
+        [
+          "Osservazione",
+          "Le condizioni iniziali servono anche a capire che cosa sia cambiato."
+        ],
+        [
+          "Intervento",
+          "Documentare e richiedere assistenza sono compiti diversi dall’esame specialistico."
+        ]
+      ],
+      "opening": "Bisogna toccare un oggetto per dimostrare che una segnalazione sia seria?",
+      "steps": [
+        "Leggere un caso immaginario con informazioni incomplete.",
+        "Preparare un rapporto con fatti e dubbi distinti.",
+        "Indicare una verifica che non spetti agli studenti."
+      ],
+      "question": "La prudenza richiede necessariamente una diagnosi già certa?",
+      "answer": "No. Può essere motivata da elementi sufficienti a richiedere una valutazione competente, senza inventarne l’esito.",
+      "source": "Percorso difensivo rielaborato dai materiali di riferimento.",
+      "spell": null
+    },
+    {
+      "year": 4,
+      "meeting": 4,
+      "week": 2,
+      "title": "Il lavoro a coppie",
+      "subtitle": "Comunicare senza moltiplicare gli interventi",
+      "theory": [
+        "Due persone non aiutano necessariamente di più se cercano entrambe di agire sullo stesso bersaglio. Ruoli, indicazioni e possibilità di sospendere una prova devono essere chiari prima di iniziare.",
+        "Il compagno può osservare accessi, persone vicine e cambiamenti che chi esegue la dimostrazione non sta seguendo. La comunicazione deve riferire fatti utili, non soltanto esclamazioni o ordini sovrapposti.",
+        "Il quarto anno si conclude su una sequenza immaginaria limitata. Si decide quando una formula sia sufficiente e quale riscontro serva prima di proseguire. La collaborazione comprende anche non aggiungere un effetto che renda il risultato meno leggibile."
+      ],
+      "notions": [
+        [
+          "Ruoli",
+          "Separare osservazione, comunicazione ed esecuzione chiarisce le responsabilità."
+        ],
+        [
+          "Riscontro",
+          "Un secondo intervento non deve nascondere il risultato del primo."
+        ],
+        [
+          "Sospensione",
+          "Fermare una prova quando cambiano le condizioni è parte del controllo."
+        ]
+      ],
+      "opening": "Due formule contemporanee rendono sempre più facile capire ciò che è accaduto?",
+      "steps": [
+        "Distribuire due ruoli in un caso senza esecuzione reale.",
+        "Stabilire il segnale di sospensione e il primo risultato da osservare.",
+        "Confrontare la sequenza con una versione che aggiunga interventi superflui."
+      ],
+      "question": "Perché il compagno non deve limitarsi a imitare l’altro?",
+      "answer": "Perché può svolgere un compito diverso e fornire informazioni che migliorino il giudizio comune.",
+      "source": "Percorso difensivo rielaborato dai materiali di riferimento.",
+      "spell": null
+    },
+    {
+      "year": 5,
+      "meeting": 1,
+      "week": 1,
+      "title": "Confundo",
+      "subtitle": "La lucidità e le sue alterazioni",
+      "theory": [
+        "Confonde il bersaglio, alterandone temporaneamente la lucidità o la valutazione della situazione. Si distingue l’effetto descritto da una semplice distrazione dovuta al contesto. Un comportamento insolito non basta a identificarne la causa.",
+        "Confusione, cancellazione della memoria e controllo delle azioni non sono lo stesso effetto. Occorre descrivere il cambiamento effettivamente osservato.",
+        "La lezione affronta riconoscimento e confronto teorico. Non prevede prove segrete sulla lucidità dei compagni. Si ricostruiscono condizioni, cambiamenti e limiti del resoconto, senza dichiarare che ogni esitazione dimostri un’influenza magica."
+      ],
+      "notions": [
+        [
+          "Lucidità",
+          "La valutazione della situazione può essere alterata senza cancellare i ricordi."
+        ],
+        [
+          "Indizio",
+          "Una variazione osservata non identifica automaticamente una formula."
+        ],
+        [
+          "Rispetto",
+          "La spiegazione di un effetto non autorizza esperimenti non concordati."
+        ]
+      ],
+      "opening": "Una persona esitante è necessariamente sotto l’effetto di Confundo?",
+      "steps": [
+        "Confrontare una distrazione ordinaria e un caso descritto dal docente.",
+        "Elencare i fatti disponibili senza scegliere subito una causa.",
+        "Indicare quali informazioni aiuterebbero la valutazione."
+      ],
+      "question": "Confusione e cancellazione della memoria sono la stessa cosa?",
+      "answer": "No. Riguardano aspetti differenti e non vanno dedotti l’uno dall’altro.",
+      "source": "Catalogo del corso · Confundo; confronto con il repertorio di D.C.A.O.",
+      "spell": "Confundo"
+    },
+    {
+      "year": 5,
+      "meeting": 2,
+      "week": 1,
+      "title": "Fireball",
+      "subtitle": "Una denominazione da chiarire prima dell’uso",
+      "theory": [
+        "Il nome Fireball richiama una sfera di fuoco. Il repertorio disponibile non ne stabilisce però il comportamento specifico. La voce rimane nel repertorio del corso; il suo studio è teorico finché il docente non ne precisa l’effetto.",
+        "La denominazione non basta a fissare traiettoria, impatto o differenze da Incendio. Prima di insegnarne l’uso il docente deve confermare la descrizione della versione disponibile.",
+        "La lezione usa la lacuna come esercizio di giudizio. Non si attribuiscono alla formula un’esplosione, una portata, una durata o una capacità particolare contro una creatura. Una denominazione suggerisce una famiglia di effetti ma non documenta ogni dettaglio necessario a una pratica."
+      ],
+      "notions": [
+        [
+          "Nome ed effetto",
+          "Una parola non contiene da sola tutte le condizioni d’impiego."
+        ],
+        [
+          "Conferma",
+          "La descrizione operativa deve precedere una dimostrazione."
+        ],
+        [
+          "Confine disciplinare",
+          "Le altre formule di produzione del fuoco conservano la materia loro assegnata."
+        ]
+      ],
+      "opening": "Una formula il cui nome richiama il fuoco produce necessariamente gli stessi risultati delle altre?",
+      "steps": [
+        "Elencare ciò che il nome permette soltanto di ipotizzare.",
+        "Separarlo dalle informazioni da chiedere al docente.",
+        "Rifiutare di completare la scheda con valori o capacità inventate."
+      ],
+      "question": "Perché la voce non riceve una pratica autonoma descritta nel testo?",
+      "answer": "Perché il funzionamento specifico non è documentato dai materiali disponibili. Prima della pratica serve una descrizione confermata.",
+      "source": "Catalogo del corso · Fireball; confronto con il repertorio di D.C.A.O.",
+      "spell": "Fireball"
+    },
+    {
+      "year": 5,
+      "meeting": 3,
+      "week": 2,
+      "title": "La licantropia",
+      "subtitle": "Una condizione e un pericolo da distinguere",
+      "theory": [
+        "La licantropia riguarda una persona soggetta a una trasformazione legata alla luna piena. Il suo studio non consente di attribuire una colpa morale alla condizione né di identificare qualcuno da tratti esteriori generici.",
+        "Riconoscere un rischio durante la trasformazione è diverso dal giudicare ogni aspetto della vita della persona. Il repertorio viene letto con attenzione al contesto, senza retrodatare preparazioni moderne o promettere soluzioni non previste nel 1890.",
+        "La lezione considera informazioni, segnalazione e competenza. Gli allievi non cercano incontri per verificare una diagnosi. Nei casi descritti si distingue la protezione immediata delle persone dal successivo sostegno specialistico."
+      ],
+      "notions": [
+        [
+          "Persona e condizione",
+          "Un rischio circoscritto non descrive l’intera identità della persona."
+        ],
+        [
+          "Informazione",
+          "Una voce o un aspetto insolito non equivalgono a una diagnosi."
+        ],
+        [
+          "Orizzonte",
+          "Il corso resta nel 1890 e non introduce rimedi successivi."
+        ]
+      ],
+      "opening": "Comprendere un pericolo richiede necessariamente di trasformarlo in un pregiudizio?",
+      "steps": [
+        "Separare in un caso immaginario fatti, voci e domande.",
+        "Indicare a chi affidare una valutazione specialistica.",
+        "Distinguere una misura di protezione da un’accusa personale."
+      ],
+      "question": "Si può riconoscere un rischio senza ridurre la persona alla sua condizione?",
+      "answer": "Sì. La precisione riguarda circostanze e fatti, non giudizi generali sul valore della persona.",
+      "source": "Percorso difensivo rielaborato dai materiali di riferimento.",
+      "spell": null
+    },
+    {
+      "year": 5,
+      "meeting": 4,
+      "week": 2,
+      "title": "Il ruolo degli Auror",
+      "subtitle": "Autorità, preparazione e responsabilità",
+      "theory": [
+        "Gli Auror sono professionisti del contrasto alle Arti Oscure. Il loro lavoro richiede preparazione, conoscenza e responsabilità nell’uso delle competenze. Non si riduce alla padronanza degli incantesimi più appariscenti.",
+        "Lo studente e il professionista non hanno lo stesso compito. Un testimone può contribuire con un rapporto preciso e una richiesta tempestiva di assistenza. Questa funzione è diversa dall’inseguire un sospetto o dall’eseguire un intervento specialistico.",
+        "Il quinto anno collega quindi lucidità e limiti dell’azione. Non si inventano poteri, procedure di selezione o autorizzazioni professionali assenti dai materiali. La scuola prepara a comprendere e collaborare; il completamento del volume non assegna una carica."
+      ],
+      "notions": [
+        [
+          "Competenza",
+          "Una formazione specialistica si distingue da una conoscenza scolastica generale."
+        ],
+        [
+          "Testimonianza",
+          "Riferire ciò che si sa è diverso dal formulare una conclusione investigativa."
+        ],
+        [
+          "Responsabilità",
+          "Una carica non rende superfluo motivare e controllare le proprie decisioni."
+        ]
+      ],
+      "opening": "Una segnalazione precisa può essere più utile di un intervento improvvisato?",
+      "steps": [
+        "Preparare un rapporto immaginario con luogo, tempo e persone presenti.",
+        "Eliminare le supposizioni presentate come fatti.",
+        "Concludere il ripasso del quinto anno indicando il limite del compito scolastico."
+      ],
+      "question": "Studiare D.C.A.O. equivale a diventare Auror?",
+      "answer": "No. Il corso fornisce basi; ruolo, preparazione professionale e autorizzazioni sono questioni differenti.",
+      "source": "Percorso difensivo rielaborato dai materiali di riferimento.",
+      "spell": null
+    },
+    {
+      "year": 6,
+      "meeting": 1,
+      "week": 1,
+      "title": "Obliviate",
+      "subtitle": "La memoria come ambito distinto",
+      "theory": [
+        "Interviene sui ricordi del bersaglio, cancellando o alterando la memoria interessata dall’effetto. La voce viene affrontata per comprenderne l’effetto e riconoscere i limiti del sapere disponibile. Non si presenta una procedura per intervenire sui ricordi dei compagni.",
+        "La memoria si distingue dall’attenzione momentanea. È una materia avanzata: la semplice confusione non dimostra che un ricordo sia stato rimosso.",
+        "Una lacuna di memoria non rivela da sola chi o che cosa l’abbia provocata. La trattazione richiede di separare ciò che la persona riferisce, le osservazioni esterne e le ipotesi. Le decisioni su un possibile intervento appartengono a figure competenti, non a esperimenti scolastici."
+      ],
+      "notions": [
+        [
+          "Memoria",
+          "Si distingue dalla sola attenzione o dalla confusione del momento."
+        ],
+        [
+          "Attribuzione",
+          "Un effetto sospettato non identifica automaticamente una formula o un responsabile."
+        ],
+        [
+          "Competenza",
+          "Il riconoscimento teorico non autorizza modifiche dei ricordi."
+        ]
+      ],
+      "opening": "Una dimenticanza permette di indicare subito una causa magica?",
+      "steps": [
+        "Confrontare due descrizioni con informazioni insufficienti.",
+        "Separare memoria riferita, fatti osservati e interpretazioni.",
+        "Indicare le domande utili senza formulare una diagnosi certa."
+      ],
+      "question": "Un vuoto di memoria è una prova sufficiente dell’uso di Obliviate?",
+      "answer": "No. Per attribuire la causa servono elementi ulteriori e una valutazione competente.",
+      "source": "Catalogo del corso · Obliviate; confronto con il repertorio di D.C.A.O.",
+      "spell": "Obliviate"
+    },
+    {
+      "year": 6,
+      "meeting": 2,
+      "week": 1,
+      "title": "Gli Inferi",
+      "subtitle": "Animazione e vita non sono la stessa cosa",
+      "theory": [
+        "Un Inferius è un corpo morto mosso da magia oscura. Non è una persona tornata alla propria vita né un fantasma. La distinzione riguarda origine, autonomia e natura del pericolo.",
+        "La descrizione dell’assenza di dolore o paura non va usata per progettare prove su un corpo sospetto. Un cadavere immobile e un luogo isolato non dimostrano da soli la presenza di un Inferius. La valutazione richiede persone competenti.",
+        "Il riferimento collega il fuoco al contrasto di queste entità. Questa nozione non autorizza a usare indiscriminatamente fiamme ed esplosioni: il luogo e le persone presenti rimangono parte del problema. Gli studenti analizzano scenari teorici, senza apprendere pratiche di animazione."
+      ],
+      "notions": [
+        [
+          "Origine",
+          "Il movimento imposto non dimostra la restituzione di vita e coscienza."
+        ],
+        [
+          "Riconoscimento",
+          "Un indizio va confrontato con altri dati, senza verifiche improvvisate."
+        ],
+        [
+          "Ambiente",
+          "Un elemento efficace contro una minaccia può compromettere il luogo."
+        ]
+      ],
+      "opening": "Una proprietà utile in astratto è necessariamente adatta a ogni ambiente?",
+      "steps": [
+        "Separare nelle descrizioni fantasma, persona vivente e corpo animato.",
+        "Individuare un limite a un intervento con il fuoco in un caso immaginario.",
+        "Riferire il possibile rischio senza descrivere procedure di animazione."
+      ],
+      "question": "Il movimento di un corpo dimostra che sia tornata la persona che era?",
+      "answer": "No. Nell’Inferius si studia un’animazione imposta, distinta dal ritorno alla vita.",
+      "source": "Percorso difensivo rielaborato dai materiali di riferimento.",
+      "spell": null
+    },
+    {
+      "year": 6,
+      "meeting": 3,
+      "week": 2,
+      "title": "La difesa non verbale",
+      "subtitle": "Un modo di esecuzione, non una formula nuova",
+      "theory": [
+        "Eseguire senza pronunciare la formula richiede intenzione e disciplina. La magia non verbale non è assenza di pensiero e non coincide con il semplice silenzio dell’ambiente.",
+        "Il confronto usa una formula già conosciuta, come Protego, senza presumere che ogni allievo sappia riprodurla nello stesso modo. Una riuscita verbale non dimostra automaticamente la padronanza non verbale.",
+        "La lezione resta legata alla preparazione riconosciuta dal docente. Non introduce formule fuori catalogo né un potenziamento generale. Il giudizio deve riferire che cosa sia stato realmente mostrato e quale modo di esecuzione resti da apprendere."
+      ],
+      "notions": [
+        [
+          "Esecuzione",
+          "Il modo di usare una formula si distingue dalla sua identità."
+        ],
+        [
+          "Concentrazione",
+          "La difficoltà nuova riguarda il controllo mentale richiesto."
+        ],
+        [
+          "Riscontro",
+          "Il silenzio non prova da solo che sia stato prodotto un effetto magico."
+        ]
+      ],
+      "opening": "Muovere una bacchetta senza parlare equivale a saper eseguire una difesa non verbale?",
+      "steps": [
+        "Descrivere la differenza tra conoscenza della formula ed esecuzione.",
+        "Osservare solo una dimostrazione autorizzata.",
+        "Indicare quale risultato permetta di parlare di una riuscita verificata."
+      ],
+      "question": "La magia non verbale è automaticamente una versione più potente di ogni formula?",
+      "answer": "No. È un modo di esecuzione e non conferisce capacità ulteriori non dimostrate.",
+      "source": "Percorso difensivo rielaborato dai materiali di riferimento.",
+      "spell": null
+    },
+    {
+      "year": 6,
+      "meeting": 4,
+      "week": 2,
+      "title": "Proteggere anche gli altri",
+      "subtitle": "Dalla reazione individuale alla consegna",
+      "theory": [
+        "Una situazione può coinvolgere persone con possibilità differenti di reagire. Il giudizio deve considerare il compagno in difficoltà e non soltanto la propria posizione.",
+        "La comunicazione distingue pericolo osservato, luogo e richiesta. Il supporto non coincide con una diagnosi o con l’impiego autonomo di magie curative. Le competenze delle altre materie restano riconoscibili.",
+        "Il sesto anno si conclude con un caso teorico nel quale il risultato utile sia rendere possibile l’assistenza. Si giustifica un intervento limitato e si indicano le decisioni da affidare al docente o allo specialista."
+      ],
+      "notions": [
+        [
+          "Compito",
+          "Proteggere può significare consentire una consegna, non risolvere ogni aspetto del caso."
+        ],
+        [
+          "Comunicazione",
+          "Un fatto preciso aiuta più di una conclusione non sostenuta."
+        ],
+        [
+          "Confine",
+          "Difesa, cura e indagine richiedono competenze differenti."
+        ]
+      ],
+      "opening": "Una persona senza ferite visibili può avere bisogno di assistenza?",
+      "steps": [
+        "Leggere un caso immaginario di difficoltà dopo un effetto magico.",
+        "Preparare una comunicazione con fatti e limiti.",
+        "Separare il contributo scolastico dalle decisioni specialistiche."
+      ],
+      "question": "Perché chiedere assistenza può essere parte di una buona difesa?",
+      "answer": "Perché permette di affidare ciascun problema alla competenza adatta senza aggravarlo con tentativi non preparati.",
+      "source": "Percorso difensivo rielaborato dai materiali di riferimento.",
+      "spell": null
+    },
+    {
+      "year": 7,
+      "meeting": 1,
+      "week": 1,
+      "title": "Expecto Patronum",
+      "subtitle": "Una protezione che non nasce dall’aggressività",
+      "theory": [
+        "Evoca un Patronus, manifestazione protettiva usata contro i Dissennatori. Una forma corporea può assumere un aspetto animale. L’incanto viene introdotto nel settimo anno, mantenendo distinta la sua manifestazione da un animale naturale e da un’evocazione ordinaria.",
+        "Il Patronus non è un animale naturale evocato con Avis. Il suo studio collega concentrazione e richiamo di un ricordo felice, senza garantire una forma corporea a ogni tentativo.",
+        "Il repertorio distingue forma incorporea e forma corporea. Il corso non garantisce a ogni allievo una figura animale completa né una forma scelta liberamente. La preparazione mentale e il ricordo felice vengono studiati senza richiedere rivelazioni personali alla classe."
+      ],
+      "notions": [
+        [
+          "Manifestazione",
+          "Il Patronus non è un animale naturale trasformato o evocato per la cura."
+        ],
+        [
+          "Preparazione",
+          "Ricordo e concentrazione sostengono la nozione senza garantire un risultato immediato."
+        ],
+        [
+          "Riservatezza",
+          "Un compito mentale non richiede di raccontare alla classe esperienze private."
+        ]
+      ],
+      "opening": "La capacità di una formula offensiva dimostra già la padronanza del Patronus?",
+      "steps": [
+        "Distinguere su tavola manifestazione luminosa e forma corporea.",
+        "Formulare un progetto teorico senza scegliere una specie animale come promessa di riuscita.",
+        "Indicare i limiti della propria preparazione rispetto alla dimostrazione del docente."
+      ],
+      "question": "Conoscere la formula garantisce un Patronus corporeo?",
+      "answer": "No. Il risultato richiede una padronanza avanzata che non deriva dalla sola lettura.",
+      "source": "Catalogo del corso · Expecto Patronum; confronto con il repertorio di D.C.A.O.",
+      "spell": "Expecto Patronum"
+    },
+    {
+      "year": 7,
+      "meeting": 2,
+      "week": 1,
+      "title": "I Dissennatori",
+      "subtitle": "Riconoscere una minaccia diversa dal duello",
+      "theory": [
+        "I Dissennatori sono associati a freddo innaturale e a un profondo impoverimento delle emozioni positive. Il pericolo non si misura soltanto attraverso un colpo fisico o una ferita visibile.",
+        "La minaccia chiamata bacio del Dissennatore riguarda la sottrazione dell’anima. Il tema viene affrontato sul piano teorico, senza dimostrazioni con la creatura. Il Patronus è studiato come difesa specifica, non come proprietà trasferita a ogni scudo.",
+        "Il repertorio menziona anche i Lethifold fra le entità per le quali il Patronus è rilevante. Questo confronto non rende tutte le creature oscure identiche. L’assistenza dopo un’esposizione e la difesa durante l’incontro sono compiti distinti."
+      ],
+      "notions": [
+        [
+          "Effetto",
+          "L’assenza di lesioni non esclude un problema grave."
+        ],
+        [
+          "Specificità",
+          "Una difesa appropriata dipende dalla natura della minaccia."
+        ],
+        [
+          "Assistenza",
+          "Un sostegno dopo l’evento non costituisce una barriera contro la creatura."
+        ]
+      ],
+      "opening": "La mancanza di una ferita rende necessariamente lieve ciò che è accaduto?",
+      "steps": [
+        "Confrontare un rischio fisico e una manifestazione descritta nel repertorio.",
+        "Indicare quale difesa venga collegata ai Dissennatori.",
+        "Separare prevenzione, difesa e successiva assistenza."
+      ],
+      "question": "Protego ed Expecto Patronum possono essere dichiarati intercambiabili?",
+      "answer": "No. Lo scudo generico e il Patronus hanno compiti differenti, da non confondere.",
+      "source": "Percorso difensivo rielaborato dai materiali di riferimento.",
+      "spell": null
+    },
+    {
+      "year": 7,
+      "meeting": 3,
+      "week": 2,
+      "title": "Un caso con più problemi",
+      "subtitle": "Stabilire un ordine e lasciare aperte le domande",
+      "theory": [
+        "Un ambiente può contenere un effetto ostile, un passaggio compromesso e una persona in difficoltà. Una sequenza efficace comincia scegliendo il problema che impedisce gli altri interventi, non la formula più spettacolare.",
+        "Ogni passaggio deve avere un risultato osservabile. Si controlla ciò che è cambiato prima di aggiungere un nuovo effetto. Se il caso richiede competenze che il gruppo non possiede, questo limite entra nella soluzione invece di essere nascosto.",
+        "La prova è progettuale e usa soltanto il repertorio adottato. Non si inventano potenziamenti, combinazioni automatiche o antidoti universali. Le alternative vengono confrontate sulla base di ciò che permettono di ottenere e delle conseguenze prevedibili."
+      ],
+      "notions": [
+        [
+          "Priorità",
+          "Un ordine motivato collega gli interventi, senza considerarli tutti equivalenti."
+        ],
+        [
+          "Verifica",
+          "Ogni risultato deve essere controllato prima della scelta successiva."
+        ],
+        [
+          "Limite",
+          "Riconoscere ciò che non si sa risolvere rende più affidabile il piano."
+        ]
+      ],
+      "opening": "Quando un intervento risolve un problema ma ne crea un altro, che cosa deve cambiare nel progetto?",
+      "steps": [
+        "Disegnare un caso immaginario con tre problemi distinti.",
+        "Scegliere due passaggi e un riscontro per ciascuno.",
+        "Indicare una decisione che richieda assistenza esterna."
+      ],
+      "question": "Una soluzione è incompleta soltanto perché coinvolge un docente competente?",
+      "answer": "No. Può essere corretta proprio perché affida ogni problema alla competenza adatta.",
+      "source": "Percorso difensivo rielaborato dai materiali di riferimento.",
+      "spell": null
+    },
+    {
+      "year": 7,
+      "meeting": 4,
+      "week": 2,
+      "title": "Il giudizio del difensore",
+      "subtitle": "Conoscere, scegliere, rendere conto",
+      "theory": [
+        "La preparazione difensiva non consiste nel desiderio di avere sempre l’ultima parola. Il suo risultato è ridurre un pericolo con un intervento comprensibile e proporzionato alla situazione.",
+        "Il bilancio del corso collega effetti, bersagli e confini. Disarmare non equivale a immobilizzare; confondere non equivale a cancellare un ricordo; manifestare uno scudo non dimostra ogni protezione possibile. Queste distinzioni rendono utile il repertorio.",
+        "L’ultimo incontro raccoglie il ripasso dei sette anni. Lo studente descrive una scelta, ne motiva l’obiettivo e dichiara i propri limiti. Saper interrompere, comunicare e richiedere assistenza appartiene alla stessa disciplina che insegna a usare la bacchetta con controllo."
+      ],
+      "notions": [
+        [
+          "Proporzione",
+          "La scelta deve rispondere al rischio concreto."
+        ],
+        [
+          "Chiarezza",
+          "Il resoconto distingue fatti, intenzioni e risultati."
+        ],
+        [
+          "Responsabilità",
+          "La competenza comprende ciò che si decide di non eseguire."
+        ]
+      ],
+      "opening": "Quale differenza distingue un repertorio memorizzato da una decisione ben motivata?",
+      "steps": [
+        "Scegliere tre formule e descriverne l’effetto con parole proprie.",
+        "Confrontare due risposte a un caso immaginario.",
+        "Concludere indicando un limite e una richiesta di assistenza appropriata."
+      ],
+      "question": "Qual è il traguardo comune dei sette anni?",
+      "answer": "Comprendere gli effetti e scegliere una risposta controllata, senza confondere capacità, necessità e autorizzazione.",
+      "source": "Percorso difensivo rielaborato dai materiali di riferimento.",
+      "spell": null
+    }
+  ]
+}

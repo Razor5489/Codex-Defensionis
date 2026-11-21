@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Protego",
+    "year": 1,
+    "meeting": 2,
+    "effect": "Genera uno scudo magico difensivo, utile a contrastare effetti compatibili con la protezione.",
+    "notions": "Uno scudo non è una garanzia assoluta contro ogni magia. La protezione va distinta dall’attacco e dalla deviazione osservata di un singolo effetto."
+  },
+  {
+    "name": "Flipendo",
+    "year": 1,
+    "meeting": 3,
+    "effect": "Colpisce con un impulso capace di respingere o rovesciare il bersaglio.",
+    "notions": "L’impulso offensivo si distingue dal trasporto controllato di un oggetto. Nella classificazione della scuola la formula appartiene a D.C.A.O."
+  },
+  {
+    "name": "Rictusempra",
+    "year": 1,
+    "meeting": 4,
+    "effect": "Provoca solletico nel bersaglio, interferendo con la sua capacità di mantenere la concentrazione.",
+    "notions": "La distrazione è una conseguenza dell’effetto sul bersaglio; non equivale a controllarne la mente o a imporne ogni movimento."
+  },
+  {
+    "name": "Expelliarmus",
+    "year": 2,
+    "meeting": 1,
+    "effect": "Disarma il bersaglio, facendogli perdere la presa sulla bacchetta o sull’oggetto interessato dall’effetto.",
+    "notions": "Disarmare e ferire sono compiti distinti. Nel ragionamento difensivo conta interrompere l’azione avversaria e riconoscere la perdita della presa."
+  },
+  {
+    "name": "Everte Statum",
+    "year": 2,
+    "meeting": 2,
+    "effect": "Respinge e sbilancia il bersaglio, provocandone un arretramento o una caduta secondo l’esecuzione.",
+    "notions": "Sbilanciamento e immobilizzazione non coincidono. Un bersaglio spostato può conservare capacità di movimento."
+  },
+  {
+    "name": "Tarantallegra",
+    "year": 2,
+    "meeting": 3,
+    "effect": "Costringe le gambe del bersaglio a un movimento incontrollato simile a una danza.",
+    "notions": "L’effetto riguarda il movimento imposto degli arti; si distingue dal semplice sbilanciamento e non implica il controllo generale della persona."
+  },
+  {
+    "name": "Petrificus",
+    "year": 3,
+    "meeting": 1,
+    "effect": "Nel catalogo indica la formula di immobilizzazione del corpo. Il bersaglio viene irrigidito e limitato nei movimenti.",
+    "notions": "Si conserva il nome mostrato dalla scuola. Immobilizzazione, perdita di coscienza e trasformazione in pietra sono concetti diversi."
+  },
+  {
+    "name": "Colloshoo",
+    "year": 3,
+    "meeting": 2,
+    "effect": "Incolla o fissa le scarpe del bersaglio al terreno, ostacolandone lo spostamento.",
+    "notions": "Un vincolo agli appoggi non equivale all’immobilizzazione di tutto il corpo. Il punto sul quale agisce l’effetto aiuta a classificarlo."
+  },
+  {
+    "name": "Riddikulus",
+    "year": 3,
+    "meeting": 3,
+    "effect": "Contrasta un Molliccio trasformandone l’apparenza in qualcosa di comico, sostenuto dall’immaginazione di chi lo affronta.",
+    "notions": "Il rapporto fra paura, immagine mentale e comicità è centrale. La formula non è una trasformazione universale di qualunque creatura."
+  },
+  {
+    "name": "Expulso",
+    "year": 4,
+    "meeting": 1,
+    "effect": "Produce un effetto esplosivo sul bersaglio o nel punto colpito.",
+    "notions": "Esplosione e spinta direzionale non sono equivalenti. La descrizione generale non stabilisce raggio, danno o materiali coinvolti nella versione della scuola."
+  },
+  {
+    "name": "Confringo",
+    "year": 4,
+    "meeting": 2,
+    "effect": "Provoca un’esplosione nel punto o sul bersaglio raggiunto dalla formula.",
+    "notions": "Va distinto da Incendio, studiato per la produzione di fuoco. La classificazione offensiva e le condizioni d’impiego appartengono alla lezione di D.C.A.O."
+  },
+  {
+    "name": "Confundo",
+    "year": 5,
+    "meeting": 1,
+    "effect": "Confonde il bersaglio, alterandone temporaneamente la lucidità o la valutazione della situazione.",
+    "notions": "Confusione, cancellazione della memoria e controllo delle azioni non sono lo stesso effetto. Occorre descrivere il cambiamento effettivamente osservato."
+  },
+  {
+    "name": "Fireball",
+    "year": 5,
+    "meeting": 2,
+    "effect": "Il nome Fireball richiama una sfera di fuoco. Il repertorio disponibile non ne stabilisce però il comportamento specifico.",
+    "notions": "La denominazione non basta a fissare traiettoria, impatto o differenze da Incendio. Prima di insegnarne l’uso il docente deve confermare la descrizione della versione disponibile."
+  },
+  {
+    "name": "Obliviate",
+    "year": 6,
+    "meeting": 1,
+    "effect": "Interviene sui ricordi del bersaglio, cancellando o alterando la memoria interessata dall’effetto.",
+    "notions": "La memoria si distingue dall’attenzione momentanea. È una materia avanzata: la semplice confusione non dimostra che un ricordo sia stato rimosso."
+  },
+  {
+    "name": "Expecto Patronum",
+    "year": 7,
+    "meeting": 1,
+    "effect": "Evoca un Patronus, manifestazione protettiva usata contro i Dissennatori. Una forma corporea può assumere un aspetto animale.",
+    "notions": "Il Patronus non è un animale naturale evocato con Avis. Il suo studio collega concentrazione e richiamo di un ricordo felice, senza garantire una forma corporea a ogni tentativo."
+  }
+]
