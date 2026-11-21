@@ -1,29 +1,27 @@
 # Codex Defensionis
 
-Libro didattico di Difesa contro le Arti Oscure per Hogwarts, Nightfall, ambientazione 1890. Autore fittizio: **Silas Ravenshaw**.
+Libro di Difesa contro le Arti Oscure per Hogwarts, Nightfall, 1890. Autore fittizio: **Silas Ravenshaw**.
 
-**[Apri il libro](https://razor5489.github.io/Codex-Defensionis/)**
+[Apri il libro](https://razor5489.github.io/Codex-Defensionis/)
 
-116 pagine, sette annualità, quattro lezioni per anno: due lezioni a settimana per due settimane. Ogni incontro comprende spiegazione, nozioni, attività e ripasso. Quindici formule nel repertorio. Tema antracite e argento, coerente su copertine e lettore.
+118 pagine, sette anni, 28 lezioni: due a settimana per due settimane per anno. Spiegazioni, nozioni, attività e ripasso; repertorio di 18 formule. Copertine e lettore antracite e argento.
+
+## Programma
+
+La suddivisione annuale e l’ordine seguono il [libro DCAO di riferimento](https://francislake.altervista.org/Libro%20DCAO.php). Al settimo anno il secondo incontro è sostituito da un ripasso sul giudizio difensivo per rispettare l’esclusione richiesta. Le altre 27 lezioni conservano anno e ordine della fonte. Coloshoo, Evertestatum e Verdimillus mantengono le grafie della fonte.
 
 | Anno | Lezioni |
 |---|---|
-| 1 | Leggere una minaccia; Protego; Flipendo; Rictusempra |
-| 2 | Expelliarmus; Everte Statum; Tarantallegra; Lo spazio della difesa |
-| 3 | Petrificus; Colloshoo; Riddikulus; Creature e false impressioni |
-| 4 | Expulso; Confringo; Gli oggetti sospetti; Il lavoro a coppie |
-| 5 | Confundo; Fireball; La licantropia; Il ruolo degli Auror |
-| 6 | Obliviate; Gli Inferi; La difesa non verbale; Proteggere anche gli altri |
-| 7 | Expecto Patronum; I Dissennatori; Un caso con più problemi; Il giudizio del difensore |
+| 1 | Fattura, maleficio e maledizione; Rictusempra; Flipendo; Protego |
+| 2 | Il Molliccio e il potere della paura; Riddikulus; Coloshoo; Verdimillus |
+| 3 | I troll: forza, territorio e prudenza; Tarantallegra; Expelliarmus; Evertestatum |
+| 4 | I licantropi; Le Acromantule; Confundo; Petrificus |
+| 5 | Gli Auror; Diffindo; Incendio; Incarcerous |
+| 6 | I Dissennatori; Gli Inferi; Bombarda; Confringo |
+| 7 | Gli Obscuriali; Il giudizio del difensore; Expulso; Expecto Patronum |
 
-Il primo anno riprende Protego, Flipendo e Rictusempra già svolti. Gli anni successivi sono una proposta didattica, da coordinare con il programma effettivo. La divisione delle materie segue il catalogo scolastico. Fireball conserva una scheda teorica: i dettagli specifici in gioco richiedono conferma.
+Le formule condivise con altre materie vengono affrontate nel loro impiego difensivo. La collocazione nel corso non stabilisce sblocchi o meccaniche del gioco. Testi e attività sono rielaborati, senza riprodurre integralmente i materiali originali. Anche il documento DCAO.pdf fornito dall’utente ha contribuito alla preparazione dell’edizione.
 
-## Materiali di partenza
+## Aggiornamento
 
-Ispirazione: [Libro DCAO di Francis Lake](https://francislake.altervista.org/Libro%20DCAO.php) e documento DCAO.pdf fornito dall’utente. Le lezioni sono rielaborate; non si riproduce il libro originale. La selezione rispetta le esclusioni richieste e l’orizzonte del 1890.
-
-## Modifiche
-
-`content.json` contiene il corso; `spell-index.json` il repertorio. `build-book.py` genera le pagine SVG e aggiorna i dati del lettore. Richiede Python e ReportLab: `python build-book.py`.
-
-Il lettore include ricerca, indice, segnalibro locale, modalità a una o due pagine, tastiera e adattamento allo schermo. GitHub Pages: branch `main`, cartella radice.
+Modificare `content.json` e `spell-index.json`, poi eseguire `python build-book.py` (Python e ReportLab). Il generatore aggiorna SVG e dati incorporati. GitHub Pages: main, radice. Il lettore offre indice, ricerca, segnalibri, una o due pagine e navigazione da tastiera.
