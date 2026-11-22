@@ -4,125 +4,151 @@
     "year": 1,
     "meeting": 2,
     "effect": "Provoca solletico nel bersaglio, interferendo con la sua capacità di mantenere la concentrazione.",
-    "notions": "Il solletico è l’effetto centrale, non un controllo generale della mente."
+    "notions": "Il solletico è l’effetto centrale, non un controllo generale della mente.",
+    "week": 1
   },
   {
     "name": "Flipendo",
     "year": 1,
     "meeting": 3,
     "effect": "Colpisce con un impulso capace di respingere o rovesciare il bersaglio.",
-    "notions": "Produce movimento o rovesciamento, non una guida libera e continua."
+    "notions": "Produce movimento o rovesciamento, non una guida libera e continua.",
+    "week": 2
   },
   {
     "name": "Protego",
     "year": 1,
     "meeting": 4,
     "effect": "Genera uno scudo magico difensivo, utile a contrastare effetti compatibili con la protezione.",
-    "notions": "Uno scudo è una difesa attiva da valutare rispetto all’effetto affrontato."
+    "notions": "Uno scudo è una difesa attiva da valutare rispetto all’effetto affrontato.",
+    "week": 2
   },
   {
     "name": "Riddikulus",
     "year": 2,
     "meeting": 2,
     "effect": "Contrasta un Molliccio trasformandone l’apparenza in qualcosa di comico, sostenuto dall’immaginazione di chi lo affronta.",
-    "notions": "La forma osservata dipende dall’incontro e non definisce un aspetto stabile noto."
+    "notions": "La forma osservata dipende dall’incontro e non definisce un aspetto stabile noto.",
+    "week": 1
   },
   {
     "name": "Coloshoo",
     "year": 2,
-    "meeting": 3,
+    "meeting": 2,
     "effect": "Incolla o fissa le scarpe del bersaglio al terreno, ostacolandone lo spostamento.",
-    "notions": "Il punto d’azione è essenziale per distinguere la formula da un’immobilizzazione generale."
-  },
-  {
-    "name": "Verdimillus",
-    "year": 2,
-    "meeting": 4,
-    "effect": "Produce un lampo di energia verde; nel programma di riferimento il suo studio collega disturbo del bersaglio e osservazione di ciò che è poco visibile..",
-    "notions": "Produce un lampo di energia verde; nel programma di riferimento il suo studio collega disturbo del bersaglio e osservazione di ciò che è poco visibile."
+    "notions": "Il punto d’azione è essenziale per distinguere la formula da un’immobilizzazione generale.",
+    "week": 1
   },
   {
     "name": "Tarantallegra",
+    "year": 2,
+    "meeting": 3,
+    "effect": "Costringe le gambe del bersaglio a un movimento incontrollato simile a una danza.",
+    "notions": "L’effetto descritto riguarda le gambe, non ogni azione della persona.",
+    "week": 2
+  },
+  {
+    "name": "Vermilius",
+    "year": 2,
+    "meeting": 4,
+    "week": 2,
+    "effect": "Nome assegnato dalla scuola a D.C.A.O.; la corrispondenza con il repertorio delle scintille rosse richiede conferma in gioco.",
+    "notions": "Voce distinta da Verdimilius. Nessun valore tecnico o effetto offensivo è presunto."
+  },
+  {
+    "name": "Fireball",
+    "year": 3,
+    "meeting": 1,
+    "week": 1,
+    "effect": "Nome associabile a una sfera di fuoco; il funzionamento della versione in gioco resta da confermare.",
+    "notions": "Trattazione teorica: non si inventano bersaglio, danno, portata o differenze da Incendio."
+  },
+  {
+    "name": "Confundo",
     "year": 3,
     "meeting": 2,
-    "effect": "Costringe le gambe del bersaglio a un movimento incontrollato simile a una danza.",
-    "notions": "L’effetto descritto riguarda le gambe, non ogni azione della persona."
+    "effect": "Confonde il bersaglio, alterandone temporaneamente la lucidità o la valutazione della situazione.",
+    "notions": "La valutazione della situazione può essere alterata senza cancellare i ricordi.",
+    "week": 1
   },
   {
     "name": "Expelliarmus",
     "year": 3,
     "meeting": 3,
     "effect": "Disarma il bersaglio, facendogli perdere la presa sulla bacchetta o sull’oggetto interessato dall’effetto.",
-    "notions": "È il rapporto tra il bersaglio e l’oggetto che impugna."
+    "notions": "È il rapporto tra il bersaglio e l’oggetto che impugna.",
+    "week": 2
   },
   {
     "name": "Evertestatum",
     "year": 3,
     "meeting": 4,
     "effect": "Respinge e sbilancia il bersaglio, provocandone un arretramento o una caduta secondo l’esecuzione.",
-    "notions": "La posizione del bersaglio influenza le conseguenze del movimento."
+    "notions": "La posizione del bersaglio influenza le conseguenze del movimento.",
+    "week": 2
   },
   {
-    "name": "Confundo",
+    "name": "Confringo",
     "year": 4,
     "meeting": 3,
-    "effect": "Confonde il bersaglio, alterandone temporaneamente la lucidità o la valutazione della situazione.",
-    "notions": "La valutazione della situazione può essere alterata senza cancellare i ricordi."
+    "effect": "Provoca un’esplosione nel punto o sul bersaglio raggiunto dalla formula.",
+    "notions": "Il punto dell’impatto e gli effetti sull’ambiente vanno descritti separatamente.",
+    "week": 2
   },
   {
     "name": "Petrificus",
     "year": 4,
     "meeting": 4,
     "effect": "Nel catalogo indica la formula di immobilizzazione del corpo.",
-    "notions": "Un corpo che non può muoversi non è per questo diventato pietra."
+    "notions": "Un corpo che non può muoversi non è per questo diventato pietra.",
+    "week": 2
   },
   {
     "name": "Diffindo",
     "year": 5,
     "meeting": 2,
     "effect": "Produce un taglio sul materiale verso cui è diretto.",
-    "notions": "Produce un taglio sul materiale verso cui è diretto. In un problema difensivo può essere studiato per comprendere come rimuovere un ostacolo, ma il risultato dipende dal bersaglio e da ciò che si trova vicino."
+    "notions": "Produce un taglio sul materiale verso cui è diretto. In un problema difensivo può essere studiato per comprendere come rimuovere un ostacolo, ma il risultato dipende dal bersaglio e da ciò che si trova vicino.",
+    "week": 1
   },
   {
     "name": "Incendio",
     "year": 5,
     "meeting": 3,
     "effect": "Genera una fiamma.",
-    "notions": "Genera una fiamma. La lezione studia l’accensione insieme alle condizioni che possono trasformarla in propagazione: materiali vicini, spazio e possibilità di tenere sotto controllo il risultato."
+    "notions": "Genera una fiamma. La lezione studia l’accensione insieme alle condizioni che possono trasformarla in propagazione: materiali vicini, spazio e possibilità di tenere sotto controllo il risultato.",
+    "week": 2
   },
   {
     "name": "Incarcerous",
     "year": 5,
     "meeting": 4,
     "effect": "Evoca corde che avvolgono il bersaglio e ne limitano i movimenti.",
-    "notions": "Evoca corde che avvolgono il bersaglio e ne limitano i movimenti. Il contenimento è distinto dallo sbilanciamento e dal disarmo: trattenere non significa automaticamente aver concluso il pericolo."
+    "notions": "Evoca corde che avvolgono il bersaglio e ne limitano i movimenti. Il contenimento è distinto dallo sbilanciamento e dal disarmo: trattenere non significa automaticamente aver concluso il pericolo.",
+    "week": 2
   },
   {
     "name": "Bombarda",
     "year": 6,
     "meeting": 3,
     "effect": "Produce un’esplosione sul punto colpito.",
-    "notions": "Produce un’esplosione sul punto colpito. L’effetto può danneggiare un ostacolo, ma coinvolge anche materiali, frammenti e ciò che si trova nelle vicinanze. Non equivale a una separazione precisa come un taglio."
-  },
-  {
-    "name": "Confringo",
-    "year": 6,
-    "meeting": 4,
-    "effect": "Provoca un’esplosione nel punto o sul bersaglio raggiunto dalla formula.",
-    "notions": "Il punto dell’impatto e gli effetti sull’ambiente vanno descritti separatamente."
+    "notions": "Produce un’esplosione sul punto colpito. L’effetto può danneggiare un ostacolo, ma coinvolge anche materiali, frammenti e ciò che si trova nelle vicinanze. Non equivale a una separazione precisa come un taglio.",
+    "week": 2
   },
   {
     "name": "Expulso",
     "year": 7,
     "meeting": 3,
     "effect": "Produce un effetto esplosivo sul bersaglio o nel punto colpito.",
-    "notions": "Non coincide con un trasporto ordinato del bersaglio."
+    "notions": "Non coincide con un trasporto ordinato del bersaglio.",
+    "week": 2
   },
   {
     "name": "Expecto Patronum",
     "year": 7,
     "meeting": 4,
     "effect": "Evoca un Patronus, manifestazione protettiva usata contro i Dissennatori.",
-    "notions": "Il Patronus non è un animale naturale trasformato o evocato per la cura."
+    "notions": "Il Patronus non è un animale naturale trasformato o evocato per la cura.",
+    "week": 2
   }
 ]

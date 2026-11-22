@@ -135,6 +135,11 @@ for yi,y in enumerate(DATA['years']):
         if l['meeting']==4:p.paragraph('Concluso il ciclo di due settimane. '+('Si prosegue con l’anno '+ROMAN[year]+'.' if year<7 else 'Il percorso dei sette anni è concluso.'),9,GOLD)
         add(p);PAGES[-1]['title']=l['title']+' · Attività e ripasso'
 
+p=Leaf('Approfondimento teorico','I troll: forza e territorio','Lettura complementare · Collegamento con il terzo anno')
+for topic in json.loads((ROOT/'supplementary-topics.json').read_text()):
+    for paragraph in topic['theory']:p.paragraph(paragraph,12,leading=18)
+p.box('Il collegamento','Una formula riuscita in un duello fra maghi non dimostra automaticamente lo stesso risultato contro una grande creatura. La lettura accompagna il corso senza aggiungere incontri al calendario.')
+add(p,'Approfondimento · I troll')
 SECTIONS.append(['Pratica',len(PAGES)])
 p=Leaf('Consilium','Scegliere una difesa','Una decisione proporzionata alla situazione')
 for h,t in [('Riconoscere','Descrivere ciò che si vede prima di attribuirgli una causa. Distinguere un movimento, un effetto magico e una reazione di paura.'),('Proteggere','Individuare persone esposte e possibilità di allontanamento. Una formula difensiva richiede comunque direzione, attenzione e condizioni adatte.'),('Interrompere','Disarmare, sbilanciare e distrarre producono risultati diversi. Scegliere in rapporto al problema, senza confondere la varietà delle formule con la qualità del giudizio.'),('Verificare','Osservare ciò che è cambiato. Un effetto visibile non dimostra da solo che il pericolo sia concluso.')]:p.heading(h);p.paragraph(t,11.5,leading=17)
@@ -143,18 +148,19 @@ p=Leaf('Relatio','Il rapporto dopo l’evento','Informazioni che altri possano v
 for h,t in [('Luogo e persone','Indicare quando e dove è avvenuto il fatto, chi era presente e chi ha assunto la responsabilità dell’intervento.'),('Sequenza osservata','Descrivere l’ordine degli eventi. Separare ciò che è stato visto da ciò che è stato riferito da altri.'),('Decisioni e risultati','Annotare lo scopo delle scelte, gli effetti riscontrati e le indicazioni ricevute.'),('Limiti e consegna','Registrare dubbi, condizioni non verificate e compiti affidati a un responsabile.')]:p.heading(h);p.paragraph(t,11.5,leading=17)
 p.box('Esempio immaginario','Alla comparsa dell’oggetto, due studenti si allontanano. Non è osservato alcun contatto. Il docente dispone di non avvicinarsi e prende in carico la verifica. L’origine dell’oggetto resta sconosciuta.');add(p,'Il rapporto dopo l’evento')
 SPELLS=json.loads((ROOT/'spell-index.json').read_text())
-p=Leaf('Formulae','Le formule per anno','Diciotto voci del programma di riferimento')
-for s in SPELLS:p.row(f"{ROMAN[s['year']-1]} · {s['name']}",str(LESSON_POS[(s['year'],s['meeting'])]))
-p.paragraph('Le formule seguono annualità e ordine del libro D.C.A.O. di riferimento. Le grafie Coloshoo, Evertestatum e Verdimillus riprendono il programma di partenza.',10,MUTED)
+p=Leaf('Formulae','Le formule per anno','Le formule del programma aggiornato')
+for s in SPELLS:
+    p.row(f"{ROMAN[s['year']-1]} · {s['name']}",str(LESSON_POS[(s['year'],s['meeting'])]));p.y-=4
+p.paragraph('La tavola indica la prima introduzione. I programmi annuali precisano le settimane e gli eventuali approfondimenti successivi.',10,MUTED)
 add(p,'Le formule per anno');SECTIONS.append(['Formule',len(PAGES)-1]);SECTIONS.append(['Repertorio',len(PAGES)])
-for part in range(6):
+for part in range(math.ceil(len(SPELLS)/3)):
     p=Leaf('Repertorium','Effetti e nozioni','Tavola '+ROMAN[part]+' · Consultazione delle formule')
     for s in SPELLS[part*3:part*3+3]:
         p.heading(s['name']);p.paragraph(f"Anno {ROMAN[s['year']-1]} · Lezione {s['meeting']} · pagina {LESSON_POS[(s['year'],s['meeting'])]}",9,MUTED,False,13)
         p.paragraph(s['effect'],11,leading=16);p.paragraph(s['notions'],10.5,leading=15)
     add(p,'Repertorio · '+ROMAN[part])
 p=Leaf('Disciplinae','Confini e responsabilità','La materia nel programma della scuola')
-for h,t in [('Il programma annuale','Le lezioni mantengono la successione della fonte. Ogni anno comprende quattro incontri, distribuiti in due settimane.'),('I collegamenti fra materie','Verdimillus, Diffindo, Incendio e Incarcerous sono presenti negli anni assegnati dalla fonte. Qui si studia la loro applicazione difensiva; le spiegazioni nelle altre materie mantengono il proprio contesto.'),('Studio e pratica','La presenza di una formula nel programma non stabilisce livelli di sblocco, comandi o proprietà tecniche del gioco. Bombarda viene mantenuto come argomento didattico della fonte.'),('La responsabilità','Dimostrazioni, incontri con creature e attività avanzate sono organizzati dal docente. Un caso su tavola permette di esercitare il giudizio prima dell’esecuzione.')]:p.heading(h);p.paragraph(t,11,leading=16)
+for h,t in [('Il programma annuale','La base Francis Lake è adattata all’ordinamento concordato: Tarantallegra e Vermilius nel secondo anno; Fireball e Confundo nel terzo; Confringo nel quarto. Quattro incontri per anno.'),('I collegamenti fra materie','Diffindo, Incendio e Incarcerous rimangono nel quinto anno come applicazioni difensive riprese dalla fonte. Qui si studia la loro applicazione difensiva; le spiegazioni nelle altre materie mantengono il proprio contesto.'),('Studio e pratica','La presenza di una formula nel programma non stabilisce livelli di sblocco, comandi o proprietà tecniche del gioco. Bombarda viene mantenuto come argomento didattico della fonte.'),('La responsabilità','Dimostrazioni, incontri con creature e attività avanzate sono organizzati dal docente. Un caso su tavola permette di esercitare il giudizio prima dell’esecuzione.')]:p.heading(h);p.paragraph(t,11,leading=16)
 add(p,'Confini e responsabilità')
 p=Leaf('Lexicon','Le parole della difesa','Un lessico da usare con precisione')
 for h,t in [('Minaccia','Una condizione capace di produrre un danno, da valutare nel suo contesto.'),('Bersaglio','Persona, oggetto o effetto a cui è diretto l’intervento.'),('Protezione','Azione volta a ridurre l’esposizione; non coincide con invulnerabilità.'),('Disarmo','Perdita della presa sulla bacchetta o sull’oggetto interessato.'),('Sbilanciamento','Alterazione dell’equilibrio, distinta dall’immobilizzazione.'),('Controllo','Capacità di mantenere lo scopo e verificare le conseguenze dell’azione.'),('Proporzione','Rapporto ragionato fra problema, risultato necessario e conseguenze previste.')]:p.heading(h);p.paragraph(t,11,leading=16)
@@ -162,7 +168,7 @@ add(p,'Lessico essenziale');SECTIONS.append(['Lessico',len(PAGES)-1])
 p=Leaf('Nota dell’edizione','I materiali del volume','Una rielaborazione per l’insegnamento')
 p.heading('Le fonti di partenza');p.paragraph('Il libro D.C.A.O. disponibile sul sito di Francis Lake e il documento DCAO fornito per questa edizione hanno ispirato la progressione fra formule, creature e temi difensivi. Testi, casi e schede di lezione sono rielaborati per questo corso.',11)
 p.paragraph('Riferimento web: francislake.altervista.org · Libro DCAO.php',9,MUTED)
-p.heading('Le annualità della fonte');p.paragraph('I ventotto incontri seguono gli anni e l’ordine del libro di riferimento. Al settimo anno una lezione di ripasso sul giudizio difensivo sostituisce l’argomento escluso su richiesta. Le altre ventisette lezioni conservano la collocazione originaria.',11)
+p.heading('Le annualità della fonte');p.paragraph('La base del programma è il libro di Francis Lake. Gli aggiornamenti concordati modificano anni e settimane delle formule indicate. Un incontro può comprendere due schede, come Riddikulus e Coloshoo. Il secondo incontro del settimo anno conserva il ripasso in sostituzione dell’argomento escluso.',11)
 p.heading('L’orizzonte del volume');p.paragraph('L’ambientazione è Hogwarts nel 1890. Non si utilizzano avvenimenti successivi o rimedi futuri come conoscenze disponibili. Le informazioni incomplete sono dichiarate senza attribuire proprietà aggiuntive alle formule.',11)
 p.heading('L’edizione');p.paragraph('Silas Ravenshaw è un autore fittizio. I casi immaginari servono alla discussione in aula e non introducono regole nuove nel repertorio della scuola.',11)
 add(p,'I materiali del volume');SECTIONS.append(['Fonti',len(PAGES)-1])
@@ -189,12 +195,14 @@ for index,year in ANNUAL:
 chapter_pages={c['title']:c['page'] for c in CHAPTERS}
 p=Leaf('Tabula Materiarum','Indice del volume','Sette annualità · Ventotto lezioni')
 for title in ['Prefazione','Il percorso delle due settimane','Il metodo della difesa']+['Anno '+ROMAN[i]+' · '+y['name'] for i,y in enumerate(DATA['years'])]+['Scegliere una difesa','Il rapporto dopo l’evento','Le formule per anno','Repertorio · I','Lessico essenziale','I materiali del volume','Finis']:p.row(title,str(chapter_pages[title]))
-p.paragraph('Il repertorio contiene sei tavole. La ricerca permette di trovare formule, argomenti e singole lezioni.',10,MUTED);replace_leaf(2,p)
-assert len(PAGES)==118,len(PAGES)
+p.paragraph('Il repertorio contiene sette tavole di consultazione. La ricerca permette di trovare formule, argomenti e singole lezioni.',10,MUTED);replace_leaf(2,p)
+assert len(PAGES)>100,len(PAGES)
 assert len(DATA['lessons'])==28
-for item in PAGES:item['image']+='?v=20261121-programma2'
+for item in PAGES:item['image']+='?v=20261122-programma3'
 packed={'pages':PAGES,'chapters':CHAPTERS,'sections':SECTIONS}
 (ROOT/'book-data.json').write_text(json.dumps(packed,ensure_ascii=False,indent=2)+'\n')
 index=ROOT/'index.html';embedded=json.dumps(packed,ensure_ascii=False).replace('</','<\\/')
 index.write_text(re.sub(r'(<script id="book-data" type="application/json">).*?(</script>)',lambda m:m[1]+embedded+m[2],index.read_text(),flags=re.S))
 print(f'{len(PAGES)} pagine, {len(DATA["lessons"])} lezioni, {len(SPELLS)} formule. Margini rispettati.')
+
+index.write_text(re.sub(r'max="[0-9]+"',f'max="{len(PAGES)}"',index.read_text()))

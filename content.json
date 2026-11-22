@@ -9,15 +9,15 @@
     },
     {
       "name": "La paura e le prime fatture",
-      "goal": "Riconoscere le forme della paura e impedire che una situazione spiacevole diventi pericolosa."
+      "goal": "Prima settimana: Molliccio, Riddikulus e Coloshoo. Seconda settimana: Tarantallegra e Vermilius, distinguendo dati confermati e informazioni da chiarire."
     },
     {
-      "name": "Duello, disciplina e reazione",
-      "goal": "Esercitare precisione, disarmo e controllo degli effetti, studiando pericoli di maggiore mole."
+      "name": "Controllo, confusione e disarmo",
+      "goal": "Studiare Fireball sul piano teorico, Confundo, Expelliarmus ed Evertestatum, collegando gli effetti al giudizio difensivo."
     },
     {
       "name": "Pericoli viventi e immobilizzazione",
-      "goal": "Capire perché la forza da sola non basta e perché la conoscenza delle creature è una forma di difesa."
+      "goal": "Confrontare licantropi e Acromantule, introdurre Confringo e studiare Petrificus."
     },
     {
       "name": "Tecniche avanzate e responsabilità",
@@ -25,7 +25,7 @@
     },
     {
       "name": "Oscurità, fuoco e distruzione",
-      "goal": "Studiare i limiti della magia offensiva e affrontare le minacce che disorientano o privano di speranza."
+      "goal": "Studiare Dissennatori, Inferi e Bombarda, quindi approfondire Confringo già introdotto al quarto anno."
     },
     {
       "name": "Il confine delle Arti Oscure",
@@ -66,7 +66,7 @@
       ],
       "question": "Perché il nome della categoria non basta a giudicare una situazione?",
       "answer": "Perché gravità e risposta dipendono anche da condizioni, bersaglio e conseguenze osservabili.",
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno I · Lezione 1",
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
       "spell": null
     },
     {
@@ -102,7 +102,7 @@
       ],
       "question": "Rictusempra garantisce che il bersaglio non possa più agire?",
       "answer": "No. Un’interferenza con la concentrazione non equivale a un’immobilizzazione completa.",
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno I · Lezione 2",
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
       "spell": "Rictusempra"
     },
     {
@@ -138,7 +138,7 @@
       ],
       "question": "Perché spostare un bersaglio non significa necessariamente aver risolto il rischio?",
       "answer": "Perché il movimento può trasferire il pericolo verso altri o creare ostacoli non previsti.",
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno I · Lezione 3",
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
       "spell": "Flipendo"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "question": "Protego è una garanzia universale contro qualsiasi effetto?",
       "answer": "No. La sua efficacia va riferita alla minaccia e alle condizioni conosciute, senza estenderla automaticamente ad altri casi.",
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno I · Lezione 4",
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
       "spell": "Protego"
     },
     {
@@ -211,156 +211,52 @@
       "year": 2,
       "meeting": 1,
       "week": 1,
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno II · Lezione 1"
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890"
     },
     {
       "year": 2,
       "meeting": 2,
       "week": 1,
-      "title": "Riddikulus",
-      "subtitle": "Il Molliccio e la forma della paura",
+      "title": "Riddikulus e Coloshoo",
+      "subtitle": "Paura e mobilità: due problemi diversi",
       "theory": [
         "Contrasta un Molliccio trasformandone l’apparenza in qualcosa di comico, sostenuto dall’immaginazione di chi lo affronta. Il Molliccio assume una forma legata alla paura di chi lo affronta. Il suo aspetto non dimostra che sia davvero presente la persona o la creatura imitata.",
-        "Il rapporto fra paura, immagine mentale e comicità è centrale. La formula non è una trasformazione universale di qualunque creatura.",
-        "La lezione prepara immagini comiche su casi immaginari, senza imporre racconti personali. La presenza del docente e il sostegno del gruppo fanno parte della dimostrazione. Ridere della trasformazione non significa deridere il compagno che prova paura."
+        "Incolla o fissa le scarpe del bersaglio al terreno, ostacolandone lo spostamento. Si studia la differenza tra bloccare le scarpe e limitare l’intero corpo. La grafia segue la voce del catalogo, anche quando i testi di partenza ne riportano varianti.",
+        "Riddikulus viene studiato in rapporto al Molliccio; Coloshoo in rapporto all’aderenza delle calzature al suolo. La classe confronta le due schede senza scambiare il nome di una categoria per una descrizione dell’effetto. Le dimostrazioni restano distinte e predisposte dal docente."
       ],
       "notions": [
         [
-          "Molliccio",
-          "La forma osservata dipende dall’incontro e non definisce un aspetto stabile noto."
+          "Riddikulus",
+          "Il rapporto fra paura, immagine mentale e comicità è centrale. La formula non è una trasformazione universale di qualunque creatura."
         ],
         [
-          "Immaginazione",
-          "Il risultato richiede una trasformazione comica riconoscibile."
+          "Coloshoo",
+          "Un vincolo agli appoggi non equivale all’immobilizzazione di tutto il corpo. Il punto sul quale agisce l’effetto aiuta a classificarlo."
         ],
         [
-          "Rispetto",
-          "Il lavoro in aula non richiede di esporre una paura privata."
+          "Confronto",
+          "Una risposta alla paura e una limitazione del movimento hanno bersagli e risultati diversi."
         ]
       ],
-      "opening": "Un’immagine spaventosa dimostra che l’essere imitato sia realmente presente?",
+      "opening": "Una formula adatta al Molliccio è anche una risposta a un impedimento delle calzature?",
       "steps": [
-        "Scegliere una figura immaginaria, senza riferirsi a paure dei compagni.",
-        "Proporne una trasformazione comica chiara.",
-        "Distinguere la nozione dal diritto di affrontare da soli un Molliccio."
+        "Leggere separatamente le due schede degli effetti.",
+        "Confrontare una scena con Molliccio e una scarpa vuota su un supporto.",
+        "Motivare perché non si possa scambiare una formula con l’altra."
       ],
-      "question": "Riddikulus è una trasformazione universale di qualunque creatura?",
-      "answer": "No. Il corso la collega al Molliccio e al rapporto fra paura e immaginazione.",
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno II · Lezione 2",
-      "spell": "Riddikulus"
+      "question": "Che cosa distingue i due risultati?",
+      "answer": "Riddikulus rende comica la manifestazione del Molliccio; Coloshoo fa aderire le calzature al suolo. Non sono effetti intercambiabili.",
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
+      "spell": "Riddikulus",
+      "spells": [
+        "Riddikulus",
+        "Coloshoo"
+      ]
     },
     {
       "year": 2,
       "meeting": 3,
       "week": 2,
-      "title": "Coloshoo",
-      "subtitle": "Il vincolo degli appoggi",
-      "theory": [
-        "Incolla o fissa le scarpe del bersaglio al terreno, ostacolandone lo spostamento. Si studia la differenza tra bloccare le scarpe e limitare l’intero corpo. La grafia segue la voce del catalogo, anche quando i testi di partenza ne riportano varianti.",
-        "Un vincolo agli appoggi non equivale all’immobilizzazione di tutto il corpo. Il punto sul quale agisce l’effetto aiuta a classificarlo.",
-        "Il confronto riguarda il rapporto tra appoggi e equilibrio. Se i piedi rimangono fermi mentre il corpo si muove, il problema non si riduce a un mancato avanzamento. La lezione usa schemi e supporti predisposti dal docente; gli allievi non sperimentano vincoli inattesi sui compagni."
-      ],
-      "notions": [
-        [
-          "Appoggio",
-          "Il punto d’azione è essenziale per distinguere la formula da un’immobilizzazione generale."
-        ],
-        [
-          "Corpo",
-          "Le parti non vincolate possono continuare a muoversi."
-        ],
-        [
-          "Ambiente",
-          "Una limitazione dello spostamento va giudicata rispetto al luogo."
-        ]
-      ],
-      "opening": "Fissare i piedi e bloccare tutto il corpo sono descrizioni intercambiabili?",
-      "steps": [
-        "Indicare su uno schema il punto nel quale agisce il vincolo.",
-        "Confrontare il caso con Petrificus.",
-        "Formulare una descrizione che non aggiunga effetti alle altre parti del corpo."
-      ],
-      "question": "Colloshoo rende automaticamente immobile ogni parte del bersaglio?",
-      "answer": "No. Il vincolo descritto riguarda gli appoggi, non ogni movimento.",
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno II · Lezione 3",
-      "spell": "Coloshoo"
-    },
-    {
-      "title": "Verdimillus",
-      "subtitle": "Luce, attenzione e lettura dell’ambiente",
-      "theory": [
-        "Produce un lampo di energia verde; nel programma di riferimento il suo studio collega disturbo del bersaglio e osservazione di ciò che è poco visibile.",
-        "Una luce non rivela automaticamente ogni cosa nascosta e non scioglie qualsiasi magia. Va distinta la maggiore visibilità da una vera identificazione.",
-        "La lezione confronta illuminazione e abbagliamento su pannelli preparati. Un effetto luminoso può ostacolare anche i compagni; direzione e intensità vanno giudicate insieme. Non si attribuiscono alla formula capacità universali di rivelazione."
-      ],
-      "notions": [
-        [
-          "Effetto",
-          "Produce un lampo di energia verde; nel programma di riferimento il suo studio collega disturbo del bersaglio e osservazione di ciò che è poco visibile."
-        ],
-        [
-          "Conseguenze",
-          "Una luce non rivela automaticamente ogni cosa nascosta e non scioglie qualsiasi magia. Va distinta la maggiore visibilità da una vera identificazione."
-        ],
-        [
-          "Applicazione difensiva",
-          "Lo scopo va motivato e il risultato verificato nel contesto."
-        ]
-      ],
-      "opening": "Ottenere l’effetto desiderato basta a rendere corretta la scelta?",
-      "steps": [
-        "Descrivere il bersaglio e lo scopo in un caso immaginario.",
-        "Indicare le condizioni che mancano per decidere.",
-        "Confrontare il risultato utile con le conseguenze sullo spazio vicino."
-      ],
-      "question": "Quali elementi occorre valutare oltre alla riuscita della formula?",
-      "answer": "Bersaglio, ambiente, persone esposte e conseguenze successive. La riuscita tecnica da sola non dimostra che l’intervento sia adatto.",
-      "spell": "Verdimillus",
-      "year": 2,
-      "meeting": 4,
-      "week": 2,
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno II · Lezione 4"
-    },
-    {
-      "title": "I troll: forza, territorio e prudenza",
-      "subtitle": "Riconoscimento e spazio di ritirata",
-      "theory": [
-        "I troll sono creature grandi e molto forti. Le varietà di montagna, foresta e fiume ricordano che una denominazione generale non descrive ogni ambiente e abitudine. La mole impone di considerare sia i movimenti della creatura sia gli ostacoli che possono essere rovesciati.",
-        "Un’andatura apparentemente impacciata non rende innocuo un incontro. Avvicinarsi per provare una formula espone al rischio prima ancora di conoscerne il risultato. Le indicazioni di passaggio devono essere considerate insieme: un rumore o un’impronta isolata non costituiscono identificazione certa.",
-        "La difesa scolastica privilegia segnalazione, allontanamento ordinato e lettura dei percorsi. Una scena su tavola consente di discutere le uscite e le persone esposte senza cercare un confronto reale. Conoscere un incantesimo da duello non ne dimostra l’efficacia contro una creatura di grande mole."
-      ],
-      "notions": [
-        [
-          "Varietà",
-          "Ambiente e caratteristiche vanno collegati alla descrizione specifica."
-        ],
-        [
-          "Forza",
-          "Anche oggetti e strutture vicine possono diventare parte del rischio."
-        ],
-        [
-          "Percorsi",
-          "Il gruppo deve evitare di chiudersi da solo una possibilità di uscita."
-        ]
-      ],
-      "opening": "Una creatura lenta in apparenza lascia sempre tempo per reagire?",
-      "steps": [
-        "Leggere una tavola con corridoio e uscite.",
-        "Individuare gli ostacoli che possono cadere.",
-        "Motivare un percorso di allontanamento."
-      ],
-      "question": "Perché un incantesimo riuscito in un duello non garantisce il risultato contro un troll?",
-      "answer": "Perché bersaglio, mole e condizioni sono differenti: l’esperienza non si trasferisce automaticamente.",
-      "spell": null,
-      "year": 3,
-      "meeting": 1,
-      "week": 1,
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno III · Lezione 1"
-    },
-    {
-      "year": 3,
-      "meeting": 2,
-      "week": 1,
       "title": "Tarantallegra",
       "subtitle": "Movimento imposto degli arti inferiori",
       "theory": [
@@ -390,8 +286,116 @@
       ],
       "question": "Tarantallegra dimostra un controllo completo sulla persona?",
       "answer": "No. Si descrive l’effetto sugli arti inferiori senza dedurne altri poteri.",
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno III · Lezione 2",
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
       "spell": "Tarantallegra"
+    },
+    {
+      "title": "Vermilius",
+      "subtitle": "La formula del programma: distinzione da Verdimilius",
+      "theory": [
+        "Vermilius viene assegnato a D.C.A.O. nella seconda settimana del secondo anno. Nei repertori la denominazione Vermillious è associata a scintille rosse. La corrispondenza con il nome e l’effetto specifici disponibili nel server richiede conferma del docente: non si trasferiscono automaticamente tutte le proprietà di una versione a un’altra.",
+        "Vermilius e Verdimilius restano due voci separate. Verdimilius conserva il primo anno di Incantesimi; la somiglianza dei nomi non permette di sostituirlo alla formula assegnata qui. Un segnale visibile, una luce e un effetto offensivo sono funzioni differenti da descrivere prima della pratica.",
+        "L’attività confronta nomi, descrizioni disponibili e dati mancanti. Finché non è confermata la versione in uso, la lezione rimane teorica e non stabilisce danni, gittata, durata o movimento di bacchetta. Il docente completa la scheda prima di predisporre una dimostrazione."
+      ],
+      "notions": [
+        [
+          "Denominazione",
+          "Conservare Vermilius e Verdimilius come voci distinte."
+        ],
+        [
+          "Riferimento",
+          "Le scintille rosse sono un riferimento di repertorio, non una verifica della versione in gioco."
+        ],
+        [
+          "Riscontro",
+          "L’effetto effettivo deve essere confermato prima di una pratica."
+        ]
+      ],
+      "opening": "Due formule dal nome simile hanno necessariamente lo stesso effetto?",
+      "steps": [
+        "Confrontare le due denominazioni.",
+        "Separare dati del repertorio e funzionamento in gioco.",
+        "Elencare le conferme necessarie prima della dimostrazione."
+      ],
+      "question": "Perché non copiare la scheda di Verdimilius?",
+      "answer": "Perché la somiglianza del nome non dimostra l’identità di effetto, materia o versione.",
+      "spell": "Vermilius",
+      "year": 2,
+      "meeting": 4,
+      "week": 2,
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890"
+    },
+    {
+      "title": "Fireball",
+      "subtitle": "Riconoscimento teorico di una voce del repertorio",
+      "theory": [
+        "Fireball è collocato nel terzo anno di D.C.A.O. Il nome richiama una sfera di fuoco, ma i materiali disponibili non descrivono il funzionamento preciso della versione in gioco. La voce viene studiata senza attribuirle proprietà aggiuntive.",
+        "La denominazione non basta a stabilire traiettoria, impatto, danno o differenze da Incendio. Il tema del fuoco non rende identiche due formule. Prima di insegnarne l’esecuzione il docente deve confermare effetto, bersaglio e condizioni effettivamente previsti.",
+        "La lezione lavora su una scheda incompleta e su casi immaginari. Gli studenti distinguono ciò che il nome suggerisce da ciò che resta da verificare. Non viene predisposta una pratica autonoma né si attribuisce alla formula una capacità particolare contro una creatura."
+      ],
+      "notions": [
+        [
+          "Nome",
+          "Richiama un tema ma non descrive tutti i dettagli dell’effetto."
+        ],
+        [
+          "Distinzione",
+          "Fireball non va presentato come sinonimo di Incendio."
+        ],
+        [
+          "Conferma",
+          "La descrizione della versione in uso precede la dimostrazione."
+        ]
+      ],
+      "opening": "Il nome di una formula permette di dedurne ogni conseguenza?",
+      "steps": [
+        "Annotare collocazione e dati confermati.",
+        "Individuare le informazioni mancanti.",
+        "Spiegare perché non completarle con poteri presunti."
+      ],
+      "question": "Perché la scheda non descrive un esercizio di lancio?",
+      "answer": "Perché il funzionamento specifico deve essere confermato prima di predisporre una pratica.",
+      "spell": "Fireball",
+      "year": 3,
+      "meeting": 1,
+      "week": 1,
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890"
+    },
+    {
+      "year": 3,
+      "meeting": 2,
+      "week": 1,
+      "title": "Confundo",
+      "subtitle": "La lucidità e le sue alterazioni",
+      "theory": [
+        "Confonde il bersaglio, alterandone temporaneamente la lucidità o la valutazione della situazione. Si distingue l’effetto descritto da una semplice distrazione dovuta al contesto. Un comportamento insolito non basta a identificarne la causa.",
+        "Confusione, cancellazione della memoria e controllo delle azioni non sono lo stesso effetto. Occorre descrivere il cambiamento effettivamente osservato.",
+        "La lezione affronta riconoscimento e confronto teorico. Non prevede prove segrete sulla lucidità dei compagni. Si ricostruiscono condizioni, cambiamenti e limiti del resoconto, senza dichiarare che ogni esitazione dimostri un’influenza magica."
+      ],
+      "notions": [
+        [
+          "Lucidità",
+          "La valutazione della situazione può essere alterata senza cancellare i ricordi."
+        ],
+        [
+          "Indizio",
+          "Una variazione osservata non identifica automaticamente una formula."
+        ],
+        [
+          "Rispetto",
+          "La spiegazione di un effetto non autorizza esperimenti non concordati."
+        ]
+      ],
+      "opening": "Una persona esitante è necessariamente sotto l’effetto di Confundo?",
+      "steps": [
+        "Confrontare una distrazione ordinaria e un caso descritto dal docente.",
+        "Elencare i fatti disponibili senza scegliere subito una causa.",
+        "Indicare quali informazioni aiuterebbero la valutazione."
+      ],
+      "question": "Confusione e cancellazione della memoria sono la stessa cosa?",
+      "answer": "No. Riguardano aspetti differenti e non vanno dedotti l’uno dall’altro.",
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
+      "spell": "Confundo"
     },
     {
       "year": 3,
@@ -426,7 +430,7 @@
       ],
       "question": "Disarmo e immobilizzazione sono lo stesso effetto?",
       "answer": "No. Il disarmo riguarda la presa sull’oggetto, non ogni movimento o capacità del bersaglio.",
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno III · Lezione 3",
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
       "spell": "Expelliarmus"
     },
     {
@@ -462,7 +466,7 @@
       ],
       "question": "Perché un arretramento corretto nella direzione può essere comunque inadatto?",
       "answer": "Perché appoggi, ostacoli e persone vicine possono rendere pericoloso il punto d’arrivo.",
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno III · Lezione 4",
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
       "spell": "Evertestatum"
     },
     {
@@ -498,7 +502,7 @@
       ],
       "question": "Si può riconoscere un rischio senza ridurre la persona alla sua condizione?",
       "answer": "Sì. La precisione riguarda circostanze e fatti, non giudizi generali sul valore della persona.",
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno IV · Lezione 1",
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
       "spell": null
     },
     {
@@ -535,43 +539,43 @@
       "year": 4,
       "meeting": 2,
       "week": 1,
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno IV · Lezione 2"
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890"
     },
     {
       "year": 4,
       "meeting": 3,
       "week": 2,
-      "title": "Confundo",
-      "subtitle": "La lucidità e le sue alterazioni",
+      "title": "Confringo",
+      "subtitle": "Potenza e responsabilità del risultato",
       "theory": [
-        "Confonde il bersaglio, alterandone temporaneamente la lucidità o la valutazione della situazione. Si distingue l’effetto descritto da una semplice distrazione dovuta al contesto. Un comportamento insolito non basta a identificarne la causa.",
-        "Confusione, cancellazione della memoria e controllo delle azioni non sono lo stesso effetto. Occorre descrivere il cambiamento effettivamente osservato.",
-        "La lezione affronta riconoscimento e confronto teorico. Non prevede prove segrete sulla lucidità dei compagni. Si ricostruiscono condizioni, cambiamenti e limiti del resoconto, senza dichiarare che ogni esitazione dimostri un’influenza magica."
+        "Provoca un’esplosione nel punto o sul bersaglio raggiunto dalla formula. Si conserva la distinzione tra descrizione di un effetto offensivo e decisione di impiegarlo. La sua presenza nel programma non autorizza prove libere sull’ambiente.",
+        "Va distinto da Incendio, studiato per la produzione di fuoco. La classificazione offensiva e le condizioni d’impiego appartengono alla lezione di D.C.A.O.",
+        "Il confronto con Expulso non introduce differenze numeriche che i materiali non stabiliscono. Entrambe le voci richiedono di ragionare su ciò che può essere coinvolto oltre al bersaglio. La riuscita difensiva non coincide con il danno più grande possibile."
       ],
       "notions": [
         [
-          "Lucidità",
-          "La valutazione della situazione può essere alterata senza cancellare i ricordi."
+          "Riconoscimento",
+          "Il punto dell’impatto e gli effetti sull’ambiente vanno descritti separatamente."
         ],
         [
-          "Indizio",
-          "Una variazione osservata non identifica automaticamente una formula."
+          "Confronto",
+          "Due formule affini non si distinguono inventando portate o potenziamenti."
         ],
         [
-          "Rispetto",
-          "La spiegazione di un effetto non autorizza esperimenti non concordati."
+          "Scopo",
+          "L’obiettivo di protezione deve restare riconoscibile."
         ]
       ],
-      "opening": "Una persona esitante è necessariamente sotto l’effetto di Confundo?",
+      "opening": "Distruggere un ostacolo risolve il problema se blocca l’unico accesso disponibile?",
       "steps": [
-        "Confrontare una distrazione ordinaria e un caso descritto dal docente.",
-        "Elencare i fatti disponibili senza scegliere subito una causa.",
-        "Indicare quali informazioni aiuterebbero la valutazione."
+        "Analizzare una scena immaginaria con un ostacolo e un passaggio.",
+        "Valutare una conseguenza dell’effetto che comprometta l’obiettivo.",
+        "Proporre quali informazioni servano prima di una dimostrazione."
       ],
-      "question": "Confusione e cancellazione della memoria sono la stessa cosa?",
-      "answer": "No. Riguardano aspetti differenti e non vanno dedotti l’uno dall’altro.",
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno IV · Lezione 3",
-      "spell": "Confundo"
+      "question": "Un danno maggiore dimostra una difesa migliore?",
+      "answer": "No. Si giudica la corrispondenza con l’obiettivo e le conseguenze per le persone e il luogo.",
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
+      "spell": "Confringo"
     },
     {
       "year": 4,
@@ -606,7 +610,7 @@
       ],
       "question": "Il nome della formula giustifica parlare di una trasformazione in pietra?",
       "answer": "No. Il corso descrive immobilizzazione e irrigidimento, senza dedurre un cambiamento materiale dal nome.",
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno IV · Lezione 4",
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
       "spell": "Petrificus"
     },
     {
@@ -642,7 +646,7 @@
       ],
       "question": "Studiare D.C.A.O. equivale a diventare Auror?",
       "answer": "No. Il corso fornisce basi; ruolo, preparazione professionale e autorizzazioni sono questioni differenti.",
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno V · Lezione 1",
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
       "spell": null
     },
     {
@@ -679,7 +683,7 @@
       "year": 5,
       "meeting": 2,
       "week": 1,
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno V · Lezione 2"
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890"
     },
     {
       "title": "Incendio",
@@ -715,7 +719,7 @@
       "year": 5,
       "meeting": 3,
       "week": 2,
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno V · Lezione 3"
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890"
     },
     {
       "title": "Incarcerous",
@@ -751,7 +755,7 @@
       "year": 5,
       "meeting": 4,
       "week": 2,
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno V · Lezione 4"
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890"
     },
     {
       "year": 6,
@@ -786,7 +790,7 @@
       ],
       "question": "Protego ed Expecto Patronum possono essere dichiarati intercambiabili?",
       "answer": "No. Lo scudo generico e il Patronus hanno compiti differenti, da non confondere.",
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno VI · Lezione 1",
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
       "spell": null
     },
     {
@@ -822,7 +826,7 @@
       ],
       "question": "Il movimento di un corpo dimostra che sia tornata la persona che era?",
       "answer": "No. Nell’Inferius si studia un’animazione imposta, distinta dal ritorno alla vita.",
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno VI · Lezione 2",
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
       "spell": null
     },
     {
@@ -859,16 +863,16 @@
       "year": 6,
       "meeting": 3,
       "week": 2,
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno VI · Lezione 3"
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890"
     },
     {
       "year": 6,
       "meeting": 4,
       "week": 2,
-      "title": "Confringo",
-      "subtitle": "Potenza e responsabilità del risultato",
+      "title": "Confringo · Approfondimento",
+      "subtitle": "Ripresa avanzata della formula introdotta al quarto anno",
       "theory": [
-        "Provoca un’esplosione nel punto o sul bersaglio raggiunto dalla formula. Si conserva la distinzione tra descrizione di un effetto offensivo e decisione di impiegarlo. La sua presenza nel programma non autorizza prove libere sull’ambiente.",
+        "Confringo è già introdotto nel quarto anno. Il sesto anno ne riprende l’effetto esplosivo per valutarne le conseguenze in un caso più complesso; non lo presenta come una formula nuova. Provoca un’esplosione nel punto o sul bersaglio raggiunto dalla formula. Si conserva la distinzione tra descrizione di un effetto offensivo e decisione di impiegarlo. La sua presenza nel programma non autorizza prove libere sull’ambiente.",
         "Va distinto da Incendio, studiato per la produzione di fuoco. La classificazione offensiva e le condizioni d’impiego appartengono alla lezione di D.C.A.O.",
         "Il confronto con Expulso non introduce differenze numeriche che i materiali non stabiliscono. Entrambe le voci richiedono di ragionare su ciò che può essere coinvolto oltre al bersaglio. La riuscita difensiva non coincide con il danno più grande possibile."
       ],
@@ -894,7 +898,7 @@
       ],
       "question": "Un danno maggiore dimostra una difesa migliore?",
       "answer": "No. Si giudica la corrispondenza con l’obiettivo e le conseguenze per le persone e il luogo.",
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno VI · Lezione 4",
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
       "spell": "Confringo"
     },
     {
@@ -931,7 +935,7 @@
       "year": 7,
       "meeting": 1,
       "week": 1,
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno VII · Lezione 1"
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890"
     },
     {
       "year": 7,
@@ -966,7 +970,7 @@
       ],
       "question": "Qual è il traguardo comune dei sette anni?",
       "answer": "Comprendere gli effetti e scegliere una risposta controllata, senza confondere capacità, necessità e autorizzazione.",
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno VII · Lezione 2",
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
       "spell": null
     },
     {
@@ -1002,7 +1006,7 @@
       ],
       "question": "Perché Expulso non va descritto come una semplice spinta più forte?",
       "answer": "Perché la natura esplosiva richiede una valutazione distinta delle conseguenze sul luogo.",
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno VII · Lezione 3",
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
       "spell": "Expulso"
     },
     {
@@ -1038,7 +1042,7 @@
       ],
       "question": "Conoscere la formula garantisce un Patronus corporeo?",
       "answer": "No. Il risultato richiede una padronanza avanzata che non deriva dalla sola lettura.",
-      "source": "Programma del libro D.C.A.O. di Francis Lake · Anno VII · Lezione 4",
+      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
       "spell": "Expecto Patronum"
     }
   ]

@@ -1,0 +1,38 @@
+[
+  {
+    "title": "I troll: forza, territorio e prudenza",
+    "subtitle": "Riconoscimento e spazio di ritirata",
+    "theory": [
+      "I troll sono creature grandi e molto forti. Le varietà di montagna, foresta e fiume ricordano che una denominazione generale non descrive ogni ambiente e abitudine. La mole impone di considerare sia i movimenti della creatura sia gli ostacoli che possono essere rovesciati.",
+      "Un’andatura apparentemente impacciata non rende innocuo un incontro. Avvicinarsi per provare una formula espone al rischio prima ancora di conoscerne il risultato. Le indicazioni di passaggio devono essere considerate insieme: un rumore o un’impronta isolata non costituiscono identificazione certa.",
+      "La difesa scolastica privilegia segnalazione, allontanamento ordinato e lettura dei percorsi. Una scena su tavola consente di discutere le uscite e le persone esposte senza cercare un confronto reale. Conoscere un incantesimo da duello non ne dimostra l’efficacia contro una creatura di grande mole."
+    ],
+    "notions": [
+      [
+        "Varietà",
+        "Ambiente e caratteristiche vanno collegati alla descrizione specifica."
+      ],
+      [
+        "Forza",
+        "Anche oggetti e strutture vicine possono diventare parte del rischio."
+      ],
+      [
+        "Percorsi",
+        "Il gruppo deve evitare di chiudersi da solo una possibilità di uscita."
+      ]
+    ],
+    "opening": "Una creatura lenta in apparenza lascia sempre tempo per reagire?",
+    "steps": [
+      "Leggere una tavola con corridoio e uscite.",
+      "Individuare gli ostacoli che possono cadere.",
+      "Motivare un percorso di allontanamento."
+    ],
+    "question": "Perché un incantesimo riuscito in un duello non garantisce il risultato contro un troll?",
+    "answer": "Perché bersaglio, mole e condizioni sono differenti: l’esperienza non si trasferisce automaticamente.",
+    "spell": null,
+    "year": 3,
+    "meeting": 1,
+    "week": 1,
+    "source": "Programma del libro D.C.A.O. di Francis Lake · Anno III · Lezione 1"
+  }
+]
