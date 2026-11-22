@@ -22,7 +22,7 @@ Incantesimi: al secondo anno Accio, Levioso, Alohomora e Colloportus nella prima
 
 D.C.A.O.: Tarantallegra e Vermilius nella seconda settimana del secondo anno; Fireball e Confundo al terzo; Confringo al quarto. La ripresa di Confringo al sesto è un approfondimento, non una nuova introduzione. Verdimilius resta distinto da Vermilius e conserva il primo anno di Incantesimi.
 
-Puncheck, Fireball e la variante in gioco di Vermilius hanno una trattazione teorica con informazioni mancanti esplicite; non si inventano effetti, danni, durata, gittata o gesti. Diffindo, Incendio e Incarcerous nel programma DCAO della fonte sono applicazioni difensive di formule condivise con altre materie. Gli anni non ridefiniti mantengono il percorso precedente e i richiami vengono coordinati.
+Puncheck simula un pugno magico, secondo la descrizione fornita dall’utente. I volumi pubblicati mantengono una voce interamente in roleplay; i dettagli tecnici e i riferimenti esterni restano in questa documentazione. Diffindo, Incendio e Incarcerous nel programma DCAO della fonte sono applicazioni difensive di formule condivise con altre materie. Gli anni non ridefiniti mantengono il percorso precedente e i richiami vengono coordinati.
 
 ## Fonti e generazione
 

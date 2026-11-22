@@ -9,7 +9,7 @@
     },
     {
       "name": "La paura e le prime fatture",
-      "goal": "Prima settimana: Molliccio, Riddikulus e Coloshoo. Seconda settimana: Tarantallegra e Vermilius, distinguendo dati confermati e informazioni da chiarire."
+      "goal": "Prima settimana: Molliccio, Riddikulus e Coloshoo. Seconda settimana: Tarantallegra e Vermilius, distinguendo effetti, segnali e conseguenze."
     },
     {
       "name": "Controllo, confusione e disarmo",
@@ -66,7 +66,7 @@
       ],
       "question": "Perché il nome della categoria non basta a giudicare una situazione?",
       "answer": "Perché gravità e risposta dipendono anche da condizioni, bersaglio e conseguenze osservabili.",
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "spell": null
     },
     {
@@ -102,7 +102,7 @@
       ],
       "question": "Rictusempra garantisce che il bersaglio non possa più agire?",
       "answer": "No. Un’interferenza con la concentrazione non equivale a un’immobilizzazione completa.",
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "spell": "Rictusempra"
     },
     {
@@ -138,7 +138,7 @@
       ],
       "question": "Perché spostare un bersaglio non significa necessariamente aver risolto il rischio?",
       "answer": "Perché il movimento può trasferire il pericolo verso altri o creare ostacoli non previsti.",
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "spell": "Flipendo"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "question": "Protego è una garanzia universale contro qualsiasi effetto?",
       "answer": "No. La sua efficacia va riferita alla minaccia e alle condizioni conosciute, senza estenderla automaticamente ad altri casi.",
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "spell": "Protego"
     },
     {
@@ -211,7 +211,7 @@
       "year": 2,
       "meeting": 1,
       "week": 1,
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890"
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa"
     },
     {
       "year": 2,
@@ -221,7 +221,7 @@
       "subtitle": "Paura e mobilità: due problemi diversi",
       "theory": [
         "Contrasta un Molliccio trasformandone l’apparenza in qualcosa di comico, sostenuto dall’immaginazione di chi lo affronta. Il Molliccio assume una forma legata alla paura di chi lo affronta. Il suo aspetto non dimostra che sia davvero presente la persona o la creatura imitata.",
-        "Incolla o fissa le scarpe del bersaglio al terreno, ostacolandone lo spostamento. Si studia la differenza tra bloccare le scarpe e limitare l’intero corpo. La grafia segue la voce del catalogo, anche quando i testi di partenza ne riportano varianti.",
+        "Incolla o fissa le scarpe del bersaglio al terreno, ostacolandone lo spostamento. Si studia la differenza tra bloccare le scarpe e limitare l’intero corpo. La grafia segue la voce del repertorio, anche quando i testi di partenza ne riportano varianti.",
         "Riddikulus viene studiato in rapporto al Molliccio; Coloshoo in rapporto all’aderenza delle calzature al suolo. La classe confronta le due schede senza scambiare il nome di una categoria per una descrizione dell’effetto. Le dimostrazioni restano distinte e predisposte dal docente."
       ],
       "notions": [
@@ -246,7 +246,7 @@
       ],
       "question": "Che cosa distingue i due risultati?",
       "answer": "Riddikulus rende comica la manifestazione del Molliccio; Coloshoo fa aderire le calzature al suolo. Non sono effetti intercambiabili.",
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "spell": "Riddikulus",
       "spells": [
         "Riddikulus",
@@ -286,80 +286,80 @@
       ],
       "question": "Tarantallegra dimostra un controllo completo sulla persona?",
       "answer": "No. Si descrive l’effetto sugli arti inferiori senza dedurne altri poteri.",
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "spell": "Tarantallegra"
     },
     {
       "title": "Vermilius",
-      "subtitle": "La formula del programma: distinzione da Verdimilius",
+      "subtitle": "Le scintille rosse e la lettura del segnale",
       "theory": [
-        "Vermilius viene assegnato a D.C.A.O. nella seconda settimana del secondo anno. Nei repertori la denominazione Vermillious è associata a scintille rosse. La corrispondenza con il nome e l’effetto specifici disponibili nel server richiede conferma del docente: non si trasferiscono automaticamente tutte le proprietà di una versione a un’altra.",
-        "Vermilius e Verdimilius restano due voci separate. Verdimilius conserva il primo anno di Incantesimi; la somiglianza dei nomi non permette di sostituirlo alla formula assegnata qui. Un segnale visibile, una luce e un effetto offensivo sono funzioni differenti da descrivere prima della pratica.",
-        "L’attività confronta nomi, descrizioni disponibili e dati mancanti. Finché non è confermata la versione in uso, la lezione rimane teorica e non stabilisce danni, gittata, durata o movimento di bacchetta. Il docente completa la scheda prima di predisporre una dimostrazione."
+        "Vermilius viene studiato nel secondo anno di Difesa contro le Arti Oscure. Nei trattati la formula è associata a scintille rosse. L’osservazione della manifestazione luminosa richiede attenzione alla direzione della bacchetta e alle persone presenti.",
+        "Vermilius e Verdimilius restano due formule distinte. La somiglianza dei nomi non permette di confonderne gli effetti. Un segnale luminoso, un’illuminazione e un colpo diretto sono risultati differenti: l’allievo deve descrivere ciò che osserva prima di interpretarne lo scopo.",
+        "Il docente presenta la formula nelle condizioni predisposte per la lezione. Gli allievi descrivono colore, direzione e visibilità della manifestazione senza aggiungere proprietà che non abbiano osservato. La pratica non consiste nel rivolgere la bacchetta verso i compagni per misurarne le reazioni."
       ],
       "notions": [
         [
           "Denominazione",
-          "Conservare Vermilius e Verdimilius come voci distinte."
+          "Vermilius e Verdimilius sono formule distinte."
         ],
         [
-          "Riferimento",
-          "Le scintille rosse sono un riferimento di repertorio, non una verifica della versione in gioco."
+          "Segnale",
+          "La visibilità di una manifestazione non rivela da sola ogni suo possibile impiego."
         ],
         [
-          "Riscontro",
-          "L’effetto effettivo deve essere confermato prima di una pratica."
+          "Osservazione",
+          "Descrivere direzione, colore e condizioni del luogo prima di trarre conclusioni."
         ]
       ],
-      "opening": "Due formule dal nome simile hanno necessariamente lo stesso effetto?",
+      "opening": "Un segnale visibile può essere interpretato nello stesso modo in qualsiasi luogo?",
       "steps": [
-        "Confrontare le due denominazioni.",
-        "Separare dati del repertorio e funzionamento in gioco.",
-        "Elencare le conferme necessarie prima della dimostrazione."
+        "Confrontare i nomi di Vermilius e Verdimilius.",
+        "Osservare la dimostrazione predisposta dal docente.",
+        "Separare ciò che è visibile dalle proprietà soltanto supposte."
       ],
-      "question": "Perché non copiare la scheda di Verdimilius?",
-      "answer": "Perché la somiglianza del nome non dimostra l’identità di effetto, materia o versione.",
+      "question": "Perché non usare indifferentemente Vermilius e Verdimilius?",
+      "answer": "Perché la somiglianza dei nomi non rende identiche le formule o i loro effetti.",
       "spell": "Vermilius",
       "year": 2,
       "meeting": 4,
       "week": 2,
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890"
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa"
     },
     {
       "title": "Fireball",
-      "subtitle": "Riconoscimento teorico di una voce del repertorio",
+      "subtitle": "Il fuoco e il giudizio del difensore",
       "theory": [
-        "Fireball è collocato nel terzo anno di D.C.A.O. Il nome richiama una sfera di fuoco, ma i materiali disponibili non descrivono il funzionamento preciso della versione in gioco. La voce viene studiata senza attribuirle proprietà aggiuntive.",
-        "La denominazione non basta a stabilire traiettoria, impatto, danno o differenze da Incendio. Il tema del fuoco non rende identiche due formule. Prima di insegnarne l’esecuzione il docente deve confermare effetto, bersaglio e condizioni effettivamente previsti.",
-        "La lezione lavora su una scheda incompleta e su casi immaginari. Gli studenti distinguono ciò che il nome suggerisce da ciò che resta da verificare. Non viene predisposta una pratica autonoma né si attribuisce alla formula una capacità particolare contro una creatura."
+        "Fireball richiama l’immagine di una sfera di fuoco. Lo studio del terzo anno riguarda anzitutto il riconoscimento di una manifestazione incendiaria e le conseguenze della sua presenza nell’ambiente. La semplice conoscenza del nome non sostituisce la preparazione dell’incantatore.",
+        "Non si deve confondere Fireball con Incendio. Prima di proporre un impiego difensivo occorre comprendere quale effetto si stia affrontando, dove possa propagarsi il fuoco e quali persone o materiali si trovino vicini. La forza apparente non sostituisce il controllo.",
+        "La lezione procede attraverso descrizioni e casi su tavola. La dimostrazione pratica è affidata al docente e richiede condizioni predisposte. Agli allievi si chiede di motivare una decisione, considerare le vie di allontanamento e riconoscere quando una risposta incendiaria possa aggravare il pericolo."
       ],
       "notions": [
         [
-          "Nome",
-          "Richiama un tema ma non descrive tutti i dettagli dell’effetto."
+          "Riconoscimento",
+          "Distinguere l’aspetto della manifestazione dalle conseguenze che può avere nel luogo."
         ],
         [
-          "Distinzione",
-          "Fireball non va presentato come sinonimo di Incendio."
+          "Confronto",
+          "Fireball e Incendio non vanno trattati come nomi intercambiabili."
         ],
         [
-          "Conferma",
-          "La descrizione della versione in uso precede la dimostrazione."
+          "Giudizio",
+          "Una risposta incendiaria richiede di considerare anche persone e materiali vicini."
         ]
       ],
-      "opening": "Il nome di una formula permette di dedurne ogni conseguenza?",
+      "opening": "Una manifestazione più vistosa è necessariamente una difesa migliore?",
       "steps": [
-        "Annotare collocazione e dati confermati.",
-        "Individuare le informazioni mancanti.",
-        "Spiegare perché non completarle con poteri presunti."
+        "Leggere il caso immaginario predisposto dal docente.",
+        "Individuare persone, materiali e vie di allontanamento.",
+        "Motivare se una risposta incendiaria sia proporzionata."
       ],
-      "question": "Perché la scheda non descrive un esercizio di lancio?",
-      "answer": "Perché il funzionamento specifico deve essere confermato prima di predisporre una pratica.",
+      "question": "Perché il difensore deve osservare anche ciò che circonda il bersaglio?",
+      "answer": "Perché il fuoco può coinvolgere l’ambiente e trasformare una scelta apparentemente efficace in un nuovo pericolo.",
       "spell": "Fireball",
       "year": 3,
       "meeting": 1,
       "week": 1,
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890"
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa"
     },
     {
       "year": 3,
@@ -394,7 +394,7 @@
       ],
       "question": "Confusione e cancellazione della memoria sono la stessa cosa?",
       "answer": "No. Riguardano aspetti differenti e non vanno dedotti l’uno dall’altro.",
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "spell": "Confundo"
     },
     {
@@ -430,7 +430,7 @@
       ],
       "question": "Disarmo e immobilizzazione sono lo stesso effetto?",
       "answer": "No. Il disarmo riguarda la presa sull’oggetto, non ogni movimento o capacità del bersaglio.",
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "spell": "Expelliarmus"
     },
     {
@@ -466,7 +466,7 @@
       ],
       "question": "Perché un arretramento corretto nella direzione può essere comunque inadatto?",
       "answer": "Perché appoggi, ostacoli e persone vicine possono rendere pericoloso il punto d’arrivo.",
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "spell": "Evertestatum"
     },
     {
@@ -502,7 +502,7 @@
       ],
       "question": "Si può riconoscere un rischio senza ridurre la persona alla sua condizione?",
       "answer": "Sì. La precisione riguarda circostanze e fatti, non giudizi generali sul valore della persona.",
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "spell": null
     },
     {
@@ -539,7 +539,7 @@
       "year": 4,
       "meeting": 2,
       "week": 1,
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890"
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa"
     },
     {
       "year": 4,
@@ -574,7 +574,7 @@
       ],
       "question": "Un danno maggiore dimostra una difesa migliore?",
       "answer": "No. Si giudica la corrispondenza con l’obiettivo e le conseguenze per le persone e il luogo.",
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "spell": "Confringo"
     },
     {
@@ -584,9 +584,9 @@
       "title": "Petrificus",
       "subtitle": "Immobilizzazione e stato del bersaglio",
       "theory": [
-        "Nel catalogo indica la formula di immobilizzazione del corpo. Il bersaglio viene irrigidito e limitato nei movimenti. Il volume conserva la denominazione presente nel catalogo della scuola. Il concetto centrale è il vincolo del movimento, distinto da una trasformazione del materiale.",
+        "Petrificus immobilizza il corpo del bersaglio. Il bersaglio viene irrigidito e limitato nei movimenti.  Il concetto centrale è il vincolo del movimento, distinto da una trasformazione del materiale.",
         "Si conserva il nome mostrato dalla scuola. Immobilizzazione, perdita di coscienza e trasformazione in pietra sono concetti diversi.",
-        "La trattazione chiarisce che immobilità, perdita di coscienza e cessazione delle percezioni non sono equivalenti. La pratica su persone non viene presunta dal testo: il docente sceglie dimostrazione e condizioni. Non si aggiungono varianti, durate o contromisure non comprese nel catalogo adottato."
+        "La trattazione chiarisce che immobilità, perdita di coscienza e cessazione delle percezioni non sono equivalenti. La pratica su persone non viene presunta dal testo: il docente sceglie dimostrazione e condizioni. Non si aggiungono varianti, durate o contromisure non comprese nel repertorio adottato."
       ],
       "notions": [
         [
@@ -610,7 +610,7 @@
       ],
       "question": "Il nome della formula giustifica parlare di una trasformazione in pietra?",
       "answer": "No. Il corso descrive immobilizzazione e irrigidimento, senza dedurre un cambiamento materiale dal nome.",
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "spell": "Petrificus"
     },
     {
@@ -646,7 +646,7 @@
       ],
       "question": "Studiare D.C.A.O. equivale a diventare Auror?",
       "answer": "No. Il corso fornisce basi; ruolo, preparazione professionale e autorizzazioni sono questioni differenti.",
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "spell": null
     },
     {
@@ -683,7 +683,7 @@
       "year": 5,
       "meeting": 2,
       "week": 1,
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890"
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa"
     },
     {
       "title": "Incendio",
@@ -719,7 +719,7 @@
       "year": 5,
       "meeting": 3,
       "week": 2,
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890"
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa"
     },
     {
       "title": "Incarcerous",
@@ -755,7 +755,7 @@
       "year": 5,
       "meeting": 4,
       "week": 2,
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890"
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa"
     },
     {
       "year": 6,
@@ -790,7 +790,7 @@
       ],
       "question": "Protego ed Expecto Patronum possono essere dichiarati intercambiabili?",
       "answer": "No. Lo scudo generico e il Patronus hanno compiti differenti, da non confondere.",
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "spell": null
     },
     {
@@ -826,7 +826,7 @@
       ],
       "question": "Il movimento di un corpo dimostra che sia tornata la persona che era?",
       "answer": "No. Nell’Inferius si studia un’animazione imposta, distinta dal ritorno alla vita.",
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "spell": null
     },
     {
@@ -863,7 +863,7 @@
       "year": 6,
       "meeting": 3,
       "week": 2,
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890"
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa"
     },
     {
       "year": 6,
@@ -898,7 +898,7 @@
       ],
       "question": "Un danno maggiore dimostra una difesa migliore?",
       "answer": "No. Si giudica la corrispondenza con l’obiettivo e le conseguenze per le persone e il luogo.",
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "spell": "Confringo"
     },
     {
@@ -935,7 +935,7 @@
       "year": 7,
       "meeting": 1,
       "week": 1,
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890"
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa"
     },
     {
       "year": 7,
@@ -970,7 +970,7 @@
       ],
       "question": "Qual è il traguardo comune dei sette anni?",
       "answer": "Comprendere gli effetti e scegliere una risposta controllata, senza confondere capacità, necessità e autorizzazione.",
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "spell": null
     },
     {
@@ -981,8 +981,8 @@
       "subtitle": "L’effetto esplosivo e ciò che lo circonda",
       "theory": [
         "Produce un effetto esplosivo sul bersaglio o nel punto colpito. La formula viene introdotta per comprenderne la natura e le conseguenze sull’ambiente. Non è presentata come semplice alternativa a una spinta controllata.",
-        "Esplosione e spinta direzionale non sono equivalenti. La descrizione generale non stabilisce raggio, danno o materiali coinvolti nella versione della scuola.",
-        "Il luogo modifica l’esito: superfici, oggetti e persone vicine possono essere coinvolti. La lezione è soprattutto progettuale e dimostrativa, con condizioni decise dal docente. Gli studenti non deducono raggio, danno o comportamento della versione disponibile dal solo nome della formula."
+        "Esplosione e spinta direzionale non sono equivalenti. Occorre considerare persone, superfici e materiali vicini al punto colpito.",
+        "Il luogo modifica l’esito: superfici, oggetti e persone vicine possono essere coinvolti. La lezione è soprattutto progettuale e dimostrativa, con condizioni decise dal docente. Gli studenti osservano l’area coinvolta e le conseguenze senza dedurle dal solo nome della formula."
       ],
       "notions": [
         [
@@ -1006,7 +1006,7 @@
       ],
       "question": "Perché Expulso non va descritto come una semplice spinta più forte?",
       "answer": "Perché la natura esplosiva richiede una valutazione distinta delle conseguenze sul luogo.",
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "spell": "Expulso"
     },
     {
@@ -1042,7 +1042,7 @@
       ],
       "question": "Conoscere la formula garantisce un Patronus corporeo?",
       "answer": "No. Il risultato richiede una padronanza avanzata che non deriva dalla sola lettura.",
-      "source": "Programma D.C.A.O. rielaborato · Ordinamento concordato della scuola · Hogwarts · 1890",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "spell": "Expecto Patronum"
     }
   ]

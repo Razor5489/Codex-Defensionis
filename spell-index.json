@@ -52,16 +52,16 @@
     "year": 2,
     "meeting": 4,
     "week": 2,
-    "effect": "Nome assegnato dalla scuola a D.C.A.O.; la corrispondenza con il repertorio delle scintille rosse richiede conferma in gioco.",
-    "notions": "Voce distinta da Verdimilius. Nessun valore tecnico o effetto offensivo è presunto."
+    "effect": "Formula associata nei trattati a scintille rosse.",
+    "notions": "Distinguere Vermilius da Verdimilius e descrivere la manifestazione prima di interpretarne lo scopo."
   },
   {
     "name": "Fireball",
     "year": 3,
     "meeting": 1,
     "week": 1,
-    "effect": "Nome associabile a una sfera di fuoco; il funzionamento della versione in gioco resta da confermare.",
-    "notions": "Trattazione teorica: non si inventano bersaglio, danno, portata o differenze da Incendio."
+    "effect": "Manifestazione associata a una sfera di fuoco, studiata per il riconoscimento e il giudizio difensivo.",
+    "notions": "Considerare materiali e persone vicine. La dimostrazione è affidata al docente; non confondere Fireball con Incendio."
   },
   {
     "name": "Confundo",
@@ -99,7 +99,7 @@
     "name": "Petrificus",
     "year": 4,
     "meeting": 4,
-    "effect": "Nel catalogo indica la formula di immobilizzazione del corpo.",
+    "effect": "Petrificus immobilizza il corpo del bersaglio.",
     "notions": "Un corpo che non può muoversi non è per questo diventato pietra.",
     "week": 2
   },
