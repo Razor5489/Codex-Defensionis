@@ -13,7 +13,7 @@
     },
     {
       "name": "Duello, misura e risposta",
-      "goal": "Studiare disarmo e sbilanciamento, poi riconoscere quando interrompere il confronto."
+      "goal": "Studiare distanza, sbilanciamento e lettura del duello, riconoscendo quando interrompere il confronto."
     },
     {
       "name": "Creature e protezione del gruppo",
@@ -24,8 +24,8 @@
       "goal": "Studiare Confundo, Petrificus e Incarcerous e confrontare la preparazione scolastica con il lavoro degli Auror."
     },
     {
-      "name": "Minacce oscure e magie esplosive",
-      "goal": "Studiare Dissennatori e Inferi, quindi Bombarda e Confringo con preparazione e supervisione."
+      "name": "Minacce oscure, esplosione e disarmo",
+      "goal": "Studiare Dissennatori e Inferi, confrontare Bombarda e Confringo, quindi introdurre Expelliarmus."
     },
     {
       "name": "Il confine delle Arti Oscure",
@@ -326,41 +326,41 @@
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa"
     },
     {
-      "year": 3,
-      "meeting": 1,
-      "week": 1,
-      "title": "Expelliarmus",
-      "subtitle": "Il disarmo come risultato circoscritto",
+      "title": "Distanza e osservazione",
+      "subtitle": "Leggere il confronto prima di intervenire",
       "theory": [
-        "Disarma il bersaglio, facendogli perdere la presa sulla bacchetta o sull’oggetto interessato dall’effetto. La nozione centrale riguarda la perdita della presa. Si distingue dal ferimento e dalla cessazione automatica di ogni capacità di reagire.",
-        "Disarmare e ferire sono compiti distinti. Nel ragionamento difensivo conta interrompere l’azione avversaria e riconoscere la perdita della presa.",
-        "Il docente prepara una prova su un supporto inanimato o una dimostrazione concordata. Il giudizio non si ferma all’oggetto lasciato cadere: occorre osservare chi sia presente, dove finisca e quale possibilità di allontanamento si apra. Disarmare non conferisce il controllo totale della situazione."
+        "La difesa comincia dal riconoscimento delle persone, dei percorsi e dei cambiamenti del luogo. Prima di scegliere una formula, l’allievo descrive che cosa stia accadendo e quale risultato sia necessario. Un gesto isolato non permette di conoscere ogni intenzione dell’altro.",
+        "Una distanza maggiore non costituisce da sola una protezione. Ostacoli, appoggi e presenza dei compagni possono cambiare la possibilità di allontanarsi. L’osservazione prepara il giudizio senza attribuire alla propria scelta un risultato garantito.",
+        "La lezione usa casi su tavola e movimenti concordati senza lanciare nuove formule. Gli studenti individuano un percorso, segnalano un ostacolo e spiegano quando chiedere l’intervento del docente. Il terzo anno sviluppa lettura del confronto e controllo dello sbilanciamento."
       ],
       "notions": [
         [
-          "Presa",
-          "È il rapporto tra il bersaglio e l’oggetto che impugna."
+          "Distanza",
+          "Va letta insieme agli ostacoli e alle persone presenti."
         ],
         [
-          "Esito",
-          "La perdita della bacchetta non è sinonimo di svenimento."
+          "Osservazione",
+          "Descrivere ciò che cambia senza presumere di conoscere ogni intenzione."
         ],
         [
-          "Spazio",
-          "Anche l’oggetto allontanato entra nella valutazione del risultato."
+          "Decisione",
+          "Definire un risultato necessario e il momento in cui fermarsi."
         ]
       ],
-      "opening": "Un avversario disarmato ha necessariamente perso ogni possibilità di movimento?",
+      "opening": "Una maggiore distanza elimina automaticamente il pericolo?",
       "steps": [
-        "Individuare l’obiettivo del disarmo in una scena immaginaria.",
-        "Distinguere perdita della presa e condizioni della persona.",
-        "Indicare quale osservazione serva prima di considerare concluso il problema."
+        "Leggere il caso scritto e distinguere fatti e ipotesi.",
+        "Indicare bersaglio, persone esposte e risultato necessario.",
+        "Motivare una scelta e il momento in cui chiedere l’intervento del docente."
       ],
-      "question": "Disarmo e immobilizzazione sono lo stesso effetto?",
-      "answer": "No. Il disarmo riguarda la presa sull’oggetto, non ogni movimento o capacità del bersaglio.",
+      "question": "Una maggiore distanza elimina automaticamente il pericolo?",
+      "answer": "No. Percorsi, ostacoli e possibilità di movimento devono essere valutati insieme.",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": "Expelliarmus",
-      "id": 9
+      "spell": null,
+      "id": 9,
+      "year": 3,
+      "meeting": 1,
+      "week": 1
     },
     {
       "year": 3,
@@ -403,9 +403,9 @@
       "title": "Rispondere senza aggravare",
       "subtitle": "L’interruzione e la possibilità di allontanarsi",
       "theory": [
-        "Un confronto difensivo non richiede di rendere impotente ogni persona presente. Il risultato necessario può essere interrompere un gesto, creare uno spazio o consentire l’allontanamento. Il terzo anno confronta disarmo e sbilanciamento senza scambiarli per controllo della mente.",
-        "L’effetto di Expelliarmus riguarda il disarmo; Evertestatum produce arretramento o perdita di equilibrio. La persona colpita non perde per questo ogni possibilità di reagire. Il difensore deve osservare ciò che accade dopo il primo effetto.",
-        "Le esercitazioni seguono ruoli e segnali concordati con il docente. Una caduta o una bacchetta lasciata non giustificano l’insistenza. Quando lo scopo è raggiunto, si interrompe la prova e si confrontano risultato e conseguenze."
+        "Un confronto difensivo non richiede di rendere impotente ogni persona presente. Il risultato necessario può essere interrompere un gesto, creare uno spazio o consentire l’allontanamento. Il terzo anno studia lettura del confronto e sbilanciamento senza scambiarli per controllo della mente.",
+        "Evertestatum produce arretramento o perdita di equilibrio. La persona colpita non perde per questo ogni possibilità di reagire. Il difensore deve osservare ciò che accade dopo il primo effetto, invece di presumere che il confronto sia già concluso.",
+        "Le esercitazioni seguono ruoli e segnali concordati con il docente. Uno sbilanciamento non giustificano l’insistenza. Quando lo scopo è raggiunto, si interrompe la prova e si confrontano risultato e conseguenze."
       ],
       "notions": [
         [
@@ -421,14 +421,14 @@
           "Osservare se la situazione consenta l’allontanamento."
         ]
       ],
-      "opening": "Un avversario disarmato è automaticamente incapace di qualunque azione?",
+      "opening": "Una persona sbilanciata ha perso automaticamente ogni possibilità di risposta?",
       "steps": [
         "Leggere il caso scritto e distinguere fatti e ipotesi.",
         "Indicare bersaglio, persone esposte e risultato necessario.",
         "Motivare una scelta e il momento in cui chiedere l’intervento del docente."
       ],
-      "question": "Un avversario disarmato è automaticamente incapace di qualunque azione?",
-      "answer": "No. Il disarmo modifica una condizione, non cancella volontà, movimento e possibilità di risposta.",
+      "question": "Una persona sbilanciata ha perso automaticamente ogni possibilità di risposta?",
+      "answer": "No. La perdita di equilibrio non cancella volontà, percezione e possibilità di reagire.",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "spell": null,
       "id": 11,
@@ -441,8 +441,8 @@
       "subtitle": "Bersaglio, spazio e conclusione della prova",
       "theory": [
         "La lettura di un duello considera direzione, ostacoli e posizione dei compagni. Saper riconoscere un’occasione per fermarsi è parte della preparazione: non si valuta soltanto chi abbia mostrato l’effetto più vistoso.",
-        "L’effetto di Expelliarmus riguarda il disarmo; Evertestatum produce arretramento o perdita di equilibrio. La persona colpita non perde per questo ogni possibilità di reagire. Il difensore deve osservare ciò che accade dopo il primo effetto.",
-        "Le esercitazioni seguono ruoli e segnali concordati con il docente. Una caduta o una bacchetta lasciata non giustificano l’insistenza. Quando lo scopo è raggiunto, si interrompe la prova e si confrontano risultato e conseguenze."
+        "Evertestatum produce arretramento o perdita di equilibrio. La persona colpita non perde per questo ogni possibilità di reagire. Il difensore deve osservare ciò che accade dopo il primo effetto, invece di presumere che il confronto sia già concluso.",
+        "Le esercitazioni seguono ruoli e segnali concordati con il docente. Uno sbilanciamento non giustificano l’insistenza. Quando lo scopo è raggiunto, si interrompe la prova e si confrontano risultato e conseguenze."
       ],
       "notions": [
         [
@@ -458,14 +458,14 @@
           "Osservare se la situazione consenta l’allontanamento."
         ]
       ],
-      "opening": "Un avversario disarmato è automaticamente incapace di qualunque azione?",
+      "opening": "Una persona sbilanciata ha perso automaticamente ogni possibilità di risposta?",
       "steps": [
         "Leggere il caso scritto e distinguere fatti e ipotesi.",
         "Indicare bersaglio, persone esposte e risultato necessario.",
         "Motivare una scelta e il momento in cui chiedere l’intervento del docente."
       ],
-      "question": "Un avversario disarmato è automaticamente incapace di qualunque azione?",
-      "answer": "No. Il disarmo modifica una condizione, non cancella volontà, movimento e possibilità di risposta.",
+      "question": "Una persona sbilanciata ha perso automaticamente ogni possibilità di risposta?",
+      "answer": "No. La perdita di equilibrio non cancella volontà, percezione e possibilità di reagire.",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "spell": null,
       "id": 12,
@@ -589,7 +589,7 @@
       "subtitle": "Creature, percorsi e richiesta di assistenza",
       "theory": [
         "Negli incontri con creature, le formule studiate fra maghi non garantiscono lo stesso risultato. Il quarto anno collega licantropi e Acromantule alla protezione del gruppo: identificare percorsi e persone esposte precede qualsiasi dimostrazione.",
-        "L’effetto di Expelliarmus riguarda il disarmo; Evertestatum produce arretramento o perdita di equilibrio. La persona colpita non perde per questo ogni possibilità di reagire. Il difensore deve osservare ciò che accade dopo il primo effetto.",
+        "La lettura di una creatura richiede di considerare territorio, vie di allontanamento e posizione del gruppo. Un effetto riuscito fra maghi non costituisce una prova della sua efficacia contro un essere di natura differente.",
         "Le esercitazioni seguono ruoli e segnali concordati con il docente. Una caduta o una bacchetta lasciata non giustificano l’insistenza. Quando lo scopo è raggiunto, si interrompe la prova e si confrontano risultato e conseguenze."
       ],
       "notions": [
@@ -606,14 +606,14 @@
           "Osservare se la situazione consenta l’allontanamento."
         ]
       ],
-      "opening": "Un avversario disarmato è automaticamente incapace di qualunque azione?",
+      "opening": "Una formula efficace in un duello ha necessariamente lo stesso risultato su una creatura?",
       "steps": [
         "Leggere il caso scritto e distinguere fatti e ipotesi.",
         "Indicare bersaglio, persone esposte e risultato necessario.",
         "Motivare una scelta e il momento in cui chiedere l’intervento del docente."
       ],
-      "question": "Un avversario disarmato è automaticamente incapace di qualunque azione?",
-      "answer": "No. Il disarmo modifica una condizione, non cancella volontà, movimento e possibilità di risposta.",
+      "question": "Una formula efficace in un duello ha necessariamente lo stesso risultato su una creatura?",
+      "answer": "No. Natura del bersaglio, ambiente e condizioni dell’incontro richiedono una valutazione distinta.",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "spell": null,
       "id": 16,
@@ -844,25 +844,25 @@
       "id": 22
     },
     {
-      "title": "Bombarda",
-      "subtitle": "L’esplosione e le sue conseguenze",
+      "title": "Bombarda e Confringo",
+      "subtitle": "Confronto fra effetti esplosivi",
       "theory": [
-        "Produce un’esplosione sul punto colpito. L’effetto può danneggiare un ostacolo, ma coinvolge anche materiali, frammenti e ciò che si trova nelle vicinanze. Non equivale a una separazione precisa come un taglio.",
-        "La superficie visibile non racconta ciò che esiste dietro. Una porta o una parete possono nascondere persone, sostegni o materiali fragili: non conoscere queste condizioni è un limite da considerare prima di agire.",
-        "Il confronto avviene su tavola; ogni dimostrazione richiede un bersaglio isolato predisposto dal docente. La valutazione comprende anche la decisione di non utilizzare un’esplosione, senza inventare raggio, danno o requisiti tecnici del gioco."
+        "Bombarda: Produce un’esplosione sul punto colpito. L’effetto può danneggiare un ostacolo, ma coinvolge anche materiali, frammenti e ciò che si trova nelle vicinanze. Non equivale a una separazione precisa come un taglio.",
+        "Confringo: Provoca un’esplosione nel punto o sul bersaglio raggiunto dalla formula. Si conserva la distinzione tra descrizione di un effetto offensivo e decisione di impiegarlo. La sua presenza nel programma non autorizza prove libere sull’ambiente.",
+        "Il sesto anno confronta bersaglio e conseguenze delle due formule senza attribuire differenze non osservate. Lo studio procede su tavola; una dimostrazione richiede un bersaglio isolato predisposto dal docente. Si considerano frammenti, materiali vicini e persone esposte prima di decidere se intervenire."
       ],
       "notions": [
         [
-          "Effetto",
-          "Produce un’esplosione sul punto colpito. L’effetto può danneggiare un ostacolo, ma coinvolge anche materiali, frammenti e ciò che si trova nelle vicinanze. Non equivale a una separazione precisa come un taglio."
+          "Bombarda",
+          "Studiare il punto colpito e le conseguenze dell’esplosione sui materiali vicini."
         ],
         [
-          "Conseguenze",
-          "La superficie visibile non racconta ciò che esiste dietro. Una porta o una parete possono nascondere persone, sostegni o materiali fragili: non conoscere queste condizioni è un limite da considerare prima di agire."
+          "Confringo",
+          "Distinguere la manifestazione offensiva dal giudizio sulla necessità di impiegarla."
         ],
         [
-          "Applicazione difensiva",
-          "Lo scopo va motivato e il risultato verificato nel contesto."
+          "Confronto",
+          "Non dedurre portata, precisione o superiorità di una formula dalla sola somiglianza dei risultati."
         ]
       ],
       "opening": "Ottenere l’effetto desiderato basta a rendere corretta la scelta?",
@@ -873,48 +873,52 @@
       ],
       "question": "Quali elementi occorre valutare oltre alla riuscita della formula?",
       "answer": "Bersaglio, ambiente, persone esposte e conseguenze successive. La riuscita tecnica da sola non dimostra che l’intervento sia adatto.",
-      "spell": "Bombarda",
+      "spell": null,
       "year": 6,
       "meeting": 3,
       "week": 2,
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "id": 23
+      "id": 23,
+      "spells": [
+        "Bombarda",
+        "Confringo"
+      ]
     },
     {
       "year": 6,
       "meeting": 4,
       "week": 2,
-      "title": "Confringo",
-      "subtitle": "Introduzione alla magia esplosiva avanzata",
+      "title": "Expelliarmus",
+      "subtitle": "Il disarmo come risultato circoscritto",
       "theory": [
-        "Provoca un’esplosione nel punto o sul bersaglio raggiunto dalla formula. Si conserva la distinzione tra descrizione di un effetto offensivo e decisione di impiegarlo. La sua presenza nel programma non autorizza prove libere sull’ambiente.",
-        "Va distinto da Incendio, studiato per la produzione di fuoco. La classificazione offensiva e le condizioni d’impiego appartengono alla lezione di D.C.A.O.",
-        "Il sesto anno collega l’effetto al materiale colpito e alle conseguenze nell’ambiente. Lo studio procede su tavola; una dimostrazione richiede un bersaglio isolato predisposto dal docente. Non si attribuiscono alla sola conoscenza della formula precisione assoluta o autorità sulle strutture della scuola."
+        "Disarma il bersaglio, facendogli perdere la presa sulla bacchetta o sull’oggetto interessato dall’effetto. La nozione centrale riguarda la perdita della presa. Si distingue dal ferimento e dalla cessazione automatica di ogni capacità di reagire.",
+        "Disarmare e ferire sono compiti distinti. Nel ragionamento difensivo conta interrompere l’azione avversaria e riconoscere la perdita della presa.",
+        "Il disarmo viene introdotto nel sesto anno. Il docente prepara una prova su un supporto inanimato o una dimostrazione concordata. Si considera anche dove finisca l’oggetto allontanato e quale possibilità di risposta resti alla persona: perdere la presa non equivale a perdere ogni capacità di reagire."
       ],
       "notions": [
         [
-          "Riconoscimento",
-          "Il punto dell’impatto e gli effetti sull’ambiente vanno descritti separatamente."
+          "Presa",
+          "È il rapporto tra il bersaglio e l’oggetto che impugna."
         ],
         [
-          "Confronto",
-          "Due formule affini non si distinguono inventando portate o potenziamenti."
+          "Esito",
+          "La perdita della bacchetta non è sinonimo di svenimento."
         ],
         [
-          "Scopo",
-          "L’obiettivo di protezione deve restare riconoscibile."
+          "Spazio",
+          "Anche l’oggetto allontanato entra nella valutazione del risultato."
         ]
       ],
-      "opening": "Distruggere un ostacolo risolve il problema se blocca l’unico accesso disponibile?",
+      "opening": "Un avversario disarmato ha necessariamente perso ogni possibilità di movimento?",
       "steps": [
-        "Analizzare una scena immaginaria con un ostacolo e un passaggio.",
-        "Valutare una conseguenza dell’effetto che comprometta l’obiettivo.",
-        "Proporre quali informazioni servano prima di una dimostrazione."
+        "Individuare l’obiettivo del disarmo in una scena immaginaria.",
+        "Distinguere perdita della presa e condizioni della persona.",
+        "Indicare quale osservazione serva prima di considerare concluso il problema."
       ],
-      "question": "Un danno maggiore dimostra una difesa migliore?",
-      "answer": "No. Si giudica la corrispondenza con l’obiettivo e le conseguenze per le persone e il luogo.",
+      "question": "Disarmo e immobilizzazione sono lo stesso effetto?",
+      "answer": "No. Il disarmo riguarda la presa sull’oggetto, non ogni movimento o capacità del bersaglio.",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": "Confringo",
+      "spell": "Expelliarmus",
       "id": 24
     },
     {
