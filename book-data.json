@@ -1,840 +1,854 @@
 {
   "pages": [
     {
-      "image": "pages/page-01.svg?v=20261122-inrole4",
+      "image": "pages/page-01.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nSilas Ravenshaw\nHogwarts · 1890\nConoscenza, controllo e giudizio",
       "title": "Copertina",
       "folio": "Copertina",
       "kind": "cover"
     },
     {
-      "image": "pages/page-02.svg?v=20261122-inrole4",
+      "image": "pages/page-02.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nPraefatio\nIl compito del difensore\nPrefazione di Silas Ravenshaw\nLa difesa non comincia dalla formula più forte. Comincia dalla comprensione di ciò che sta accadendo: un effetto, una persona esposta, un luogo che può rendere migliore o peggiore ogni decisione.\nQuesto volume accompagna sette annualità, ciascuna di due settimane con due lezioni a settimana. I ventotto incontri collegano le formule del repertorio a paura, creature, oggetti sospetti e responsabilità. Ogni lezione comprende spiegazione, nozioni e confronto in aula.\nComprendere prima di scegliere\nUna stessa manifestazione può avere conseguenze diverse in condizioni differenti. La precisione consiste nel riconoscere il bersaglio, definire un risultato necessario e controllare che l’intervento non produca un problema più grande.\nHogwarts · 1890\nConoscenza, esecuzione e autorizzazione sono distinte. La lettura non assegna capacità avanzate e non sostituisce la valutazione del docente.\nConservate negli appunti anche i limiti delle risposte. Un giudizio affidabile non nasconde ciò che resta incerto e non scambia la prudenza per mancanza di coraggio.\nSilas Ravenshaw",
       "title": "Il compito del difensore",
       "folio": "02",
       "kind": "theory"
     },
     {
-      "image": "pages/page-03.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nTabula Materiarum\nIndice del volume\nSette annualità · Ventotto lezioni\nPrefazione 2\nIl percorso delle due settimane 4\nIl metodo della difesa 5\nAnno I · I fondamenti della difesa 6\nAnno II · La paura e le prime fatture 20\nAnno III · Controllo, confusione e disarmo 34\nAnno IV · Pericoli viventi e immobilizzazione 48\nAnno V · Tecniche avanzate e responsabilità 62\nAnno VI · Oscurità, fuoco e distruzione 76\nAnno VII · Il confine delle Arti Oscure 90\nScegliere una difesa 105\nIl rapporto dopo l’evento 106\nLe formule per anno 107\nRepertorio · I 108\nLessico essenziale 116\nIl consiglio del maestro 117\nFinis 118\nIl repertorio contiene sette tavole di consultazione. La ricerca permette di trovare formule, argomenti e singole lezioni.",
+      "image": "pages/page-03.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nTabula Materiarum\nIndice del volume\nSette annualità · Ventotto lezioni\nPrefazione 2\nIl percorso delle due settimane 4\nIl metodo della difesa 5\nAnno I · I fondamenti della difesa 6\nAnno II · La paura e le prime fatture 20\nAnno III · Duello, misura e risposta 34\nAnno IV · Creature e protezione del gruppo 48\nAnno V · Contenimento e responsabilità 62\nAnno VI · Minacce oscure e magie esplosive 76\nAnno VII · Il confine delle Arti Oscure 90\nApprofondimento · I troll: forza, territorio e prudenza 104\nObliviate · Solo teoria 107\nScegliere una difesa 108\nIl rapporto dopo l’evento 109\nLe formule per anno 110\nRepertorio · I 111\nLessico essenziale 118\nIl consiglio del maestro 119\nFinis 120\nIl repertorio raccoglie le schede delle formule del corso. La ricerca permette di trovare formule, argomenti e singole lezioni.",
       "title": "Indice del volume",
       "folio": "03",
       "kind": "theory"
     },
     {
-      "image": "pages/page-04.svg?v=20261122-inrole4",
+      "image": "pages/page-04.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nCursus Septem Annorum\nIl percorso delle due settimane\nQuattro incontri per ciascun anno\nSettimana I\nDue lezioni per riconoscere il problema, descrivere gli effetti e distinguere bersagli e condizioni.\nSettimana II\nDue lezioni per approfondire il confronto, applicare il metodo e raccogliere il ripasso prima del passaggio all’annualità successiva.\nQuindici minuti\n2 minuti per la domanda iniziale; 5 per spiegazione e nozioni; 5 per attività o dimostrazione; 3 per confronto e risposta ragionata.\nTre pagine, una lezione\nLa spiegazione, le nozioni e la scheda per l’aula appartengono allo stesso incontro. Il repertorio finale facilita il ripasso senza aggiungere lezioni al calendario.\nRecuperi, dimostrazioni e verifiche seguono le disposizioni della scuola.",
       "title": "Il percorso delle due settimane",
       "folio": "04",
       "kind": "theory"
     },
     {
-      "image": "pages/page-05.svg?v=20261122-inrole4",
+      "image": "pages/page-05.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nMethodus\nQuattro domande prima di agire\nIl metodo che accompagna il corso\nChe cosa sta accadendo?\nDescrivere l’effetto senza attribuire subito una causa o una formula. Le informazioni insufficienti restano tali.\nChi e che cosa è coinvolto?\nIndividuare bersaglio, persone vicine, appoggi, accessi e condizioni del luogo.\nQuale risultato serve?\nDefinire un obiettivo circoscritto, distinguendo protezione, interruzione e assistenza.\nCome si verificherà l’esito?\nOsservare ciò che cambia, dichiarare i limiti e richiedere la competenza adatta quando il compito li supera.\nLa misura della preparazione\nSaper scegliere comprende la capacità di sospendere un intervento o di non eseguirlo quando le condizioni non sono adeguate.",
       "title": "Quattro domande prima di agire",
       "folio": "05",
       "kind": "theory"
     },
     {
-      "image": "pages/page-06.svg?v=20261122-inrole4",
+      "image": "pages/page-06.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno I\nI fondamenti della difesa\nAnnus Primus\nImparare a distinguere una minaccia da uno scherzo, conservare il controllo e reagire senza eccessi.\nL’annualità\nDue settimane. Due lezioni ogni settimana. Quattro incontri, ciascuno con spiegazione, nozioni e lavoro in aula.",
       "title": "I fondamenti della difesa",
       "folio": "06",
       "kind": "divider"
     },
     {
-      "image": "pages/page-07.svg?v=20261122-inrole4",
+      "image": "pages/page-07.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno I\nIl programma dell’anno\nDue settimane · Quattro lezioni\nSettimana I\nLezione 1 · Fattura, maleficio e maledizione 8\nRiconoscere l’effetto e il contesto\nLezione 2 · Rictusempra 11\nDistrazione e interruzione\nSettimana II\nLezione 3 · Flipendo 14\nL’impulso e il punto d’arrivo\nLezione 4 · Protego 17\nLo scudo e i suoi limiti\nTraguardo\nImparare a distinguere una minaccia da uno scherzo, conservare il controllo e reagire senza eccessi.\nLe tre pagine di ogni lezione uniscono spiegazione, nozioni e confronto. Dopo il quarto incontro si passa all’annualità successiva.",
       "title": "Il programma dell’anno",
       "folio": "07",
       "kind": "theory"
     },
     {
-      "image": "pages/page-08.svg?v=20261122-inrole4",
+      "image": "pages/page-08.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno I · Settimana I\nFattura, maleficio e maledizione\nRiconoscere l’effetto e il contesto\nLa Difesa contro le Arti Oscure insegna a riconoscere un rischio e a scegliere una risposta. Un nome impressionante non descrive da solo ciò che sta accadendo. Prima di agire occorre identificare bersaglio, effetto e condizioni del luogo.\nFattura, maleficio e maledizione indicano famiglie di effetti ostili, non una graduatoria che renda innocuo tutto ciò che viene chiamato lieve. Una limitazione breve del movimento può diventare grave vicino a un dislivello. Il giudizio collega natura dell’effetto e situazione concreta.\nLa materia non coincide con una raccolta di attacchi. Interrompere un’aggressione, creare distanza e consentire l’allontanamento sono obiettivi diversi dalla punizione dell’avversario. Conoscere una formula non dimostra che il suo impiego sia necessario o adeguato.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
       "title": "Fattura, maleficio e maledizione",
       "folio": "08",
       "kind": "theory"
     },
     {
-      "image": "pages/page-09.svg?v=20261122-inrole4",
+      "image": "pages/page-09.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno I · Lectio 1\nLe nozioni da ricordare\nFattura, maleficio e maledizione\nEffetto\nDescrivere ciò che cambia nel bersaglio prima di attribuirgli un nome.\nContesto\nLuogo, persone vicine e possibilità di movimento modificano le conseguenze.\nObiettivo\nLa difesa deve indicare quale rischio si intenda ridurre.\nDomanda da discutere\nUna formula considerata semplice può essere usata in modo pericoloso?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
       "title": "Fattura, maleficio e maledizione · Nozioni",
       "folio": "09",
       "kind": "theory"
     },
     {
-      "image": "pages/page-10.svg?v=20261122-inrole4",
+      "image": "pages/page-10.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno I · Lectio 1\nIl confronto in aula\nFattura, maleficio e maledizione · Scheda della lezione\nApertura\nUna formula considerata semplice può essere usata in modo pericoloso?\n1. Confrontare due casi immaginari con lo stesso effetto in luoghi diversi.\n2. Indicare bersaglio, rischio e risultato necessario.\n3. Separare la cessazione del pericolo dall’idea di infliggere una punizione.\nDomanda di ripasso\nPerché il nome della categoria non basta a giudicare una situazione?\nRisposta ragionata\nPerché gravità e risposta dipendono anche da condizioni, bersaglio e conseguenze osservabili.",
       "title": "Fattura, maleficio e maledizione · Attività e ripasso",
       "folio": "10",
       "kind": "theory"
     },
     {
-      "image": "pages/page-11.svg?v=20261122-inrole4",
+      "image": "pages/page-11.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno I · Settimana I\nRictusempra\nDistrazione e interruzione\nProvoca solletico nel bersaglio, interferendo con la sua capacità di mantenere la concentrazione. La formula, già assegnata al primo anno, permette di studiare come una sensazione imposta possa interferire con l’azione. Il solletico non rende il suo uso su una persona un gioco privo di conseguenze.\nLa distrazione è una conseguenza dell’effetto sul bersaglio; non equivale a controllarne la mente o a imporne ogni movimento.\nLa lezione distingue riconoscimento dell’effetto e prova pratica. Non si ricercano reazioni umilianti né si insiste per ottenere una risposta più vistosa. Il docente stabilisce se e come mostrare il fenomeno; gli allievi analizzano il rapporto tra sensazione, concentrazione e ambiente.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
       "title": "Rictusempra",
       "folio": "11",
       "kind": "theory"
     },
     {
-      "image": "pages/page-12.svg?v=20261122-inrole4",
+      "image": "pages/page-12.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno I · Lectio 2\nLe nozioni da ricordare\nRictusempra\nSensazione\nIl solletico è l’effetto centrale, non un controllo generale della mente.\nInterruzione\nDistrarre e immobilizzare non sono azioni equivalenti.\nRispetto\nLa risata osservata non dimostra un consenso all’esecuzione.\nDomanda da discutere\nIl fatto che qualcuno rida dimostra che desideri continuare la prova?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
       "title": "Rictusempra · Nozioni",
       "folio": "12",
       "kind": "theory"
     },
     {
-      "image": "pages/page-13.svg?v=20261122-inrole4",
+      "image": "pages/page-13.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno I · Lectio 2\nIl confronto in aula\nRictusempra · Scheda della lezione\nApertura\nIl fatto che qualcuno rida dimostra che desideri continuare la prova?\n1. Descrivere l’effetto senza attribuirgli automaticamente innocuità.\n2. Confrontarlo con uno spostamento prodotto da Flipendo.\n3. Confrontare il solletico con gli altri effetti difensivi che saranno studiati nel primo anno.\nDomanda di ripasso\nRictusempra garantisce che il bersaglio non possa più agire?\nRisposta ragionata\nNo. Un’interferenza con la concentrazione non equivale a un’immobilizzazione completa.",
       "title": "Rictusempra · Attività e ripasso",
       "folio": "13",
       "kind": "theory"
     },
     {
-      "image": "pages/page-14.svg?v=20261122-inrole4",
+      "image": "pages/page-14.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno I · Settimana II\nFlipendo\nL’impulso e il punto d’arrivo\nColpisce con un impulso capace di respingere o rovesciare il bersaglio. Nel programma della scuola appartiene al primo anno. Il suo studio distingue il semplice spostamento dal controllo delle conseguenze che seguono lo sbilanciamento.\nL’impulso offensivo si distingue dal trasporto controllato di un oggetto. Nella classificazione della scuola la formula appartiene a D.C.A.O.\nLa pratica usa un bersaglio inanimato e uno spazio predisposto. Il punto d’arrivo conta quanto il movimento iniziale: allontanare un oggetto verso una persona o un passaggio non risolve il problema. Una maggiore preparazione si riconosce anche nella capacità di scegliere un impulso contenuto.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
       "title": "Flipendo",
       "folio": "14",
       "kind": "theory"
     },
     {
-      "image": "pages/page-15.svg?v=20261122-inrole4",
+      "image": "pages/page-15.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno I · Lectio 3\nLe nozioni da ricordare\nFlipendo\nImpulso\nProduce movimento o rovesciamento, non una guida libera e continua.\nDestinazione\nLa zona verso cui si muove il bersaglio deve essere considerata prima.\nMisura\nUn effetto più intenso non è automaticamente più adatto.\nDomanda da discutere\nLiberare il proprio spazio può creare un nuovo problema per chi si trova dietro al bersaglio?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
       "title": "Flipendo · Nozioni",
       "folio": "15",
       "kind": "theory"
     },
     {
-      "image": "pages/page-16.svg?v=20261122-inrole4",
+      "image": "pages/page-16.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno I · Lectio 3\nIl confronto in aula\nFlipendo · Scheda della lezione\nApertura\nLiberare il proprio spazio può creare un nuovo problema per chi si trova dietro al bersaglio?\n1. Individuare origine e punto d’arrivo di un oggetto su una tavola.\n2. Svolgere il compito guidato su un bersaglio preparato.\n3. Confrontare risultato previsto ed effetti sullo spazio vicino.\nDomanda di ripasso\nPerché spostare un bersaglio non significa necessariamente aver risolto il rischio?\nRisposta ragionata\nPerché il movimento può trasferire il pericolo verso altri o creare ostacoli non previsti.",
       "title": "Flipendo · Attività e ripasso",
       "folio": "16",
       "kind": "theory"
     },
     {
-      "image": "pages/page-17.svg?v=20261122-inrole4",
+      "image": "pages/page-17.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno I · Settimana II\nProtego\nLo scudo e i suoi limiti\nGenera uno scudo magico difensivo, utile a contrastare effetti compatibili con la protezione. Il primo compito consiste nel comprendere che cosa venga protetto e quale effetto si stia affrontando, non nel presumere che la sola presenza dello scudo renda sicura ogni situazione.\nUno scudo non è una garanzia assoluta contro ogni magia. La protezione va distinta dall’attacco e dalla deviazione osservata di un singolo effetto.\nLa dimostrazione usa condizioni predisposte dal docente. Gli studenti osservano avvio, orientamento e risultato; non cercano di misurare la protezione esponendosi a formule ignote. Uno scudo riuscito in una prova non prova la stessa efficacia contro ogni minaccia.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
       "title": "Protego",
       "folio": "17",
       "kind": "theory"
     },
     {
-      "image": "pages/page-18.svg?v=20261122-inrole4",
+      "image": "pages/page-18.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno I · Lectio 4\nLe nozioni da ricordare\nProtego\nProtezione\nUno scudo è una difesa attiva da valutare rispetto all’effetto affrontato.\nOrientamento\nBersaglio protetto e provenienza del rischio devono essere riconosciuti.\nRiscontro\nLa manifestazione visibile e l’efficacia nel compito sono dati collegati ma distinti.\nDomanda da discutere\nUno scudo visibile basta a dimostrare che ogni persona nell’aula sia protetta?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
       "title": "Protego · Nozioni",
       "folio": "18",
       "kind": "theory"
     },
     {
-      "image": "pages/page-19.svg?v=20261122-inrole4",
+      "image": "pages/page-19.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno I · Lectio 4\nIl confronto in aula\nProtego · Scheda della lezione\nApertura\nUno scudo visibile basta a dimostrare che ogni persona nell’aula sia protetta?\n1. Indicare il bersaglio da proteggere in una scena su tavola.\n2. Osservare una dimostrazione concordata, senza aggiungere prove spontanee.\n3. Descrivere soltanto ciò che il risultato permette di verificare.\nDomanda di ripasso\nProtego è una garanzia universale contro qualsiasi effetto?\nRisposta ragionata\nNo. La sua efficacia va riferita alla minaccia e alle condizioni conosciute, senza estenderla automaticamente ad altri casi.\nConcluso il ciclo di due settimane. Si prosegue con l’anno II.",
       "title": "Protego · Attività e ripasso",
       "folio": "19",
       "kind": "theory"
     },
     {
-      "image": "pages/page-20.svg?v=20261122-inrole4",
+      "image": "pages/page-20.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno II\nLa paura e le prime fatture\nAnnus Secundus\nPrima settimana: Molliccio, Riddikulus e Coloshoo. Seconda settimana: Tarantallegra e Vermilius, distinguendo effetti, segnali e conseguenze.\nL’annualità\nDue settimane. Due lezioni ogni settimana. Quattro incontri, ciascuno con spiegazione, nozioni e lavoro in aula.",
       "title": "La paura e le prime fatture",
       "folio": "20",
       "kind": "divider"
     },
     {
-      "image": "pages/page-21.svg?v=20261122-inrole4",
+      "image": "pages/page-21.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno II\nIl programma dell’anno\nDue settimane · Quattro lezioni\nSettimana I\nLezione 1 · Il Molliccio e il potere della paura 22\nRiconoscere la figura e comprendere la reazione\nLezione 2 · Riddikulus e Coloshoo 25\nPaura e mobilità: due problemi diversi\nSettimana II\nLezione 3 · Tarantallegra 28\nMovimento imposto degli arti inferiori\nLezione 4 · Vermilius 31\nLe scintille rosse e la lettura del segnale\nTraguardo\nPrima settimana: Molliccio, Riddikulus e Coloshoo. Seconda settimana: Tarantallegra e Vermilius, distinguendo effetti, segnali e conseguenze.\nLe tre pagine di ogni lezione uniscono spiegazione, nozioni e confronto. Dopo il quarto incontro si passa all’annualità successiva.",
       "title": "Il programma dell’anno",
       "folio": "21",
       "kind": "theory"
     },
     {
-      "image": "pages/page-22.svg?v=20261122-inrole4",
+      "image": "pages/page-22.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno II · Settimana I\nIl Molliccio e il potere della paura\nRiconoscere la figura e comprendere la reazione\nIl Molliccio è una creatura mutevole che si manifesta con l’aspetto di ciò che spaventa chi lo osserva. Può rifugiarsi in spazi appartati e chiusi. La figura incontrata non permette di descriverne una forma naturale certa.\nLa paura è parte dell’incontro: influenza attenzione e decisioni. L’immagine di una creatura temuta non dimostra che tutte le capacità di quella creatura siano presenti. Si osservano luogo, cambiamenti della figura e reazioni, evitando conclusioni basate soltanto sull’apparenza.\nLa preparazione a Riddikulus comprende un lavoro d’immaginazione: modificare l’immagine in una scena comica. Gli studenti non devono raccontare esperienze intime per dimostrare preparazione. La classe lavora inizialmente con paure di personaggi immaginari e il docente stabilisce le condizioni di ogni dimostrazione.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
       "title": "Il Molliccio e il potere della paura",
       "folio": "22",
       "kind": "theory"
     },
     {
-      "image": "pages/page-23.svg?v=20261122-inrole4",
+      "image": "pages/page-23.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno II · Lectio 1\nLe nozioni da ricordare\nIl Molliccio e il potere della paura\nForma\nDipende dalla paura dell’osservatore, non da un aspetto stabile riconosciuto.\nApparenza\nUna somiglianza non prova l’identità dell’essere rappresentato.\nRispetto\nLe paure dei compagni non sono materiale per derisioni.\nDomanda da discutere\nDue testimoni possono descrivere diversamente lo stesso Molliccio?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
       "title": "Il Molliccio e il potere della paura · Nozioni",
       "folio": "23",
       "kind": "theory"
     },
     {
-      "image": "pages/page-24.svg?v=20261122-inrole4",
+      "image": "pages/page-24.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno II · Lectio 1\nIl confronto in aula\nIl Molliccio e il potere della paura · Scheda della lezione\nApertura\nDue testimoni possono descrivere diversamente lo stesso Molliccio?\n1. Confrontare due testimonianze immaginarie.\n2. Distinguere la figura osservata dalle capacità soltanto presunte.\n3. Preparare una trasformazione comica su carta.\nDomanda di ripasso\nQuale rapporto lega questa lezione a Riddikulus?\nRisposta ragionata\nLa comprensione della paura prepara l’immagine comica necessaria al lavoro sulla formula.",
       "title": "Il Molliccio e il potere della paura · Attività e ripasso",
       "folio": "24",
       "kind": "theory"
     },
     {
-      "image": "pages/page-25.svg?v=20261122-inrole4",
+      "image": "pages/page-25.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno II · Settimana I\nRiddikulus e Coloshoo\nPaura e mobilità: due problemi diversi\nContrasta un Molliccio trasformandone l’apparenza in qualcosa di comico, sostenuto dall’immaginazione di chi lo affronta. Il Molliccio assume una forma legata alla paura di chi lo affronta. Il suo aspetto non dimostra che sia davvero presente la persona o la creatura imitata.\nIncolla o fissa le scarpe del bersaglio al terreno, ostacolandone lo spostamento. Si studia la differenza tra bloccare le scarpe e limitare l’intero corpo. La grafia segue la voce del repertorio, anche quando i testi di partenza ne riportano varianti.\nRiddikulus viene studiato in rapporto al Molliccio; Coloshoo in rapporto all’aderenza delle calzature al suolo. La classe confronta le due schede senza scambiare il nome di una categoria per una descrizione dell’effetto. Le dimostrazioni restano distinte e predisposte dal docente.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
       "title": "Riddikulus e Coloshoo",
       "folio": "25",
       "kind": "theory"
     },
     {
-      "image": "pages/page-26.svg?v=20261122-inrole4",
+      "image": "pages/page-26.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno II · Lectio 2\nLe nozioni da ricordare\nRiddikulus e Coloshoo\nRiddikulus\nIl rapporto fra paura, immagine mentale e comicità è centrale. La formula non è una trasformazione universale di qualunque creatura.\nColoshoo\nUn vincolo agli appoggi non equivale all’immobilizzazione di tutto il corpo. Il punto sul quale agisce l’effetto aiuta a classificarlo.\nConfronto\nUna risposta alla paura e una limitazione del movimento hanno bersagli e risultati diversi.\nDomanda da discutere\nUna formula adatta al Molliccio è anche una risposta a un impedimento delle calzature?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
       "title": "Riddikulus e Coloshoo · Nozioni",
       "folio": "26",
       "kind": "theory"
     },
     {
-      "image": "pages/page-27.svg?v=20261122-inrole4",
+      "image": "pages/page-27.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno II · Lectio 2\nIl confronto in aula\nRiddikulus e Coloshoo · Scheda della lezione\nApertura\nUna formula adatta al Molliccio è anche una risposta a un impedimento delle calzature?\n1. Leggere separatamente le due schede degli effetti.\n2. Confrontare una scena con Molliccio e una scarpa vuota su un supporto.\n3. Motivare perché non si possa scambiare una formula con l’altra.\nDomanda di ripasso\nChe cosa distingue i due risultati?\nRisposta ragionata\nRiddikulus rende comica la manifestazione del Molliccio; Coloshoo fa aderire le calzature al suolo. Non sono effetti intercambiabili.",
       "title": "Riddikulus e Coloshoo · Attività e ripasso",
       "folio": "27",
       "kind": "theory"
     },
     {
-      "image": "pages/page-28.svg?v=20261122-inrole4",
+      "image": "pages/page-28.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno II · Settimana II\nTarantallegra\nMovimento imposto degli arti inferiori\nCostringe le gambe del bersaglio a un movimento incontrollato simile a una danza. Il risultato viene studiato come interferenza con il controllo delle gambe. Il nome scherzoso non cancella il carattere imposto dell’effetto.\nL’effetto riguarda il movimento imposto degli arti; si distingue dal semplice sbilanciamento e non implica il controllo generale della persona.\nLa lezione è un confronto descrittivo guidato. Un movimento incontrollato può aumentare il rischio di urti e cadute; non si trasforma quindi la dimostrazione in un’esibizione tra compagni. Il compito consiste nel riconoscere quale parte del corpo sia coinvolta e quale controllo rimanga non dimostrato.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
       "title": "Tarantallegra",
       "folio": "28",
       "kind": "theory"
     },
     {
-      "image": "pages/page-29.svg?v=20261122-inrole4",
+      "image": "pages/page-29.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno II · Lectio 3\nLe nozioni da ricordare\nTarantallegra\nAmbito\nL’effetto descritto riguarda le gambe, non ogni azione della persona.\nAppoggio\nIl movimento imposto cambia le condizioni dell’equilibrio.\nInterpretazione\nUn gesto prodotto dalla magia non prova un’intenzione del bersaglio.\nDomanda da discutere\nUna danza involontaria può essere descritta come una scelta della persona?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
       "title": "Tarantallegra · Nozioni",
       "folio": "29",
       "kind": "theory"
     },
     {
-      "image": "pages/page-30.svg?v=20261122-inrole4",
+      "image": "pages/page-30.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno II · Lectio 3\nIl confronto in aula\nTarantallegra · Scheda della lezione\nApertura\nUna danza involontaria può essere descritta come una scelta della persona?\n1. Confrontare movimento volontario e movimento imposto in due descrizioni.\n2. Indicare quali conseguenze dipendano dal luogo.\n3. Distinguere questa formula da disarmo e arretramento.\nDomanda di ripasso\nTarantallegra dimostra un controllo completo sulla persona?\nRisposta ragionata\nNo. Si descrive l’effetto sugli arti inferiori senza dedurne altri poteri.",
       "title": "Tarantallegra · Attività e ripasso",
       "folio": "30",
       "kind": "theory"
     },
     {
-      "image": "pages/page-31.svg?v=20261122-inrole4",
+      "image": "pages/page-31.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno II · Settimana II\nVermilius\nLe scintille rosse e la lettura del segnale\nVermilius viene studiato nel secondo anno di Difesa contro le Arti Oscure. Nei trattati la formula è associata a scintille rosse. L’osservazione della manifestazione luminosa richiede attenzione alla direzione della bacchetta e alle persone presenti.\nVermilius e Verdimilius restano due formule distinte. La somiglianza dei nomi non permette di confonderne gli effetti. Un segnale luminoso, un’illuminazione e un colpo diretto sono risultati differenti: l’allievo deve descrivere ciò che osserva prima di interpretarne lo scopo.\nIl docente presenta la formula nelle condizioni predisposte per la lezione. Gli allievi descrivono colore, direzione e visibilità della manifestazione senza aggiungere proprietà che non abbiano osservato. La pratica non consiste nel rivolgere la bacchetta verso i compagni per misurarne le reazioni.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
       "title": "Vermilius",
       "folio": "31",
       "kind": "theory"
     },
     {
-      "image": "pages/page-32.svg?v=20261122-inrole4",
+      "image": "pages/page-32.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno II · Lectio 4\nLe nozioni da ricordare\nVermilius\nDenominazione\nVermilius e Verdimilius sono formule distinte.\nSegnale\nLa visibilità di una manifestazione non rivela da sola ogni suo possibile impiego.\nOsservazione\nDescrivere direzione, colore e condizioni del luogo prima di trarre conclusioni.\nDomanda da discutere\nUn segnale visibile può essere interpretato nello stesso modo in qualsiasi luogo?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
       "title": "Vermilius · Nozioni",
       "folio": "32",
       "kind": "theory"
     },
     {
-      "image": "pages/page-33.svg?v=20261122-inrole4",
+      "image": "pages/page-33.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno II · Lectio 4\nIl confronto in aula\nVermilius · Scheda della lezione\nApertura\nUn segnale visibile può essere interpretato nello stesso modo in qualsiasi luogo?\n1. Confrontare i nomi di Vermilius e Verdimilius.\n2. Osservare la dimostrazione predisposta dal docente.\n3. Separare ciò che è visibile dalle proprietà soltanto supposte.\nDomanda di ripasso\nPerché non usare indifferentemente Vermilius e Verdimilius?\nRisposta ragionata\nPerché la somiglianza dei nomi non rende identiche le formule o i loro effetti.\nConcluso il ciclo di due settimane. Si prosegue con l’anno III.",
       "title": "Vermilius · Attività e ripasso",
       "folio": "33",
       "kind": "theory"
     },
     {
-      "image": "pages/page-34.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno III\nControllo, confusione e disarmo\nAnnus Tertius\nStudiare Fireball sul piano teorico, Confundo, Expelliarmus ed Evertestatum, collegando gli effetti al giudizio difensivo.\nL’annualità\nDue settimane. Due lezioni ogni settimana. Quattro incontri, ciascuno con spiegazione, nozioni e lavoro in aula.",
-      "title": "Controllo, confusione e disarmo",
+      "image": "pages/page-34.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno III\nDuello, misura e risposta\nAnnus Tertius\nStudiare disarmo e sbilanciamento, poi riconoscere quando interrompere il confronto.\nL’annualità\nDue settimane. Due lezioni ogni settimana. Quattro incontri, ciascuno con spiegazione, nozioni e lavoro in aula.",
+      "title": "Duello, misura e risposta",
       "folio": "34",
       "kind": "divider"
     },
     {
-      "image": "pages/page-35.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno III\nIl programma dell’anno\nDue settimane · Quattro lezioni\nSettimana I\nLezione 1 · Fireball 36\nIl fuoco e il giudizio del difensore\nLezione 2 · Confundo 39\nLa lucidità e le sue alterazioni\nSettimana II\nLezione 3 · Expelliarmus 42\nIl disarmo come risultato circoscritto\nLezione 4 · Evertestatum 45\nArretramento, equilibrio e conseguenze\nTraguardo\nStudiare Fireball sul piano teorico, Confundo, Expelliarmus ed Evertestatum, collegando gli effetti al giudizio difensivo.\nLe tre pagine di ogni lezione uniscono spiegazione, nozioni e confronto. Dopo il quarto incontro si passa all’annualità successiva.",
+      "image": "pages/page-35.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno III\nIl programma dell’anno\nDue settimane · Quattro lezioni\nSettimana I\nLezione 1 · Expelliarmus 36\nIl disarmo come risultato circoscritto\nLezione 2 · Evertestatum 39\nArretramento, equilibrio e conseguenze\nSettimana II\nLezione 3 · Rispondere senza aggravare 42\nL’interruzione e la possibilità di allontanarsi\nLezione 4 · Leggere il duello 45\nBersaglio, spazio e conclusione della prova\nTraguardo\nStudiare disarmo e sbilanciamento, poi riconoscere quando interrompere il confronto.\nLe tre pagine di ogni lezione uniscono spiegazione, nozioni e confronto. Dopo il quarto incontro si passa all’annualità successiva.",
       "title": "Il programma dell’anno",
       "folio": "35",
       "kind": "theory"
     },
     {
-      "image": "pages/page-36.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno III · Settimana I\nFireball\nIl fuoco e il giudizio del difensore\nFireball richiama l’immagine di una sfera di fuoco. Lo studio del terzo anno riguarda anzitutto il riconoscimento di una manifestazione incendiaria e le conseguenze della sua presenza nell’ambiente. La semplice conoscenza del nome non sostituisce la preparazione dell’incantatore.\nNon si deve confondere Fireball con Incendio. Prima di proporre un impiego difensivo occorre comprendere quale effetto si stia affrontando, dove possa propagarsi il fuoco e quali persone o materiali si trovino vicini. La forza apparente non sostituisce il controllo.\nLa lezione procede attraverso descrizioni e casi su tavola. La dimostrazione pratica è affidata al docente e richiede condizioni predisposte. Agli allievi si chiede di motivare una decisione, considerare le vie di allontanamento e riconoscere quando una risposta incendiaria possa aggravare il pericolo.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
-      "title": "Fireball",
+      "image": "pages/page-36.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno III · Settimana I\nExpelliarmus\nIl disarmo come risultato circoscritto\nDisarma il bersaglio, facendogli perdere la presa sulla bacchetta o sull’oggetto interessato dall’effetto. La nozione centrale riguarda la perdita della presa. Si distingue dal ferimento e dalla cessazione automatica di ogni capacità di reagire.\nDisarmare e ferire sono compiti distinti. Nel ragionamento difensivo conta interrompere l’azione avversaria e riconoscere la perdita della presa.\nIl docente prepara una prova su un supporto inanimato o una dimostrazione concordata. Il giudizio non si ferma all’oggetto lasciato cadere: occorre osservare chi sia presente, dove finisca e quale possibilità di allontanamento si apra. Disarmare non conferisce il controllo totale della situazione.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
+      "title": "Expelliarmus",
       "folio": "36",
       "kind": "theory"
     },
     {
-      "image": "pages/page-37.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno III · Lectio 1\nLe nozioni da ricordare\nFireball\nRiconoscimento\nDistinguere l’aspetto della manifestazione dalle conseguenze che può avere nel luogo.\nConfronto\nFireball e Incendio non vanno trattati come nomi intercambiabili.\nGiudizio\nUna risposta incendiaria richiede di considerare anche persone e materiali vicini.\nDomanda da discutere\nUna manifestazione più vistosa è necessariamente una difesa migliore?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
-      "title": "Fireball · Nozioni",
+      "image": "pages/page-37.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno III · Lectio 1\nLe nozioni da ricordare\nExpelliarmus\nPresa\nÈ il rapporto tra il bersaglio e l’oggetto che impugna.\nEsito\nLa perdita della bacchetta non è sinonimo di svenimento.\nSpazio\nAnche l’oggetto allontanato entra nella valutazione del risultato.\nDomanda da discutere\nUn avversario disarmato ha necessariamente perso ogni possibilità di movimento?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
+      "title": "Expelliarmus · Nozioni",
       "folio": "37",
       "kind": "theory"
     },
     {
-      "image": "pages/page-38.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno III · Lectio 1\nIl confronto in aula\nFireball · Scheda della lezione\nApertura\nUna manifestazione più vistosa è necessariamente una difesa migliore?\n1. Leggere il caso immaginario predisposto dal docente.\n2. Individuare persone, materiali e vie di allontanamento.\n3. Motivare se una risposta incendiaria sia proporzionata.\nDomanda di ripasso\nPerché il difensore deve osservare anche ciò che circonda il bersaglio?\nRisposta ragionata\nPerché il fuoco può coinvolgere l’ambiente e trasformare una scelta apparentemente efficace in un nuovo pericolo.",
-      "title": "Fireball · Attività e ripasso",
+      "image": "pages/page-38.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno III · Lectio 1\nIl confronto in aula\nExpelliarmus · Scheda della lezione\nApertura\nUn avversario disarmato ha necessariamente perso ogni possibilità di movimento?\n1. Individuare l’obiettivo del disarmo in una scena immaginaria.\n2. Distinguere perdita della presa e condizioni della persona.\n3. Indicare quale osservazione serva prima di considerare concluso il problema.\nDomanda di ripasso\nDisarmo e immobilizzazione sono lo stesso effetto?\nRisposta ragionata\nNo. Il disarmo riguarda la presa sull’oggetto, non ogni movimento o capacità del bersaglio.",
+      "title": "Expelliarmus · Attività e ripasso",
       "folio": "38",
       "kind": "theory"
     },
     {
-      "image": "pages/page-39.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno III · Settimana I\nConfundo\nLa lucidità e le sue alterazioni\nConfonde il bersaglio, alterandone temporaneamente la lucidità o la valutazione della situazione. Si distingue l’effetto descritto da una semplice distrazione dovuta al contesto. Un comportamento insolito non basta a identificarne la causa.\nConfusione, cancellazione della memoria e controllo delle azioni non sono lo stesso effetto. Occorre descrivere il cambiamento effettivamente osservato.\nLa lezione affronta riconoscimento e confronto teorico. Non prevede prove segrete sulla lucidità dei compagni. Si ricostruiscono condizioni, cambiamenti e limiti del resoconto, senza dichiarare che ogni esitazione dimostri un’influenza magica.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
-      "title": "Confundo",
+      "image": "pages/page-39.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno III · Settimana I\nEvertestatum\nArretramento, equilibrio e conseguenze\nRespinge e sbilancia il bersaglio, provocandone un arretramento o una caduta secondo l’esecuzione. Il confronto con Flipendo permette di ragionare su effetti affini senza dichiararli identici per intensità o applicazioni.\nSbilanciamento e immobilizzazione non coincidono. Un bersaglio spostato può conservare capacità di movimento.\nLa spiegazione considera equilibrio e appoggi. Un arretramento può risolvere una vicinanza oppure creare una caduta. Gli allievi lavorano su traiettorie disegnate e bersagli predisposti, senza usare il compagno come misura della forza della formula.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
+      "title": "Evertestatum",
       "folio": "39",
       "kind": "theory"
     },
     {
-      "image": "pages/page-40.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno III · Lectio 2\nLe nozioni da ricordare\nConfundo\nLucidità\nLa valutazione della situazione può essere alterata senza cancellare i ricordi.\nIndizio\nUna variazione osservata non identifica automaticamente una formula.\nRispetto\nLa spiegazione di un effetto non autorizza esperimenti non concordati.\nDomanda da discutere\nUna persona esitante è necessariamente sotto l’effetto di Confundo?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
-      "title": "Confundo · Nozioni",
+      "image": "pages/page-40.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno III · Lectio 2\nLe nozioni da ricordare\nEvertestatum\nEquilibrio\nLa posizione del bersaglio influenza le conseguenze del movimento.\nConfronto\nSomiglianza del risultato non significa identità di condizioni d’impiego.\nMisura\nLa distanza richiesta dal compito non coincide con la massima ottenibile.\nDomanda da discutere\nLa stessa spinta ha conseguenze uguali su un piano libero e vicino a una scala?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
+      "title": "Evertestatum · Nozioni",
       "folio": "40",
       "kind": "theory"
     },
     {
-      "image": "pages/page-41.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno III · Lectio 2\nIl confronto in aula\nConfundo · Scheda della lezione\nApertura\nUna persona esitante è necessariamente sotto l’effetto di Confundo?\n1. Confrontare una distrazione ordinaria e un caso descritto dal docente.\n2. Elencare i fatti disponibili senza scegliere subito una causa.\n3. Indicare quali informazioni aiuterebbero la valutazione.\nDomanda di ripasso\nConfusione e cancellazione della memoria sono la stessa cosa?\nRisposta ragionata\nNo. Riguardano aspetti differenti e non vanno dedotti l’uno dall’altro.",
-      "title": "Confundo · Attività e ripasso",
+      "image": "pages/page-41.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno III · Lectio 2\nIl confronto in aula\nEvertestatum · Scheda della lezione\nApertura\nLa stessa spinta ha conseguenze uguali su un piano libero e vicino a una scala?\n1. Confrontare due posizioni iniziali su tavola.\n2. Indicare il movimento previsto e una conseguenza da evitare.\n3. Motivare la scelta senza attribuire portata o potenza numerica alla formula.\nDomanda di ripasso\nPerché un arretramento corretto nella direzione può essere comunque inadatto?\nRisposta ragionata\nPerché appoggi, ostacoli e persone vicine possono rendere pericoloso il punto d’arrivo.",
+      "title": "Evertestatum · Attività e ripasso",
       "folio": "41",
       "kind": "theory"
     },
     {
-      "image": "pages/page-42.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno III · Settimana II\nExpelliarmus\nIl disarmo come risultato circoscritto\nDisarma il bersaglio, facendogli perdere la presa sulla bacchetta o sull’oggetto interessato dall’effetto. La nozione centrale riguarda la perdita della presa. Si distingue dal ferimento e dalla cessazione automatica di ogni capacità di reagire.\nDisarmare e ferire sono compiti distinti. Nel ragionamento difensivo conta interrompere l’azione avversaria e riconoscere la perdita della presa.\nIl docente prepara una prova su un supporto inanimato o una dimostrazione concordata. Il giudizio non si ferma all’oggetto lasciato cadere: occorre osservare chi sia presente, dove finisca e quale possibilità di allontanamento si apra. Disarmare non conferisce il controllo totale della situazione.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
-      "title": "Expelliarmus",
+      "image": "pages/page-42.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno III · Settimana II\nRispondere senza aggravare\nL’interruzione e la possibilità di allontanarsi\nUn confronto difensivo non richiede di rendere impotente ogni persona presente. Il risultato necessario può essere interrompere un gesto, creare uno spazio o consentire l’allontanamento. Il terzo anno confronta disarmo e sbilanciamento senza scambiarli per controllo della mente.\nL’effetto di Expelliarmus riguarda il disarmo; Evertestatum produce arretramento o perdita di equilibrio. La persona colpita non perde per questo ogni possibilità di reagire. Il difensore deve osservare ciò che accade dopo il primo effetto.\nLe esercitazioni seguono ruoli e segnali concordati con il docente. Una caduta o una bacchetta lasciata non giustificano l’insistenza. Quando lo scopo è raggiunto, si interrompe la prova e si confrontano risultato e conseguenze.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
+      "title": "Rispondere senza aggravare",
       "folio": "42",
       "kind": "theory"
     },
     {
-      "image": "pages/page-43.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno III · Lectio 3\nLe nozioni da ricordare\nExpelliarmus\nPresa\nÈ il rapporto tra il bersaglio e l’oggetto che impugna.\nEsito\nLa perdita della bacchetta non è sinonimo di svenimento.\nSpazio\nAnche l’oggetto allontanato entra nella valutazione del risultato.\nDomanda da discutere\nUn avversario disarmato ha necessariamente perso ogni possibilità di movimento?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
-      "title": "Expelliarmus · Nozioni",
+      "image": "pages/page-43.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno III · Lectio 3\nLe nozioni da ricordare\nRispondere senza aggravare\nScopo\nDefinire il rischio da interrompere.\nMisura\nScegliere un effetto sufficiente senza moltiplicare gli interventi.\nRiscontro\nOsservare se la situazione consenta l’allontanamento.\nDomanda da discutere\nUn avversario disarmato è automaticamente incapace di qualunque azione?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
+      "title": "Rispondere senza aggravare · Nozioni",
       "folio": "43",
       "kind": "theory"
     },
     {
-      "image": "pages/page-44.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno III · Lectio 3\nIl confronto in aula\nExpelliarmus · Scheda della lezione\nApertura\nUn avversario disarmato ha necessariamente perso ogni possibilità di movimento?\n1. Individuare l’obiettivo del disarmo in una scena immaginaria.\n2. Distinguere perdita della presa e condizioni della persona.\n3. Indicare quale osservazione serva prima di considerare concluso il problema.\nDomanda di ripasso\nDisarmo e immobilizzazione sono lo stesso effetto?\nRisposta ragionata\nNo. Il disarmo riguarda la presa sull’oggetto, non ogni movimento o capacità del bersaglio.",
-      "title": "Expelliarmus · Attività e ripasso",
+      "image": "pages/page-44.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno III · Lectio 3\nIl confronto in aula\nRispondere senza aggravare · Scheda della lezione\nApertura\nUn avversario disarmato è automaticamente incapace di qualunque azione?\n1. Leggere il caso scritto e distinguere fatti e ipotesi.\n2. Indicare bersaglio, persone esposte e risultato necessario.\n3. Motivare una scelta e il momento in cui chiedere l’intervento del docente.\nDomanda di ripasso\nUn avversario disarmato è automaticamente incapace di qualunque azione?\nRisposta ragionata\nNo. Il disarmo modifica una condizione, non cancella volontà, movimento e possibilità di risposta.",
+      "title": "Rispondere senza aggravare · Attività e ripasso",
       "folio": "44",
       "kind": "theory"
     },
     {
-      "image": "pages/page-45.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno III · Settimana II\nEvertestatum\nArretramento, equilibrio e conseguenze\nRespinge e sbilancia il bersaglio, provocandone un arretramento o una caduta secondo l’esecuzione. Il confronto con Flipendo permette di ragionare su effetti affini senza dichiararli identici per intensità o applicazioni.\nSbilanciamento e immobilizzazione non coincidono. Un bersaglio spostato può conservare capacità di movimento.\nLa spiegazione considera equilibrio e appoggi. Un arretramento può risolvere una vicinanza oppure creare una caduta. Gli allievi lavorano su traiettorie disegnate e bersagli predisposti, senza usare il compagno come misura della forza della formula.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
-      "title": "Evertestatum",
+      "image": "pages/page-45.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno III · Settimana II\nLeggere il duello\nBersaglio, spazio e conclusione della prova\nLa lettura di un duello considera direzione, ostacoli e posizione dei compagni. Saper riconoscere un’occasione per fermarsi è parte della preparazione: non si valuta soltanto chi abbia mostrato l’effetto più vistoso.\nL’effetto di Expelliarmus riguarda il disarmo; Evertestatum produce arretramento o perdita di equilibrio. La persona colpita non perde per questo ogni possibilità di reagire. Il difensore deve osservare ciò che accade dopo il primo effetto.\nLe esercitazioni seguono ruoli e segnali concordati con il docente. Una caduta o una bacchetta lasciata non giustificano l’insistenza. Quando lo scopo è raggiunto, si interrompe la prova e si confrontano risultato e conseguenze.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
+      "title": "Leggere il duello",
       "folio": "45",
       "kind": "theory"
     },
     {
-      "image": "pages/page-46.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno III · Lectio 4\nLe nozioni da ricordare\nEvertestatum\nEquilibrio\nLa posizione del bersaglio influenza le conseguenze del movimento.\nConfronto\nSomiglianza del risultato non significa identità di condizioni d’impiego.\nMisura\nLa distanza richiesta dal compito non coincide con la massima ottenibile.\nDomanda da discutere\nLa stessa spinta ha conseguenze uguali su un piano libero e vicino a una scala?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
-      "title": "Evertestatum · Nozioni",
+      "image": "pages/page-46.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno III · Lectio 4\nLe nozioni da ricordare\nLeggere il duello\nScopo\nDefinire il rischio da interrompere.\nMisura\nScegliere un effetto sufficiente senza moltiplicare gli interventi.\nRiscontro\nOsservare se la situazione consenta l’allontanamento.\nDomanda da discutere\nUn avversario disarmato è automaticamente incapace di qualunque azione?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
+      "title": "Leggere il duello · Nozioni",
       "folio": "46",
       "kind": "theory"
     },
     {
-      "image": "pages/page-47.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno III · Lectio 4\nIl confronto in aula\nEvertestatum · Scheda della lezione\nApertura\nLa stessa spinta ha conseguenze uguali su un piano libero e vicino a una scala?\n1. Confrontare due posizioni iniziali su tavola.\n2. Indicare il movimento previsto e una conseguenza da evitare.\n3. Motivare la scelta senza attribuire portata o potenza numerica alla formula.\nDomanda di ripasso\nPerché un arretramento corretto nella direzione può essere comunque inadatto?\nRisposta ragionata\nPerché appoggi, ostacoli e persone vicine possono rendere pericoloso il punto d’arrivo.\nConcluso il ciclo di due settimane. Si prosegue con l’anno IV.",
-      "title": "Evertestatum · Attività e ripasso",
+      "image": "pages/page-47.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno III · Lectio 4\nIl confronto in aula\nLeggere il duello · Scheda della lezione\nApertura\nUn avversario disarmato è automaticamente incapace di qualunque azione?\n1. Leggere il caso scritto e distinguere fatti e ipotesi.\n2. Indicare bersaglio, persone esposte e risultato necessario.\n3. Motivare una scelta e il momento in cui chiedere l’intervento del docente.\nDomanda di ripasso\nUn avversario disarmato è automaticamente incapace di qualunque azione?\nRisposta ragionata\nNo. Il disarmo modifica una condizione, non cancella volontà, movimento e possibilità di risposta.\nConcluso il ciclo di due settimane. Si prosegue con l’anno IV.",
+      "title": "Leggere il duello · Attività e ripasso",
       "folio": "47",
       "kind": "theory"
     },
     {
-      "image": "pages/page-48.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno IV\nPericoli viventi e immobilizzazione\nAnnus Quartus\nConfrontare licantropi e Acromantule, introdurre Confringo e studiare Petrificus.\nL’annualità\nDue settimane. Due lezioni ogni settimana. Quattro incontri, ciascuno con spiegazione, nozioni e lavoro in aula.",
-      "title": "Pericoli viventi e immobilizzazione",
+      "image": "pages/page-48.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno IV\nCreature e protezione del gruppo\nAnnus Quartus\nConoscere licantropi e Acromantule, affrontare Fireball come studio circoscritto e proteggere i percorsi.\nL’annualità\nDue settimane. Due lezioni ogni settimana. Quattro incontri, ciascuno con spiegazione, nozioni e lavoro in aula.",
+      "title": "Creature e protezione del gruppo",
       "folio": "48",
       "kind": "divider"
     },
     {
-      "image": "pages/page-49.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno IV\nIl programma dell’anno\nDue settimane · Quattro lezioni\nSettimana I\nLezione 1 · I licantropi 50\nUna condizione e un pericolo da distinguere\nLezione 2 · Le Acromantule 53\nIntelligenza, colonia e distanza\nSettimana II\nLezione 3 · Confringo 56\nPotenza e responsabilità del risultato\nLezione 4 · Petrificus 59\nImmobilizzazione e stato del bersaglio\nTraguardo\nConfrontare licantropi e Acromantule, introdurre Confringo e studiare Petrificus.\nLe tre pagine di ogni lezione uniscono spiegazione, nozioni e confronto. Dopo il quarto incontro si passa all’annualità successiva.",
+      "image": "pages/page-49.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno IV\nIl programma dell’anno\nDue settimane · Quattro lezioni\nSettimana I\nLezione 1 · I licantropi 50\nUna condizione e un pericolo da distinguere\nLezione 2 · Le Acromantule 53\nIntelligenza, colonia e distanza\nSettimana II\nLezione 3 · Fireball 56\nRiconoscimento e dimostrazione circoscritta\nLezione 4 · Proteggere il gruppo 59\nCreature, percorsi e richiesta di assistenza\nTraguardo\nConoscere licantropi e Acromantule, affrontare Fireball come studio circoscritto e proteggere i percorsi.\nLe tre pagine di ogni lezione uniscono spiegazione, nozioni e confronto. Dopo il quarto incontro si passa all’annualità successiva.",
       "title": "Il programma dell’anno",
       "folio": "49",
       "kind": "theory"
     },
     {
-      "image": "pages/page-50.svg?v=20261122-inrole4",
+      "image": "pages/page-50.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno IV · Settimana I\nI licantropi\nUna condizione e un pericolo da distinguere\nLa licantropia riguarda una persona soggetta a una trasformazione legata alla luna piena. Il suo studio non consente di attribuire una colpa morale alla condizione né di identificare qualcuno da tratti esteriori generici.\nRiconoscere un rischio durante la trasformazione è diverso dal giudicare ogni aspetto della vita della persona. Il repertorio viene letto con attenzione al contesto, senza retrodatare preparazioni moderne o promettere soluzioni non previste nel 1890.\nLa lezione considera informazioni, segnalazione e competenza. Gli allievi non cercano incontri per verificare una diagnosi. Nei casi descritti si distingue la protezione immediata delle persone dal successivo sostegno specialistico.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
       "title": "I licantropi",
       "folio": "50",
       "kind": "theory"
     },
     {
-      "image": "pages/page-51.svg?v=20261122-inrole4",
+      "image": "pages/page-51.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno IV · Lectio 1\nLe nozioni da ricordare\nI licantropi\nPersona e condizione\nUn rischio circoscritto non descrive l’intera identità della persona.\nInformazione\nUna voce o un aspetto insolito non equivalgono a una diagnosi.\nOrizzonte\nIl corso resta nel 1890 e non introduce rimedi successivi.\nDomanda da discutere\nComprendere un pericolo richiede necessariamente di trasformarlo in un pregiudizio?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
       "title": "I licantropi · Nozioni",
       "folio": "51",
       "kind": "theory"
     },
     {
-      "image": "pages/page-52.svg?v=20261122-inrole4",
+      "image": "pages/page-52.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno IV · Lectio 1\nIl confronto in aula\nI licantropi · Scheda della lezione\nApertura\nComprendere un pericolo richiede necessariamente di trasformarlo in un pregiudizio?\n1. Separare in un caso immaginario fatti, voci e domande.\n2. Indicare a chi affidare una valutazione specialistica.\n3. Distinguere una misura di protezione da un’accusa personale.\nDomanda di ripasso\nSi può riconoscere un rischio senza ridurre la persona alla sua condizione?\nRisposta ragionata\nSì. La precisione riguarda circostanze e fatti, non giudizi generali sul valore della persona.",
       "title": "I licantropi · Attività e ripasso",
       "folio": "52",
       "kind": "theory"
     },
     {
-      "image": "pages/page-53.svg?v=20261122-inrole4",
+      "image": "pages/page-53.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno IV · Settimana I\nLe Acromantule\nIntelligenza, colonia e distanza\nL’Acromantula è un grande ragno magico capace di parlare. È una creatura velenosa e pericolosa: la possibilità di comprenderne le parole non garantisce intenzioni favorevoli né rende sicura una vicinanza.\nL’incontro va considerato nel territorio e nella possibile presenza di altri esemplari. Limitarsi all’individuo visibile può nascondere una parte della situazione. Ragnatele estese e altri indizi richiedono attenzione; non giustificano l’ingresso in un’area per cercare conferme da vicino.\nLa lezione confronta la conoscenza naturalistica con il giudizio difensivo. Non comprende cattura o raccolta di veleno. La classe studia percorsi, segnalazioni e limiti delle informazioni su una tavola; le competenze di guaritori ed esperti di creature restano distinte dalla discussione scolastica.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
       "title": "Le Acromantule",
       "folio": "53",
       "kind": "theory"
     },
     {
-      "image": "pages/page-54.svg?v=20261122-inrole4",
+      "image": "pages/page-54.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno IV · Lectio 2\nLe nozioni da ricordare\nLe Acromantule\nLinguaggio\nParlare non significa condividere scopi o regole umane.\nColonia\nLa situazione può comprendere individui che non si vedono.\nVeleno\nÈ un rischio da affidare a competenze specialistiche, senza rimedi improvvisati.\nDomanda da discutere\nUna conversazione è una prova sufficiente di sicurezza?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
       "title": "Le Acromantule · Nozioni",
       "folio": "54",
       "kind": "theory"
     },
     {
-      "image": "pages/page-55.svg?v=20261122-inrole4",
+      "image": "pages/page-55.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno IV · Lectio 2\nIl confronto in aula\nLe Acromantule · Scheda della lezione\nApertura\nUna conversazione è una prova sufficiente di sicurezza?\n1. Distinguere capacità di parlare e intenzione.\n2. Segnare sulla tavola zone osservate e sconosciute.\n3. Preparare una segnalazione che dichiari i dubbi.\nDomanda di ripasso\nQuale errore produce concentrarsi soltanto sull’esemplare visibile?\nRisposta ragionata\nFa trascurare territorio, possibili altri individui e vie di allontanamento.",
       "title": "Le Acromantule · Attività e ripasso",
       "folio": "55",
       "kind": "theory"
     },
     {
-      "image": "pages/page-56.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno IV · Settimana II\nConfringo\nPotenza e responsabilità del risultato\nProvoca un’esplosione nel punto o sul bersaglio raggiunto dalla formula. Si conserva la distinzione tra descrizione di un effetto offensivo e decisione di impiegarlo. La sua presenza nel programma non autorizza prove libere sull’ambiente.\nVa distinto da Incendio, studiato per la produzione di fuoco. La classificazione offensiva e le condizioni d’impiego appartengono alla lezione di D.C.A.O.\nIl confronto con Expulso non introduce differenze numeriche che i materiali non stabiliscono. Entrambe le voci richiedono di ragionare su ciò che può essere coinvolto oltre al bersaglio. La riuscita difensiva non coincide con il danno più grande possibile.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
-      "title": "Confringo",
+      "image": "pages/page-56.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno IV · Settimana II\nFireball\nRiconoscimento e dimostrazione circoscritta\nFireball richiama l’immagine di una sfera di fuoco. Lo studio del quarto anno riguarda anzitutto il riconoscimento di una manifestazione incendiaria e le conseguenze della sua presenza nell’ambiente. La semplice conoscenza del nome non sostituisce la preparazione dell’incantatore.\nNon si deve confondere Fireball con Incendio. Prima di proporre un impiego difensivo occorre comprendere quale effetto si stia affrontando, dove possa propagarsi il fuoco e quali persone o materiali si trovino vicini. La forza apparente non sostituisce il controllo.\nIl quarto anno affronta riconoscimento e valutazione su tavola. Il docente può mostrare una manifestazione circoscritta in condizioni predisposte; non sono previste prove di esplosione, propagazione o attacchi estesi. La comparsa del fuoco non autorizza ad attribuirgli ogni effetto incendiario.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
+      "title": "Fireball",
       "folio": "56",
       "kind": "theory"
     },
     {
-      "image": "pages/page-57.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno IV · Lectio 3\nLe nozioni da ricordare\nConfringo\nRiconoscimento\nIl punto dell’impatto e gli effetti sull’ambiente vanno descritti separatamente.\nConfronto\nDue formule affini non si distinguono inventando portate o potenziamenti.\nScopo\nL’obiettivo di protezione deve restare riconoscibile.\nDomanda da discutere\nDistruggere un ostacolo risolve il problema se blocca l’unico accesso disponibile?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
-      "title": "Confringo · Nozioni",
+      "image": "pages/page-57.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno IV · Lectio 3\nLe nozioni da ricordare\nFireball\nRiconoscimento\nDistinguere l’aspetto della manifestazione dalle conseguenze che può avere nel luogo.\nConfronto\nFireball e Incendio non vanno trattati come nomi intercambiabili.\nGiudizio\nUna risposta incendiaria richiede di considerare anche persone e materiali vicini.\nDomanda da discutere\nUna manifestazione più vistosa è necessariamente una difesa migliore?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
+      "title": "Fireball · Nozioni",
       "folio": "57",
       "kind": "theory"
     },
     {
-      "image": "pages/page-58.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno IV · Lectio 3\nIl confronto in aula\nConfringo · Scheda della lezione\nApertura\nDistruggere un ostacolo risolve il problema se blocca l’unico accesso disponibile?\n1. Analizzare una scena immaginaria con un ostacolo e un passaggio.\n2. Valutare una conseguenza dell’effetto che comprometta l’obiettivo.\n3. Proporre quali informazioni servano prima di una dimostrazione.\nDomanda di ripasso\nUn danno maggiore dimostra una difesa migliore?\nRisposta ragionata\nNo. Si giudica la corrispondenza con l’obiettivo e le conseguenze per le persone e il luogo.",
-      "title": "Confringo · Attività e ripasso",
+      "image": "pages/page-58.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno IV · Lectio 3\nIl confronto in aula\nFireball · Scheda della lezione\nApertura\nUna manifestazione più vistosa è necessariamente una difesa migliore?\n1. Leggere il caso immaginario predisposto dal docente.\n2. Individuare persone, materiali e vie di allontanamento.\n3. Motivare se una risposta incendiaria sia proporzionata.\nDomanda di ripasso\nPerché il difensore deve osservare anche ciò che circonda il bersaglio?\nRisposta ragionata\nPerché il fuoco può coinvolgere l’ambiente e trasformare una scelta apparentemente efficace in un nuovo pericolo.",
+      "title": "Fireball · Attività e ripasso",
       "folio": "58",
       "kind": "theory"
     },
     {
-      "image": "pages/page-59.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno IV · Settimana II\nPetrificus\nImmobilizzazione e stato del bersaglio\nPetrificus immobilizza il corpo del bersaglio. Il bersaglio viene irrigidito e limitato nei movimenti.  Il concetto centrale è il vincolo del movimento, distinto da una trasformazione del materiale.\nSi conserva il nome mostrato dalla scuola. Immobilizzazione, perdita di coscienza e trasformazione in pietra sono concetti diversi.\nLa trattazione chiarisce che immobilità, perdita di coscienza e cessazione delle percezioni non sono equivalenti. La pratica su persone non viene presunta dal testo: il docente sceglie dimostrazione e condizioni. Non si aggiungono varianti, durate o contromisure non comprese nel repertorio adottato.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
-      "title": "Petrificus",
+      "image": "pages/page-59.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno IV · Settimana II\nProteggere il gruppo\nCreature, percorsi e richiesta di assistenza\nNegli incontri con creature, le formule studiate fra maghi non garantiscono lo stesso risultato. Il quarto anno collega licantropi e Acromantule alla protezione del gruppo: identificare percorsi e persone esposte precede qualsiasi dimostrazione.\nL’effetto di Expelliarmus riguarda il disarmo; Evertestatum produce arretramento o perdita di equilibrio. La persona colpita non perde per questo ogni possibilità di reagire. Il difensore deve osservare ciò che accade dopo il primo effetto.\nLe esercitazioni seguono ruoli e segnali concordati con il docente. Una caduta o una bacchetta lasciata non giustificano l’insistenza. Quando lo scopo è raggiunto, si interrompe la prova e si confrontano risultato e conseguenze.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
+      "title": "Proteggere il gruppo",
       "folio": "59",
       "kind": "theory"
     },
     {
-      "image": "pages/page-60.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno IV · Lectio 4\nLe nozioni da ricordare\nPetrificus\nMovimento\nUn corpo che non può muoversi non è per questo diventato pietra.\nCoscienza\nL’assenza di movimento non dimostra incoscienza.\nAssistenza\nRiconoscere l’effetto è diverso dal saperne gestire ogni conseguenza.\nDomanda da discutere\nUna persona immobile è necessariamente inconsapevole di ciò che accade?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
-      "title": "Petrificus · Nozioni",
+      "image": "pages/page-60.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno IV · Lectio 4\nLe nozioni da ricordare\nProteggere il gruppo\nScopo\nDefinire il rischio da interrompere.\nMisura\nScegliere un effetto sufficiente senza moltiplicare gli interventi.\nRiscontro\nOsservare se la situazione consenta l’allontanamento.\nDomanda da discutere\nUn avversario disarmato è automaticamente incapace di qualunque azione?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
+      "title": "Proteggere il gruppo · Nozioni",
       "folio": "60",
       "kind": "theory"
     },
     {
-      "image": "pages/page-61.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno IV · Lectio 4\nIl confronto in aula\nPetrificus · Scheda della lezione\nApertura\nUna persona immobile è necessariamente inconsapevole di ciò che accade?\n1. Classificare tre descrizioni: movimento bloccato, svenimento e trasformazione materiale.\n2. Indicare quali siano sostenute dalla definizione della formula.\n3. Descrivere il risultato senza inventare la durata.\nDomanda di ripasso\nIl nome della formula giustifica parlare di una trasformazione in pietra?\nRisposta ragionata\nNo. Il corso descrive immobilizzazione e irrigidimento, senza dedurre un cambiamento materiale dal nome.\nConcluso il ciclo di due settimane. Si prosegue con l’anno V.",
-      "title": "Petrificus · Attività e ripasso",
+      "image": "pages/page-61.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno IV · Lectio 4\nIl confronto in aula\nProteggere il gruppo · Scheda della lezione\nApertura\nUn avversario disarmato è automaticamente incapace di qualunque azione?\n1. Leggere il caso scritto e distinguere fatti e ipotesi.\n2. Indicare bersaglio, persone esposte e risultato necessario.\n3. Motivare una scelta e il momento in cui chiedere l’intervento del docente.\nDomanda di ripasso\nUn avversario disarmato è automaticamente incapace di qualunque azione?\nRisposta ragionata\nNo. Il disarmo modifica una condizione, non cancella volontà, movimento e possibilità di risposta.\nConcluso il ciclo di due settimane. Si prosegue con l’anno V.",
+      "title": "Proteggere il gruppo · Attività e ripasso",
       "folio": "61",
       "kind": "theory"
     },
     {
-      "image": "pages/page-62.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno V\nTecniche avanzate e responsabilità\nAnnus Quintus\nValutare le conseguenze dei sortilegi e i metodi di chi contrasta professionalmente le Arti Oscure.\nL’annualità\nDue settimane. Due lezioni ogni settimana. Quattro incontri, ciascuno con spiegazione, nozioni e lavoro in aula.",
-      "title": "Tecniche avanzate e responsabilità",
+      "image": "pages/page-62.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno V\nContenimento e responsabilità\nAnnus Quintus\nStudiare Confundo, Petrificus e Incarcerous e confrontare la preparazione scolastica con il lavoro degli Auror.\nL’annualità\nDue settimane. Due lezioni ogni settimana. Quattro incontri, ciascuno con spiegazione, nozioni e lavoro in aula.",
+      "title": "Contenimento e responsabilità",
       "folio": "62",
       "kind": "divider"
     },
     {
-      "image": "pages/page-63.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno V\nIl programma dell’anno\nDue settimane · Quattro lezioni\nSettimana I\nLezione 1 · Gli Auror 64\nAutorità, preparazione e responsabilità\nLezione 2 · Diffindo 67\nSeparare un materiale senza ignorare ciò che sostiene\nSettimana II\nLezione 3 · Incendio 70\nIl fuoco come effetto da controllare\nLezione 4 · Incarcerous 73\nLe corde e il limite del contenimento\nTraguardo\nValutare le conseguenze dei sortilegi e i metodi di chi contrasta professionalmente le Arti Oscure.\nLe tre pagine di ogni lezione uniscono spiegazione, nozioni e confronto. Dopo il quarto incontro si passa all’annualità successiva.",
+      "image": "pages/page-63.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno V\nIl programma dell’anno\nDue settimane · Quattro lezioni\nSettimana I\nLezione 1 · Confundo 64\nLa lucidità e le sue alterazioni\nLezione 2 · Petrificus 67\nImmobilizzazione e stato del bersaglio\nSettimana II\nLezione 3 · Incarcerous 70\nLe corde e il limite del contenimento\nLezione 4 · Gli Auror 73\nAutorità, preparazione e responsabilità\nTraguardo\nStudiare Confundo, Petrificus e Incarcerous e confrontare la preparazione scolastica con il lavoro degli Auror.\nLe tre pagine di ogni lezione uniscono spiegazione, nozioni e confronto. Dopo il quarto incontro si passa all’annualità successiva.",
       "title": "Il programma dell’anno",
       "folio": "63",
       "kind": "theory"
     },
     {
-      "image": "pages/page-64.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno V · Settimana I\nGli Auror\nAutorità, preparazione e responsabilità\nGli Auror sono professionisti del contrasto alle Arti Oscure. Il loro lavoro richiede preparazione, conoscenza e responsabilità nell’uso delle competenze. Non si riduce alla padronanza degli incantesimi più appariscenti.\nLo studente e il professionista non hanno lo stesso compito. Un testimone può contribuire con un rapporto preciso e una richiesta tempestiva di assistenza. Questa funzione è diversa dall’inseguire un sospetto o dall’eseguire un intervento specialistico.\nIl quinto anno collega quindi lucidità e limiti dell’azione. Non si inventano poteri, procedure di selezione o autorizzazioni professionali assenti dai materiali. La scuola prepara a comprendere e collaborare; il completamento del volume non assegna una carica.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
-      "title": "Gli Auror",
+      "image": "pages/page-64.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno V · Settimana I\nConfundo\nLa lucidità e le sue alterazioni\nConfonde il bersaglio, alterandone temporaneamente la lucidità o la valutazione della situazione. Si distingue l’effetto descritto da una semplice distrazione dovuta al contesto. Un comportamento insolito non basta a identificarne la causa.\nConfusione, cancellazione della memoria e controllo delle azioni non sono lo stesso effetto. Occorre descrivere il cambiamento effettivamente osservato.\nIl quinto anno affronta riconoscimento e giudizio teorico. Non si impartiscono ordini al pensiero della persona né si considera ogni esitazione come prova di confusione magica. Le dimostrazioni non comprendono tentativi segreti di alterare decisioni, testimonianze o ricordi dei compagni.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
+      "title": "Confundo",
       "folio": "64",
       "kind": "theory"
     },
     {
-      "image": "pages/page-65.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno V · Lectio 1\nLe nozioni da ricordare\nGli Auror\nCompetenza\nUna formazione specialistica si distingue da una conoscenza scolastica generale.\nTestimonianza\nRiferire ciò che si sa è diverso dal formulare una conclusione investigativa.\nResponsabilità\nUna carica non rende superfluo motivare e controllare le proprie decisioni.\nDomanda da discutere\nUna segnalazione precisa può essere più utile di un intervento improvvisato?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
-      "title": "Gli Auror · Nozioni",
+      "image": "pages/page-65.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno V · Lectio 1\nLe nozioni da ricordare\nConfundo\nLucidità\nLa valutazione della situazione può essere alterata senza cancellare i ricordi.\nIndizio\nUna variazione osservata non identifica automaticamente una formula.\nRispetto\nLa spiegazione di un effetto non autorizza esperimenti non concordati.\nDomanda da discutere\nUna persona esitante è necessariamente sotto l’effetto di Confundo?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
+      "title": "Confundo · Nozioni",
       "folio": "65",
       "kind": "theory"
     },
     {
-      "image": "pages/page-66.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno V · Lectio 1\nIl confronto in aula\nGli Auror · Scheda della lezione\nApertura\nUna segnalazione precisa può essere più utile di un intervento improvvisato?\n1. Preparare un rapporto immaginario con luogo, tempo e persone presenti.\n2. Eliminare le supposizioni presentate come fatti.\n3. Indicare il limite del compito scolastico rispetto all’intervento professionale.\nDomanda di ripasso\nStudiare D.C.A.O. equivale a diventare Auror?\nRisposta ragionata\nNo. Il corso fornisce basi; ruolo, preparazione professionale e autorizzazioni sono questioni differenti.",
-      "title": "Gli Auror · Attività e ripasso",
+      "image": "pages/page-66.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno V · Lectio 1\nIl confronto in aula\nConfundo · Scheda della lezione\nApertura\nUna persona esitante è necessariamente sotto l’effetto di Confundo?\n1. Confrontare una distrazione ordinaria e un caso descritto dal docente.\n2. Elencare i fatti disponibili senza scegliere subito una causa.\n3. Indicare quali informazioni aiuterebbero la valutazione.\nDomanda di ripasso\nConfusione e cancellazione della memoria sono la stessa cosa?\nRisposta ragionata\nNo. Riguardano aspetti differenti e non vanno dedotti l’uno dall’altro.",
+      "title": "Confundo · Attività e ripasso",
       "folio": "66",
       "kind": "theory"
     },
     {
-      "image": "pages/page-67.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno V · Settimana I\nDiffindo\nSeparare un materiale senza ignorare ciò che sostiene\nProduce un taglio sul materiale verso cui è diretto. In un problema difensivo può essere studiato per comprendere come rimuovere un ostacolo, ma il risultato dipende dal bersaglio e da ciò che si trova vicino.\nTagliare una fune modifica anche ciò che quella fune sostiene. Il punto da separare e le conseguenze successive sono entrambi parte del compito.\nIl docente propone materiali inanimati preparati e una tavola con carichi e ingombri. Prima della dimostrazione gli studenti indicano che cosa si trova dietro il bersaglio e confrontano la separazione magica con una soluzione più semplice.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
-      "title": "Diffindo",
+      "image": "pages/page-67.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno V · Settimana I\nPetrificus\nImmobilizzazione e stato del bersaglio\nPetrificus immobilizza il corpo del bersaglio. Il bersaglio viene irrigidito e limitato nei movimenti.  Il concetto centrale è il vincolo del movimento, distinto da una trasformazione del materiale.\nSi conserva il nome mostrato dalla scuola. Immobilizzazione, perdita di coscienza e trasformazione in pietra sono concetti diversi.\nIl quinto anno studia la limitazione del movimento distinguendola da perdita di coscienza e controllo della volontà. La dimostrazione del docente chiarisce le condizioni dell’effetto e del ripristino; nessuno studente prolunga un contenimento dopo la cessazione della prova.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
+      "title": "Petrificus",
       "folio": "67",
       "kind": "theory"
     },
     {
-      "image": "pages/page-68.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno V · Lectio 2\nLe nozioni da ricordare\nDiffindo\nEffetto\nProduce un taglio sul materiale verso cui è diretto. In un problema difensivo può essere studiato per comprendere come rimuovere un ostacolo, ma il risultato dipende dal bersaglio e da ciò che si trova vicino.\nConseguenze\nTagliare una fune modifica anche ciò che quella fune sostiene. Il punto da separare e le conseguenze successive sono entrambi parte del compito.\nApplicazione difensiva\nLo scopo va motivato e il risultato verificato nel contesto.\nDomanda da discutere\nOttenere l’effetto desiderato basta a rendere corretta la scelta?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
-      "title": "Diffindo · Nozioni",
+      "image": "pages/page-68.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno V · Lectio 2\nLe nozioni da ricordare\nPetrificus\nMovimento\nUn corpo che non può muoversi non è per questo diventato pietra.\nCoscienza\nL’assenza di movimento non dimostra incoscienza.\nAssistenza\nRiconoscere l’effetto è diverso dal saperne gestire ogni conseguenza.\nDomanda da discutere\nUna persona immobile è necessariamente inconsapevole di ciò che accade?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
+      "title": "Petrificus · Nozioni",
       "folio": "68",
       "kind": "theory"
     },
     {
-      "image": "pages/page-69.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno V · Lectio 2\nIl confronto in aula\nDiffindo · Scheda della lezione\nApertura\nOttenere l’effetto desiderato basta a rendere corretta la scelta?\n1. Descrivere il bersaglio e lo scopo in un caso immaginario.\n2. Indicare le condizioni che mancano per decidere.\n3. Confrontare il risultato utile con le conseguenze sullo spazio vicino.\nDomanda di ripasso\nQuali elementi occorre valutare oltre alla riuscita della formula?\nRisposta ragionata\nBersaglio, ambiente, persone esposte e conseguenze successive. La riuscita tecnica da sola non dimostra che l’intervento sia adatto.",
-      "title": "Diffindo · Attività e ripasso",
+      "image": "pages/page-69.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno V · Lectio 2\nIl confronto in aula\nPetrificus · Scheda della lezione\nApertura\nUna persona immobile è necessariamente inconsapevole di ciò che accade?\n1. Classificare tre descrizioni: movimento bloccato, svenimento e trasformazione materiale.\n2. Indicare quali siano sostenute dalla definizione della formula.\n3. Descrivere il risultato senza inventare la durata.\nDomanda di ripasso\nIl nome della formula giustifica parlare di una trasformazione in pietra?\nRisposta ragionata\nNo. Il corso descrive immobilizzazione e irrigidimento, senza dedurre un cambiamento materiale dal nome.",
+      "title": "Petrificus · Attività e ripasso",
       "folio": "69",
       "kind": "theory"
     },
     {
-      "image": "pages/page-70.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno V · Settimana II\nIncendio\nIl fuoco come effetto da controllare\nGenera una fiamma. La lezione studia l’accensione insieme alle condizioni che possono trasformarla in propagazione: materiali vicini, spazio e possibilità di tenere sotto controllo il risultato.\nFuoco e calore non sono risposte adatte a ogni minaccia. Una formula efficace sul materiale scelto può creare un problema maggiore se il contesto non è stato preparato.\nIl lavoro parte dal riconoscimento dei materiali su tavola. Un’eventuale dimostrazione è predisposta dal docente; gli studenti non cercano di provare una difesa incendiando un ambiente o esponendo persone e creature.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
-      "title": "Incendio",
+      "image": "pages/page-70.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno V · Settimana II\nIncarcerous\nLe corde e il limite del contenimento\nEvoca corde che avvolgono il bersaglio e ne limitano i movimenti. Il contenimento è distinto dallo sbilanciamento e dal disarmo: trattenere non significa automaticamente aver concluso il pericolo.\nLe corde possono produrre cadute o compressioni. La disposizione del bersaglio e la possibilità di interrompere il contenimento fanno parte della valutazione, senza trasformare una formula in un diritto di trattenere chiunque.\nLa dimostrazione utilizza sagome e oggetti preparati. Prima si chiariscono le condizioni del contenimento e del rilascio. La presenza delle funi non annulla il ruolo degli altri presenti, ai quali può spettare segnalare il pericolo e chiedere la liberazione.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
+      "title": "Incarcerous",
       "folio": "70",
       "kind": "theory"
     },
     {
-      "image": "pages/page-71.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno V · Lectio 3\nLe nozioni da ricordare\nIncendio\nEffetto\nGenera una fiamma. La lezione studia l’accensione insieme alle condizioni che possono trasformarla in propagazione: materiali vicini, spazio e possibilità di tenere sotto controllo il risultato.\nConseguenze\nFuoco e calore non sono risposte adatte a ogni minaccia. Una formula efficace sul materiale scelto può creare un problema maggiore se il contesto non è stato preparato.\nApplicazione difensiva\nLo scopo va motivato e il risultato verificato nel contesto.\nDomanda da discutere\nOttenere l’effetto desiderato basta a rendere corretta la scelta?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
-      "title": "Incendio · Nozioni",
+      "image": "pages/page-71.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno V · Lectio 3\nLe nozioni da ricordare\nIncarcerous\nEffetto\nEvoca corde che avvolgono il bersaglio e ne limitano i movimenti. Il contenimento è distinto dallo sbilanciamento e dal disarmo: trattenere non significa automaticamente aver concluso il pericolo.\nConseguenze\nLe corde possono produrre cadute o compressioni. La disposizione del bersaglio e la possibilità di interrompere il contenimento fanno parte della valutazione, senza trasformare una formula in un diritto di trattenere chiunque.\nApplicazione difensiva\nLo scopo va motivato e il risultato verificato nel contesto.\nDomanda da discutere\nOttenere l’effetto desiderato basta a rendere corretta la scelta?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
+      "title": "Incarcerous · Nozioni",
       "folio": "71",
       "kind": "theory"
     },
     {
-      "image": "pages/page-72.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno V · Lectio 3\nIl confronto in aula\nIncendio · Scheda della lezione\nApertura\nOttenere l’effetto desiderato basta a rendere corretta la scelta?\n1. Descrivere il bersaglio e lo scopo in un caso immaginario.\n2. Indicare le condizioni che mancano per decidere.\n3. Confrontare il risultato utile con le conseguenze sullo spazio vicino.\nDomanda di ripasso\nQuali elementi occorre valutare oltre alla riuscita della formula?\nRisposta ragionata\nBersaglio, ambiente, persone esposte e conseguenze successive. La riuscita tecnica da sola non dimostra che l’intervento sia adatto.",
-      "title": "Incendio · Attività e ripasso",
+      "image": "pages/page-72.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno V · Lectio 3\nIl confronto in aula\nIncarcerous · Scheda della lezione\nApertura\nOttenere l’effetto desiderato basta a rendere corretta la scelta?\n1. Descrivere il bersaglio e lo scopo in un caso immaginario.\n2. Indicare le condizioni che mancano per decidere.\n3. Confrontare il risultato utile con le conseguenze sullo spazio vicino.\nDomanda di ripasso\nQuali elementi occorre valutare oltre alla riuscita della formula?\nRisposta ragionata\nBersaglio, ambiente, persone esposte e conseguenze successive. La riuscita tecnica da sola non dimostra che l’intervento sia adatto.",
+      "title": "Incarcerous · Attività e ripasso",
       "folio": "72",
       "kind": "theory"
     },
     {
-      "image": "pages/page-73.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno V · Settimana II\nIncarcerous\nLe corde e il limite del contenimento\nEvoca corde che avvolgono il bersaglio e ne limitano i movimenti. Il contenimento è distinto dallo sbilanciamento e dal disarmo: trattenere non significa automaticamente aver concluso il pericolo.\nLe corde possono produrre cadute o compressioni. La disposizione del bersaglio e la possibilità di interrompere il contenimento fanno parte della valutazione, senza trasformare una formula in un diritto di trattenere chiunque.\nLa lezione utilizza oggetti o sagome preparate. La classe osserva forma e disposizione dei legami e discute quando un contenimento non sia proporzionato. Non sono previsti esperimenti liberi sui compagni.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
-      "title": "Incarcerous",
+      "image": "pages/page-73.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno V · Settimana II\nGli Auror\nAutorità, preparazione e responsabilità\nGli Auror sono professionisti del contrasto alle Arti Oscure. Il loro lavoro richiede preparazione, conoscenza e responsabilità nell’uso delle competenze. Non si riduce alla padronanza degli incantesimi più appariscenti.\nLo studente e il professionista non hanno lo stesso compito. Un testimone può contribuire con un rapporto preciso e una richiesta tempestiva di assistenza. Questa funzione è diversa dall’inseguire un sospetto o dall’eseguire un intervento specialistico.\nIl quinto anno collega quindi lucidità e limiti dell’azione. Non si inventano poteri, procedure di selezione o autorizzazioni professionali assenti dai materiali. La scuola prepara a comprendere e collaborare; il completamento del volume non assegna una carica.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
+      "title": "Gli Auror",
       "folio": "73",
       "kind": "theory"
     },
     {
-      "image": "pages/page-74.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno V · Lectio 4\nLe nozioni da ricordare\nIncarcerous\nEffetto\nEvoca corde che avvolgono il bersaglio e ne limitano i movimenti. Il contenimento è distinto dallo sbilanciamento e dal disarmo: trattenere non significa automaticamente aver concluso il pericolo.\nConseguenze\nLe corde possono produrre cadute o compressioni. La disposizione del bersaglio e la possibilità di interrompere il contenimento fanno parte della valutazione, senza trasformare una formula in un diritto di trattenere chiunque.\nApplicazione difensiva\nLo scopo va motivato e il risultato verificato nel contesto.\nDomanda da discutere\nOttenere l’effetto desiderato basta a rendere corretta la scelta?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
-      "title": "Incarcerous · Nozioni",
+      "image": "pages/page-74.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno V · Lectio 4\nLe nozioni da ricordare\nGli Auror\nCompetenza\nUna formazione specialistica si distingue da una conoscenza scolastica generale.\nTestimonianza\nRiferire ciò che si sa è diverso dal formulare una conclusione investigativa.\nResponsabilità\nUna carica non rende superfluo motivare e controllare le proprie decisioni.\nDomanda da discutere\nUna segnalazione precisa può essere più utile di un intervento improvvisato?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
+      "title": "Gli Auror · Nozioni",
       "folio": "74",
       "kind": "theory"
     },
     {
-      "image": "pages/page-75.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno V · Lectio 4\nIl confronto in aula\nIncarcerous · Scheda della lezione\nApertura\nOttenere l’effetto desiderato basta a rendere corretta la scelta?\n1. Descrivere il bersaglio e lo scopo in un caso immaginario.\n2. Indicare le condizioni che mancano per decidere.\n3. Confrontare il risultato utile con le conseguenze sullo spazio vicino.\nDomanda di ripasso\nQuali elementi occorre valutare oltre alla riuscita della formula?\nRisposta ragionata\nBersaglio, ambiente, persone esposte e conseguenze successive. La riuscita tecnica da sola non dimostra che l’intervento sia adatto.\nConcluso il ciclo di due settimane. Si prosegue con l’anno VI.",
-      "title": "Incarcerous · Attività e ripasso",
+      "image": "pages/page-75.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno V · Lectio 4\nIl confronto in aula\nGli Auror · Scheda della lezione\nApertura\nUna segnalazione precisa può essere più utile di un intervento improvvisato?\n1. Preparare un rapporto immaginario con luogo, tempo e persone presenti.\n2. Eliminare le supposizioni presentate come fatti.\n3. Indicare il limite del compito scolastico rispetto all’intervento professionale.\nDomanda di ripasso\nStudiare D.C.A.O. equivale a diventare Auror?\nRisposta ragionata\nNo. Il corso fornisce basi; ruolo, preparazione professionale e autorizzazioni sono questioni differenti.\nConcluso il ciclo di due settimane. Si prosegue con l’anno VI.",
+      "title": "Gli Auror · Attività e ripasso",
       "folio": "75",
       "kind": "theory"
     },
     {
-      "image": "pages/page-76.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno VI\nOscurità, fuoco e distruzione\nAnnus Sextus\nStudiare Dissennatori, Inferi e Bombarda, quindi approfondire Confringo già introdotto al quarto anno.\nL’annualità\nDue settimane. Due lezioni ogni settimana. Quattro incontri, ciascuno con spiegazione, nozioni e lavoro in aula.",
-      "title": "Oscurità, fuoco e distruzione",
+      "image": "pages/page-76.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno VI\nMinacce oscure e magie esplosive\nAnnus Sextus\nStudiare Dissennatori e Inferi, quindi Bombarda e Confringo con preparazione e supervisione.\nL’annualità\nDue settimane. Due lezioni ogni settimana. Quattro incontri, ciascuno con spiegazione, nozioni e lavoro in aula.",
+      "title": "Minacce oscure e magie esplosive",
       "folio": "76",
       "kind": "divider"
     },
     {
-      "image": "pages/page-77.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno VI\nIl programma dell’anno\nDue settimane · Quattro lezioni\nSettimana I\nLezione 1 · I Dissennatori 78\nRiconoscere una minaccia diversa dal duello\nLezione 2 · Gli Inferi 81\nAnimazione e vita non sono la stessa cosa\nSettimana II\nLezione 3 · Bombarda 84\nL’esplosione e le sue conseguenze\nLezione 4 · Confringo · Approfondimento 87\nRipresa avanzata della formula introdotta al quarto anno\nTraguardo\nStudiare Dissennatori, Inferi e Bombarda, quindi approfondire Confringo già introdotto al quarto anno.\nLe tre pagine di ogni lezione uniscono spiegazione, nozioni e confronto. Dopo il quarto incontro si passa all’annualità successiva.",
+      "image": "pages/page-77.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno VI\nIl programma dell’anno\nDue settimane · Quattro lezioni\nSettimana I\nLezione 1 · I Dissennatori 78\nRiconoscere una minaccia diversa dal duello\nLezione 2 · Gli Inferi 81\nAnimazione e vita non sono la stessa cosa\nSettimana II\nLezione 3 · Bombarda 84\nL’esplosione e le sue conseguenze\nLezione 4 · Confringo 87\nIntroduzione alla magia esplosiva avanzata\nTraguardo\nStudiare Dissennatori e Inferi, quindi Bombarda e Confringo con preparazione e supervisione.\nLe tre pagine di ogni lezione uniscono spiegazione, nozioni e confronto. Dopo il quarto incontro si passa all’annualità successiva.",
       "title": "Il programma dell’anno",
       "folio": "77",
       "kind": "theory"
     },
     {
-      "image": "pages/page-78.svg?v=20261122-inrole4",
+      "image": "pages/page-78.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VI · Settimana I\nI Dissennatori\nRiconoscere una minaccia diversa dal duello\nI Dissennatori sono associati a freddo innaturale e a un profondo impoverimento delle emozioni positive. Il pericolo non si misura soltanto attraverso un colpo fisico o una ferita visibile.\nLa minaccia chiamata bacio del Dissennatore riguarda la sottrazione dell’anima. Il tema viene affrontato sul piano teorico, senza dimostrazioni con la creatura. Il Patronus è studiato come difesa specifica, non come proprietà trasferita a ogni scudo.\nIl repertorio menziona anche i Lethifold fra le entità per le quali il Patronus è rilevante. Questo confronto non rende tutte le creature oscure identiche. L’assistenza dopo un’esposizione e la difesa durante l’incontro sono compiti distinti.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
       "title": "I Dissennatori",
       "folio": "78",
       "kind": "theory"
     },
     {
-      "image": "pages/page-79.svg?v=20261122-inrole4",
+      "image": "pages/page-79.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VI · Lectio 1\nLe nozioni da ricordare\nI Dissennatori\nEffetto\nL’assenza di lesioni non esclude un problema grave.\nSpecificità\nUna difesa appropriata dipende dalla natura della minaccia.\nAssistenza\nUn sostegno dopo l’evento non costituisce una barriera contro la creatura.\nDomanda da discutere\nLa mancanza di una ferita rende necessariamente lieve ciò che è accaduto?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
       "title": "I Dissennatori · Nozioni",
       "folio": "79",
       "kind": "theory"
     },
     {
-      "image": "pages/page-80.svg?v=20261122-inrole4",
+      "image": "pages/page-80.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VI · Lectio 1\nIl confronto in aula\nI Dissennatori · Scheda della lezione\nApertura\nLa mancanza di una ferita rende necessariamente lieve ciò che è accaduto?\n1. Confrontare un rischio fisico e una manifestazione descritta nel repertorio.\n2. Indicare quale difesa venga collegata ai Dissennatori.\n3. Separare prevenzione, difesa e successiva assistenza.\nDomanda di ripasso\nProtego ed Expecto Patronum possono essere dichiarati intercambiabili?\nRisposta ragionata\nNo. Lo scudo generico e il Patronus hanno compiti differenti, da non confondere.",
       "title": "I Dissennatori · Attività e ripasso",
       "folio": "80",
       "kind": "theory"
     },
     {
-      "image": "pages/page-81.svg?v=20261122-inrole4",
+      "image": "pages/page-81.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VI · Settimana I\nGli Inferi\nAnimazione e vita non sono la stessa cosa\nUn Inferius è un corpo morto mosso da magia oscura. Non è una persona tornata alla propria vita né un fantasma. La distinzione riguarda origine, autonomia e natura del pericolo.\nLa descrizione dell’assenza di dolore o paura non va usata per progettare prove su un corpo sospetto. Un cadavere immobile e un luogo isolato non dimostrano da soli la presenza di un Inferius. La valutazione richiede persone competenti.\nIl riferimento collega il fuoco al contrasto di queste entità. Questa nozione non autorizza a usare indiscriminatamente fiamme ed esplosioni: il luogo e le persone presenti rimangono parte del problema. Gli studenti analizzano scenari teorici, senza apprendere pratiche di animazione.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
       "title": "Gli Inferi",
       "folio": "81",
       "kind": "theory"
     },
     {
-      "image": "pages/page-82.svg?v=20261122-inrole4",
+      "image": "pages/page-82.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VI · Lectio 2\nLe nozioni da ricordare\nGli Inferi\nOrigine\nIl movimento imposto non dimostra la restituzione di vita e coscienza.\nRiconoscimento\nUn indizio va confrontato con altri dati, senza verifiche improvvisate.\nAmbiente\nUn elemento efficace contro una minaccia può compromettere il luogo.\nDomanda da discutere\nUna proprietà utile in astratto è necessariamente adatta a ogni ambiente?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
       "title": "Gli Inferi · Nozioni",
       "folio": "82",
       "kind": "theory"
     },
     {
-      "image": "pages/page-83.svg?v=20261122-inrole4",
+      "image": "pages/page-83.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VI · Lectio 2\nIl confronto in aula\nGli Inferi · Scheda della lezione\nApertura\nUna proprietà utile in astratto è necessariamente adatta a ogni ambiente?\n1. Separare nelle descrizioni fantasma, persona vivente e corpo animato.\n2. Individuare un limite a un intervento con il fuoco in un caso immaginario.\n3. Riferire il possibile rischio senza descrivere procedure di animazione.\nDomanda di ripasso\nIl movimento di un corpo dimostra che sia tornata la persona che era?\nRisposta ragionata\nNo. Nell’Inferius si studia un’animazione imposta, distinta dal ritorno alla vita.",
       "title": "Gli Inferi · Attività e ripasso",
       "folio": "83",
       "kind": "theory"
     },
     {
-      "image": "pages/page-84.svg?v=20261122-inrole4",
+      "image": "pages/page-84.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VI · Settimana II\nBombarda\nL’esplosione e le sue conseguenze\nProduce un’esplosione sul punto colpito. L’effetto può danneggiare un ostacolo, ma coinvolge anche materiali, frammenti e ciò che si trova nelle vicinanze. Non equivale a una separazione precisa come un taglio.\nLa superficie visibile non racconta ciò che esiste dietro. Una porta o una parete possono nascondere persone, sostegni o materiali fragili: non conoscere queste condizioni è un limite da considerare prima di agire.\nIl confronto avviene su tavola; ogni dimostrazione richiede un bersaglio isolato predisposto dal docente. La valutazione comprende anche la decisione di non utilizzare un’esplosione, senza inventare raggio, danno o requisiti tecnici del gioco.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
       "title": "Bombarda",
       "folio": "84",
       "kind": "theory"
     },
     {
-      "image": "pages/page-85.svg?v=20261122-inrole4",
+      "image": "pages/page-85.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VI · Lectio 3\nLe nozioni da ricordare\nBombarda\nEffetto\nProduce un’esplosione sul punto colpito. L’effetto può danneggiare un ostacolo, ma coinvolge anche materiali, frammenti e ciò che si trova nelle vicinanze. Non equivale a una separazione precisa come un taglio.\nConseguenze\nLa superficie visibile non racconta ciò che esiste dietro. Una porta o una parete possono nascondere persone, sostegni o materiali fragili: non conoscere queste condizioni è un limite da considerare prima di agire.\nApplicazione difensiva\nLo scopo va motivato e il risultato verificato nel contesto.\nDomanda da discutere\nOttenere l’effetto desiderato basta a rendere corretta la scelta?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
       "title": "Bombarda · Nozioni",
       "folio": "85",
       "kind": "theory"
     },
     {
-      "image": "pages/page-86.svg?v=20261122-inrole4",
+      "image": "pages/page-86.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VI · Lectio 3\nIl confronto in aula\nBombarda · Scheda della lezione\nApertura\nOttenere l’effetto desiderato basta a rendere corretta la scelta?\n1. Descrivere il bersaglio e lo scopo in un caso immaginario.\n2. Indicare le condizioni che mancano per decidere.\n3. Confrontare il risultato utile con le conseguenze sullo spazio vicino.\nDomanda di ripasso\nQuali elementi occorre valutare oltre alla riuscita della formula?\nRisposta ragionata\nBersaglio, ambiente, persone esposte e conseguenze successive. La riuscita tecnica da sola non dimostra che l’intervento sia adatto.",
       "title": "Bombarda · Attività e ripasso",
       "folio": "86",
       "kind": "theory"
     },
     {
-      "image": "pages/page-87.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno VI · Settimana II\nConfringo · Approfondimento\nRipresa avanzata della formula introdotta al quarto anno\nConfringo è già introdotto nel quarto anno. Il sesto anno ne riprende l’effetto esplosivo per valutarne le conseguenze in un caso più complesso; non lo presenta come una formula nuova. Provoca un’esplosione nel punto o sul bersaglio raggiunto dalla formula. Si conserva la distinzione tra descrizione di un effetto offensivo e decisione di impiegarlo. La sua presenza nel programma non autorizza prove libere sull’ambiente.\nVa distinto da Incendio, studiato per la produzione di fuoco. La classificazione offensiva e le condizioni d’impiego appartengono alla lezione di D.C.A.O.\nIl confronto con Expulso non introduce differenze numeriche che i materiali non stabiliscono. Entrambe le voci richiedono di ragionare su ciò che può essere coinvolto oltre al bersaglio. La riuscita difensiva non coincide con il danno più grande possibile.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
-      "title": "Confringo · Approfondimento",
+      "image": "pages/page-87.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno VI · Settimana II\nConfringo\nIntroduzione alla magia esplosiva avanzata\nProvoca un’esplosione nel punto o sul bersaglio raggiunto dalla formula. Si conserva la distinzione tra descrizione di un effetto offensivo e decisione di impiegarlo. La sua presenza nel programma non autorizza prove libere sull’ambiente.\nVa distinto da Incendio, studiato per la produzione di fuoco. La classificazione offensiva e le condizioni d’impiego appartengono alla lezione di D.C.A.O.\nIl sesto anno collega l’effetto al materiale colpito e alle conseguenze nell’ambiente. Lo studio procede su tavola; una dimostrazione richiede un bersaglio isolato predisposto dal docente. Non si attribuiscono alla sola conoscenza della formula precisione assoluta o autorità sulle strutture della scuola.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
+      "title": "Confringo",
       "folio": "87",
       "kind": "theory"
     },
     {
-      "image": "pages/page-88.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno VI · Lectio 4\nLe nozioni da ricordare\nConfringo · Approfondimento\nRiconoscimento\nIl punto dell’impatto e gli effetti sull’ambiente vanno descritti separatamente.\nConfronto\nDue formule affini non si distinguono inventando portate o potenziamenti.\nScopo\nL’obiettivo di protezione deve restare riconoscibile.\nDomanda da discutere\nDistruggere un ostacolo risolve il problema se blocca l’unico accesso disponibile?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
-      "title": "Confringo · Approfondimento · Nozioni",
+      "image": "pages/page-88.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno VI · Lectio 4\nLe nozioni da ricordare\nConfringo\nRiconoscimento\nIl punto dell’impatto e gli effetti sull’ambiente vanno descritti separatamente.\nConfronto\nDue formule affini non si distinguono inventando portate o potenziamenti.\nScopo\nL’obiettivo di protezione deve restare riconoscibile.\nDomanda da discutere\nDistruggere un ostacolo risolve il problema se blocca l’unico accesso disponibile?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
+      "title": "Confringo · Nozioni",
       "folio": "88",
       "kind": "theory"
     },
     {
-      "image": "pages/page-89.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nAnno VI · Lectio 4\nIl confronto in aula\nConfringo · Approfondimento · Scheda della lezione\nApertura\nDistruggere un ostacolo risolve il problema se blocca l’unico accesso disponibile?\n1. Analizzare una scena immaginaria con un ostacolo e un passaggio.\n2. Valutare una conseguenza dell’effetto che comprometta l’obiettivo.\n3. Proporre quali informazioni servano prima di una dimostrazione.\nDomanda di ripasso\nUn danno maggiore dimostra una difesa migliore?\nRisposta ragionata\nNo. Si giudica la corrispondenza con l’obiettivo e le conseguenze per le persone e il luogo.\nConcluso il ciclo di due settimane. Si prosegue con l’anno VII.",
-      "title": "Confringo · Approfondimento · Attività e ripasso",
+      "image": "pages/page-89.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nAnno VI · Lectio 4\nIl confronto in aula\nConfringo · Scheda della lezione\nApertura\nDistruggere un ostacolo risolve il problema se blocca l’unico accesso disponibile?\n1. Analizzare una scena immaginaria con un ostacolo e un passaggio.\n2. Valutare una conseguenza dell’effetto che comprometta l’obiettivo.\n3. Proporre quali informazioni servano prima di una dimostrazione.\nDomanda di ripasso\nUn danno maggiore dimostra una difesa migliore?\nRisposta ragionata\nNo. Si giudica la corrispondenza con l’obiettivo e le conseguenze per le persone e il luogo.\nConcluso il ciclo di due settimane. Si prosegue con l’anno VII.",
+      "title": "Confringo · Attività e ripasso",
       "folio": "89",
       "kind": "theory"
     },
     {
-      "image": "pages/page-90.svg?v=20261122-inrole4",
+      "image": "pages/page-90.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VII\nIl confine delle Arti Oscure\nAnnus Septimus\nComprendere le forme più gravi di abuso della magia e la forza necessaria per opporvisi.\nL’annualità\nDue settimane. Due lezioni ogni settimana. Quattro incontri, ciascuno con spiegazione, nozioni e lavoro in aula.",
       "title": "Il confine delle Arti Oscure",
       "folio": "90",
       "kind": "divider"
     },
     {
-      "image": "pages/page-91.svg?v=20261122-inrole4",
+      "image": "pages/page-91.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VII\nIl programma dell’anno\nDue settimane · Quattro lezioni\nSettimana I\nLezione 1 · Gli Obscuriali 92\nLa persona e la manifestazione\nLezione 2 · Il giudizio del difensore 95\nConoscere, scegliere, rendere conto\nSettimana II\nLezione 3 · Expulso 98\nL’effetto esplosivo e ciò che lo circonda\nLezione 4 · Expecto Patronum 101\nUna protezione che non nasce dall’aggressività\nTraguardo\nComprendere le forme più gravi di abuso della magia e la forza necessaria per opporvisi.\nLe tre pagine di ogni lezione uniscono spiegazione, nozioni e confronto. Dopo il quarto incontro si passa all’annualità successiva.",
       "title": "Il programma dell’anno",
       "folio": "91",
       "kind": "theory"
     },
     {
-      "image": "pages/page-92.svg?v=20261122-inrole4",
+      "image": "pages/page-92.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VII · Settimana I\nGli Obscuriali\nLa persona e la manifestazione\nSi chiama Obscuriale un giovane mago o una giovane strega in cui una repressione profonda delle capacità magiche ha dato origine a un Obscurus. Il fenomeno è raro e grave; non va confuso con la normale esitazione nell’apprendere o con un episodio di magia accidentale.\nObscuriale indica la persona; Obscurus indica la manifestazione oscura legata alla magia repressa, che può assumere caratteri distruttivi. Confondere i due termini favorisce il pregiudizio e porta a trattare una persona vulnerabile soltanto come una minaccia.\nQuesto studio è teorico. Un sospetto non autorizza interrogatori, prove o tentativi di provocare una manifestazione. La responsabilità della scuola consiste nel proteggere le persone e coinvolgere figure competenti. Non viene presentata una formula risolutiva universale né si deduce una condizione dal solo comportamento riservato.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
       "title": "Gli Obscuriali",
       "folio": "92",
       "kind": "theory"
     },
     {
-      "image": "pages/page-93.svg?v=20261122-inrole4",
+      "image": "pages/page-93.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VII · Lectio 1\nLe nozioni da ricordare\nGli Obscuriali\nObscuriale\nLa persona portatrice della condizione.\nObscurus\nLa manifestazione connessa alla repressione della magia.\nAttribuzione\nTimidezza e difficoltà scolastiche non bastano per identificare il fenomeno.\nDomanda da discutere\nPerché il linguaggio usato nel rapporto cambia il modo di affrontare il caso?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
       "title": "Gli Obscuriali · Nozioni",
       "folio": "93",
       "kind": "theory"
     },
     {
-      "image": "pages/page-94.svg?v=20261122-inrole4",
+      "image": "pages/page-94.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VII · Lectio 1\nIl confronto in aula\nGli Obscuriali · Scheda della lezione\nApertura\nPerché il linguaggio usato nel rapporto cambia il modo di affrontare il caso?\n1. Confrontare un rapporto accusatorio con uno descrittivo.\n2. Separare informazioni certe, ipotesi e pregiudizi.\n3. Indicare a chi affidare la valutazione.\nDomanda di ripasso\nUna difficoltà nell’uso della magia dimostra che qualcuno sia un Obscuriale?\nRisposta ragionata\nNo. Non è un indizio sufficiente e non consente diagnosi o prove improvvisate.",
       "title": "Gli Obscuriali · Attività e ripasso",
       "folio": "94",
       "kind": "theory"
     },
     {
-      "image": "pages/page-95.svg?v=20261122-inrole4",
+      "image": "pages/page-95.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VII · Settimana I\nIl giudizio del difensore\nConoscere, scegliere, rendere conto\nLa preparazione difensiva non consiste nel desiderio di avere sempre l’ultima parola. Il suo risultato è ridurre un pericolo con un intervento comprensibile e proporzionato alla situazione.\nIl bilancio del corso collega effetti, bersagli e confini. Disarmare non equivale a immobilizzare; confondere non equivale a cancellare un ricordo; manifestare uno scudo non dimostra ogni protezione possibile. Queste distinzioni rendono utile il repertorio.\nL’ultimo incontro raccoglie il ripasso dei sette anni. Lo studente descrive una scelta, ne motiva l’obiettivo e dichiara i propri limiti. Saper interrompere, comunicare e richiedere assistenza appartiene alla stessa disciplina che insegna a usare la bacchetta con controllo.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
       "title": "Il giudizio del difensore",
       "folio": "95",
       "kind": "theory"
     },
     {
-      "image": "pages/page-96.svg?v=20261122-inrole4",
+      "image": "pages/page-96.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VII · Lectio 2\nLe nozioni da ricordare\nIl giudizio del difensore\nProporzione\nLa scelta deve rispondere al rischio concreto.\nChiarezza\nIl resoconto distingue fatti, intenzioni e risultati.\nResponsabilità\nLa competenza comprende ciò che si decide di non eseguire.\nDomanda da discutere\nQuale differenza distingue un repertorio memorizzato da una decisione ben motivata?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
       "title": "Il giudizio del difensore · Nozioni",
       "folio": "96",
       "kind": "theory"
     },
     {
-      "image": "pages/page-97.svg?v=20261122-inrole4",
+      "image": "pages/page-97.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VII · Lectio 2\nIl confronto in aula\nIl giudizio del difensore · Scheda della lezione\nApertura\nQuale differenza distingue un repertorio memorizzato da una decisione ben motivata?\n1. Scegliere tre formule e descriverne l’effetto con parole proprie.\n2. Confrontare due risposte a un caso immaginario.\n3. Concludere indicando un limite e una richiesta di assistenza appropriata.\nDomanda di ripasso\nQual è il traguardo comune dei sette anni?\nRisposta ragionata\nComprendere gli effetti e scegliere una risposta controllata, senza confondere capacità, necessità e autorizzazione.",
       "title": "Il giudizio del difensore · Attività e ripasso",
       "folio": "97",
       "kind": "theory"
     },
     {
-      "image": "pages/page-98.svg?v=20261122-inrole4",
+      "image": "pages/page-98.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VII · Settimana II\nExpulso\nL’effetto esplosivo e ciò che lo circonda\nProduce un effetto esplosivo sul bersaglio o nel punto colpito. La formula viene introdotta per comprenderne la natura e le conseguenze sull’ambiente. Non è presentata come semplice alternativa a una spinta controllata.\nEsplosione e spinta direzionale non sono equivalenti. Occorre considerare persone, superfici e materiali vicini al punto colpito.\nIl luogo modifica l’esito: superfici, oggetti e persone vicine possono essere coinvolti. La lezione è soprattutto progettuale e dimostrativa, con condizioni decise dal docente. Gli studenti osservano l’area coinvolta e le conseguenze senza dedurle dal solo nome della formula.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
       "title": "Expulso",
       "folio": "98",
       "kind": "theory"
     },
     {
-      "image": "pages/page-99.svg?v=20261122-inrole4",
+      "image": "pages/page-99.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VII · Lectio 3\nLe nozioni da ricordare\nExpulso\nEsplosione\nNon coincide con un trasporto ordinato del bersaglio.\nAmbiente\nIl punto interessato non è l’unico elemento da considerare.\nLimite\nLa descrizione non assegna valori numerici o capacità ulteriori.\nDomanda da discutere\nUn effetto sul bersaglio può coinvolgere anche ciò che non si intendeva colpire?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
       "title": "Expulso · Nozioni",
       "folio": "99",
       "kind": "theory"
     },
     {
-      "image": "pages/page-100.svg?v=20261122-inrole4",
+      "image": "pages/page-100.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VII · Lectio 3\nIl confronto in aula\nExpulso · Scheda della lezione\nApertura\nUn effetto sul bersaglio può coinvolgere anche ciò che non si intendeva colpire?\n1. Segnare su una tavola bersaglio e presenze vicine.\n2. Indicare una condizione che renda la scelta inadeguata.\n3. Confrontare l’effetto con un impulso già studiato.\nDomanda di ripasso\nPerché Expulso non va descritto come una semplice spinta più forte?\nRisposta ragionata\nPerché la natura esplosiva richiede una valutazione distinta delle conseguenze sul luogo.",
       "title": "Expulso · Attività e ripasso",
       "folio": "100",
       "kind": "theory"
     },
     {
-      "image": "pages/page-101.svg?v=20261122-inrole4",
+      "image": "pages/page-101.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VII · Settimana II\nExpecto Patronum\nUna protezione che non nasce dall’aggressività\nEvoca un Patronus, manifestazione protettiva usata contro i Dissennatori. Una forma corporea può assumere un aspetto animale. L’incanto viene introdotto nel settimo anno, mantenendo distinta la sua manifestazione da un animale naturale e da un’evocazione ordinaria.\nIl Patronus non è un animale naturale evocato con Avis. Il suo studio collega concentrazione e richiamo di un ricordo felice, senza garantire una forma corporea a ogni tentativo.\nIl repertorio distingue forma incorporea e forma corporea. Il corso non garantisce a ogni allievo una figura animale completa né una forma scelta liberamente. La preparazione mentale e il ricordo felice vengono studiati senza richiedere rivelazioni personali alla classe.\nRiferimento: Silas Ravenshaw · Appunti per il corso di Difesa",
       "title": "Expecto Patronum",
       "folio": "101",
       "kind": "theory"
     },
     {
-      "image": "pages/page-102.svg?v=20261122-inrole4",
+      "image": "pages/page-102.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VII · Lectio 4\nLe nozioni da ricordare\nExpecto Patronum\nManifestazione\nIl Patronus non è un animale naturale trasformato o evocato per la cura.\nPreparazione\nRicordo e concentrazione sostengono la nozione senza garantire un risultato immediato.\nRiservatezza\nUn compito mentale non richiede di raccontare alla classe esperienze private.\nDomanda da discutere\nLa capacità di una formula offensiva dimostra già la padronanza del Patronus?\nPer motivare una risposta, collegare il concetto a un esempio della spiegazione. Un’opinione ragionata può essere discussa; una notizia nuova richiede una fonte.",
       "title": "Expecto Patronum · Nozioni",
       "folio": "102",
       "kind": "theory"
     },
     {
-      "image": "pages/page-103.svg?v=20261122-inrole4",
+      "image": "pages/page-103.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nAnno VII · Lectio 4\nIl confronto in aula\nExpecto Patronum · Scheda della lezione\nApertura\nLa capacità di una formula offensiva dimostra già la padronanza del Patronus?\n1. Distinguere su tavola manifestazione luminosa e forma corporea.\n2. Formulare un progetto teorico senza scegliere una specie animale come promessa di riuscita.\n3. Indicare i limiti della propria preparazione rispetto alla dimostrazione del docente.\nDomanda di ripasso\nConoscere la formula garantisce un Patronus corporeo?\nRisposta ragionata\nNo. Il risultato richiede una padronanza avanzata che non deriva dalla sola lettura.\nConcluso il ciclo di due settimane. Il percorso dei sette anni è concluso.",
       "title": "Expecto Patronum · Attività e ripasso",
       "folio": "103",
       "kind": "theory"
     },
     {
-      "image": "pages/page-104.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nApprofondimento teorico\nI troll: forza e territorio\nLettura complementare · Collegamento con il terzo anno\nI troll sono creature grandi e molto forti. Le varietà di montagna, foresta e fiume ricordano che una denominazione generale non descrive ogni ambiente e abitudine. La mole impone di considerare sia i movimenti della creatura sia gli ostacoli che possono essere rovesciati.\nUn’andatura apparentemente impacciata non rende innocuo un incontro. Avvicinarsi per provare una formula espone al rischio prima ancora di conoscerne il risultato. Le indicazioni di passaggio devono essere considerate insieme: un rumore o un’impronta isolata non costituiscono identificazione certa.\nLa difesa scolastica privilegia segnalazione, allontanamento ordinato e lettura dei percorsi. Una scena su tavola consente di discutere le uscite e le persone esposte senza cercare un confronto reale. Conoscere un incantesimo da duello non ne dimostra l’efficacia contro una creatura di grande mole.\nIl collegamento\nUna formula riuscita in un duello fra maghi non dimostra automaticamente lo stesso risultato contro una grande creatura. La lettura accompagna il corso senza aggiungere incontri al calendario.",
-      "title": "I troll: forza e territorio",
+      "image": "pages/page-104.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nLettura complementare\nI troll: forza, territorio e prudenza\nCollegamento teorico · Non aggiunge incontri al calendario\nI troll sono creature grandi e molto forti. Le varietà di montagna, foresta e fiume ricordano che una denominazione generale non descrive ogni ambiente e abitudine. La mole impone di considerare sia i movimenti della creatura sia gli ostacoli che possono essere rovesciati.\nUn’andatura apparentemente impacciata non rende innocuo un incontro. Avvicinarsi per provare una formula espone al rischio prima ancora di conoscerne il risultato. Le indicazioni di passaggio devono essere considerate insieme: un rumore o un’impronta isolata non costituiscono identificazione certa.\nLa difesa scolastica privilegia segnalazione, allontanamento ordinato e lettura dei percorsi. Una scena su tavola consente di discutere le uscite e le persone esposte senza cercare un confronto reale. Conoscere un incantesimo da duello non ne dimostra l’efficacia contro una creatura di grande mole.\nIl collegamento\nQuesta lettura confronta conoscenze già affrontate. Non introduce un secondo apprendimento della formula e non estende la pratica a nuovi bersagli.",
+      "title": "I troll: forza, territorio e prudenza",
       "folio": "104",
       "kind": "theory"
     },
     {
-      "image": "pages/page-105.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nConsilium\nScegliere una difesa\nUna decisione proporzionata alla situazione\nRiconoscere\nDescrivere ciò che si vede prima di attribuirgli una causa. Distinguere un movimento, un effetto magico e una reazione di paura.\nProteggere\nIndividuare persone esposte e possibilità di allontanamento. Una formula difensiva richiede comunque direzione, attenzione e condizioni adatte.\nInterrompere\nDisarmare, sbilanciare e distrarre producono risultati diversi. Scegliere in rapporto al problema, senza confondere la varietà delle formule con la qualità del giudizio.\nVerificare\nOsservare ciò che è cambiato. Un effetto visibile non dimostra da solo che il pericolo sia concluso.\nCaso immaginario\nUn compagno perde la bacchetta mentre un altro arretra verso una scala. La classe discute prima le persone esposte e lo spazio disponibile, poi le formule eventualmente pertinenti.",
-      "title": "Scegliere una difesa",
+      "image": "pages/page-105.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nLettura complementare\nDiffindo · Applicazione difensiva\nCollegamento teorico · Non aggiunge incontri al calendario\nProduce un taglio sul materiale verso cui è diretto. In un problema difensivo può essere studiato per comprendere come rimuovere un ostacolo, ma il risultato dipende dal bersaglio e da ciò che si trova vicino.\nTagliare una fune modifica anche ciò che quella fune sostiene. Il punto da separare e le conseguenze successive sono entrambi parte del compito.\nIl docente propone materiali inanimati preparati e una tavola con carichi e ingombri. Prima della dimostrazione gli studenti indicano che cosa si trova dietro il bersaglio e confrontano la separazione magica con una soluzione più semplice.\nIl collegamento\nQuesta lettura confronta conoscenze già affrontate. Non introduce un secondo apprendimento della formula e non estende la pratica a nuovi bersagli.",
+      "title": "Diffindo · Applicazione difensiva",
       "folio": "105",
       "kind": "theory"
     },
     {
-      "image": "pages/page-106.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nRelatio\nIl rapporto dopo l’evento\nInformazioni che altri possano verificare\nLuogo e persone\nIndicare quando e dove è avvenuto il fatto, chi era presente e chi ha assunto la responsabilità dell’intervento.\nSequenza osservata\nDescrivere l’ordine degli eventi. Separare ciò che è stato visto da ciò che è stato riferito da altri.\nDecisioni e risultati\nAnnotare lo scopo delle scelte, gli effetti riscontrati e le indicazioni ricevute.\nLimiti e consegna\nRegistrare dubbi, condizioni non verificate e compiti affidati a un responsabile.\nEsempio immaginario\nAlla comparsa dell’oggetto, due studenti si allontanano. Non è osservato alcun contatto. Il docente dispone di non avvicinarsi e prende in carico la verifica. L’origine dell’oggetto resta sconosciuta.",
-      "title": "Il rapporto dopo l’evento",
+      "image": "pages/page-106.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nLettura complementare\nIncendio · Applicazione difensiva\nCollegamento teorico · Non aggiunge incontri al calendario\nGenera una fiamma. La lezione studia l’accensione insieme alle condizioni che possono trasformarla in propagazione: materiali vicini, spazio e possibilità di tenere sotto controllo il risultato.\nFuoco e calore non sono risposte adatte a ogni minaccia. Una formula efficace sul materiale scelto può creare un problema maggiore se il contesto non è stato preparato.\nIl lavoro parte dal riconoscimento dei materiali su tavola. Un’eventuale dimostrazione è predisposta dal docente; gli studenti non cercano di provare una difesa incendiando un ambiente o esponendo persone e creature.\nIl collegamento\nQuesta lettura confronta conoscenze già affrontate. Non introduce un secondo apprendimento della formula e non estende la pratica a nuovi bersagli.",
+      "title": "Incendio · Applicazione difensiva",
       "folio": "106",
       "kind": "theory"
     },
     {
-      "image": "pages/page-107.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nFormulae\nLe formule per anno\nLe formule del programma aggiornato\nI · Rictusempra 11\nI · Flipendo 14\nI · Protego 17\nII · Riddikulus 25\nII · Coloshoo 25\nII · Tarantallegra 28\nII · Vermilius 31\nIII · Fireball 36\nIII · Confundo 39\nIII · Expelliarmus 42\nIII · Evertestatum 45\nIV · Confringo 56\nIV · Petrificus 59\nV · Diffindo 67\nV · Incendio 70\nV · Incarcerous 73\nVI · Bombarda 84\nVII · Expulso 98\nVII · Expecto Patronum 101\nLa tavola indica la prima introduzione. I programmi annuali precisano le settimane e gli eventuali approfondimenti successivi.",
-      "title": "Le formule per anno",
+      "image": "pages/page-107.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nMemoria e responsabilità\nObliviate · Studio teorico\nConfronto degli ultimi due anni · Nessun esercizio sui ricordi\nObliviate interviene sui ricordi. La sua conoscenza teorica serve a distinguere una lacuna riferita, una testimonianza e un’ipotesi sulla causa. Nessuna singola dimenticanza dimostra da sola l’impiego di una formula.\nIl limite del corso\nGli allievi non modificano i ricordi dei compagni e non tentano prove per verificare un sospetto. Una possibile alterazione della memoria viene affidata a chi possiede preparazione e responsabilità appropriate.\nUna ricostruzione attendibile\nUn rapporto utile separa osservazioni, parole della persona e interpretazioni. Non impone un ricordo, non assegna automaticamente una causa e non pretende di ricostruire ciò che non è stato verificato.\nLa consegna\nStudiare una magia non conferisce il diritto di esercitarla. Il confronto teorico del sesto e settimo anno sviluppa riconoscimento e giudizio.",
+      "title": "Obliviate · Studio teorico",
       "folio": "107",
       "kind": "theory"
     },
     {
-      "image": "pages/page-108.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nRepertorium\nEffetti e nozioni\nTavola I · Consultazione delle formule\nRictusempra\nAnno I · Lezione 2 · pagina 11\nProvoca solletico nel bersaglio, interferendo con la sua capacità di mantenere la concentrazione.\nIl solletico è l’effetto centrale, non un controllo generale della mente.\nFlipendo\nAnno I · Lezione 3 · pagina 14\nColpisce con un impulso capace di respingere o rovesciare il bersaglio.\nProduce movimento o rovesciamento, non una guida libera e continua.\nProtego\nAnno I · Lezione 4 · pagina 17\nGenera uno scudo magico difensivo, utile a contrastare effetti compatibili con la protezione.\nUno scudo è una difesa attiva da valutare rispetto all’effetto affrontato.",
-      "title": "Effetti e nozioni",
+      "image": "pages/page-108.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nConsilium\nScegliere una difesa\nUna decisione proporzionata alla situazione\nRiconoscere\nDescrivere ciò che si vede prima di attribuirgli una causa. Distinguere un movimento, un effetto magico e una reazione di paura.\nProteggere\nIndividuare persone esposte e possibilità di allontanamento. Una formula difensiva richiede comunque direzione, attenzione e condizioni adatte.\nInterrompere\nDisarmare, sbilanciare e distrarre producono risultati diversi. Scegliere in rapporto al problema, senza confondere la varietà delle formule con la qualità del giudizio.\nVerificare\nOsservare ciò che è cambiato. Un effetto visibile non dimostra da solo che il pericolo sia concluso.\nCaso immaginario\nUn compagno perde la bacchetta mentre un altro arretra verso una scala. La classe discute prima le persone esposte e lo spazio disponibile, poi le formule eventualmente pertinenti.",
+      "title": "Scegliere una difesa",
       "folio": "108",
       "kind": "theory"
     },
     {
-      "image": "pages/page-109.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nRepertorium\nEffetti e nozioni\nTavola II · Consultazione delle formule\nRiddikulus\nAnno II · Lezione 2 · pagina 25\nContrasta un Molliccio trasformandone l’apparenza in qualcosa di comico, sostenuto dall’immaginazione di chi lo affronta.\nLa forma osservata dipende dall’incontro e non definisce un aspetto stabile noto.\nColoshoo\nAnno II · Lezione 2 · pagina 25\nIncolla o fissa le scarpe del bersaglio al terreno, ostacolandone lo spostamento.\nIl punto d’azione è essenziale per distinguere la formula da un’immobilizzazione generale.\nTarantallegra\nAnno II · Lezione 3 · pagina 28\nCostringe le gambe del bersaglio a un movimento incontrollato simile a una danza.\nL’effetto descritto riguarda le gambe, non ogni azione della persona.",
-      "title": "Effetti e nozioni",
+      "image": "pages/page-109.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nRelatio\nIl rapporto dopo l’evento\nInformazioni che altri possano verificare\nLuogo e persone\nIndicare quando e dove è avvenuto il fatto, chi era presente e chi ha assunto la responsabilità dell’intervento.\nSequenza osservata\nDescrivere l’ordine degli eventi. Separare ciò che è stato visto da ciò che è stato riferito da altri.\nDecisioni e risultati\nAnnotare lo scopo delle scelte, gli effetti riscontrati e le indicazioni ricevute.\nLimiti e consegna\nRegistrare dubbi, condizioni non verificate e compiti affidati a un responsabile.\nEsempio immaginario\nAlla comparsa dell’oggetto, due studenti si allontanano. Non è osservato alcun contatto. Il docente dispone di non avvicinarsi e prende in carico la verifica. L’origine dell’oggetto resta sconosciuta.",
+      "title": "Il rapporto dopo l’evento",
       "folio": "109",
       "kind": "theory"
     },
     {
-      "image": "pages/page-110.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nRepertorium\nEffetti e nozioni\nTavola III · Consultazione delle formule\nVermilius\nAnno II · Lezione 4 · pagina 31\nFormula associata nei trattati a scintille rosse.\nDistinguere Vermilius da Verdimilius e descrivere la manifestazione prima di interpretarne lo scopo.\nFireball\nAnno III · Lezione 1 · pagina 36\nManifestazione associata a una sfera di fuoco, studiata per il riconoscimento e il giudizio difensivo.\nConsiderare materiali e persone vicine. La dimostrazione è affidata al docente; non confondere Fireball con Incendio.\nConfundo\nAnno III · Lezione 2 · pagina 39\nConfonde il bersaglio, alterandone temporaneamente la lucidità o la valutazione della situazione.\nLa valutazione della situazione può essere alterata senza cancellare i ricordi.",
-      "title": "Effetti e nozioni",
+      "image": "pages/page-110.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nFormulae\nLe formule per anno\nLe formule del programma aggiornato\nI · Rictusempra 11\nI · Flipendo 14\nI · Protego 17\nII · Riddikulus 25\nII · Coloshoo 25\nII · Tarantallegra 28\nII · Vermilius 31\nIII · Expelliarmus 36\nIII · Evertestatum 39\nIV · Fireball 56\nV · Confundo 64\nV · Petrificus 67\nV · Incarcerous 70\nVI · Bombarda 84\nVI · Confringo 87\nVII · Expulso 98\nVII · Expecto Patronum 101\nLa tavola indica la prima introduzione. I programmi annuali precisano le settimane e gli eventuali approfondimenti successivi.",
+      "title": "Le formule per anno",
       "folio": "110",
       "kind": "theory"
     },
     {
-      "image": "pages/page-111.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nRepertorium\nEffetti e nozioni\nTavola IV · Consultazione delle formule\nExpelliarmus\nAnno III · Lezione 3 · pagina 42\nDisarma il bersaglio, facendogli perdere la presa sulla bacchetta o sull’oggetto interessato dall’effetto.\nÈ il rapporto tra il bersaglio e l’oggetto che impugna.\nEvertestatum\nAnno III · Lezione 4 · pagina 45\nRespinge e sbilancia il bersaglio, provocandone un arretramento o una caduta secondo l’esecuzione.\nLa posizione del bersaglio influenza le conseguenze del movimento.\nConfringo\nAnno IV · Lezione 3 · pagina 56\nProvoca un’esplosione nel punto o sul bersaglio raggiunto dalla formula.\nIl punto dell’impatto e gli effetti sull’ambiente vanno descritti separatamente.",
+      "image": "pages/page-111.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nRepertorium\nEffetti e nozioni\nTavola I · Consultazione delle formule\nRictusempra\nAnno I · Lezione 2 · pagina 11\nProvoca solletico nel bersaglio, interferendo con la sua capacità di mantenere la concentrazione.\nIl solletico è l’effetto centrale, non un controllo generale della mente.\nFlipendo\nAnno I · Lezione 3 · pagina 14\nColpisce con un impulso capace di respingere o rovesciare il bersaglio.\nProduce movimento o rovesciamento, non una guida libera e continua.\nProtego\nAnno I · Lezione 4 · pagina 17\nGenera uno scudo magico difensivo, utile a contrastare effetti compatibili con la protezione.\nUno scudo è una difesa attiva da valutare rispetto all’effetto affrontato.",
       "title": "Effetti e nozioni",
       "folio": "111",
       "kind": "theory"
     },
     {
-      "image": "pages/page-112.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nRepertorium\nEffetti e nozioni\nTavola V · Consultazione delle formule\nPetrificus\nAnno IV · Lezione 4 · pagina 59\nPetrificus immobilizza il corpo del bersaglio.\nUn corpo che non può muoversi non è per questo diventato pietra.\nDiffindo\nAnno V · Lezione 2 · pagina 67\nProduce un taglio sul materiale verso cui è diretto.\nProduce un taglio sul materiale verso cui è diretto. In un problema difensivo può essere studiato per comprendere come rimuovere un ostacolo, ma il risultato dipende dal bersaglio e da ciò che si trova vicino.\nIncendio\nAnno V · Lezione 3 · pagina 70\nGenera una fiamma.\nGenera una fiamma. La lezione studia l’accensione insieme alle condizioni che possono trasformarla in propagazione: materiali vicini, spazio e possibilità di tenere sotto controllo il risultato.",
+      "image": "pages/page-112.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nRepertorium\nEffetti e nozioni\nTavola II · Consultazione delle formule\nRiddikulus\nAnno II · Lezione 2 · pagina 25\nContrasta un Molliccio trasformandone l’apparenza in qualcosa di comico, sostenuto dall’immaginazione di chi lo affronta.\nLa forma osservata dipende dall’incontro e non definisce un aspetto stabile noto.\nColoshoo\nAnno II · Lezione 2 · pagina 25\nIncolla o fissa le scarpe del bersaglio al terreno, ostacolandone lo spostamento.\nIl punto d’azione è essenziale per distinguere la formula da un’immobilizzazione generale.\nTarantallegra\nAnno II · Lezione 3 · pagina 28\nCostringe le gambe del bersaglio a un movimento incontrollato simile a una danza.\nL’effetto descritto riguarda le gambe, non ogni azione della persona.",
       "title": "Effetti e nozioni",
       "folio": "112",
       "kind": "theory"
     },
     {
-      "image": "pages/page-113.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nRepertorium\nEffetti e nozioni\nTavola VI · Consultazione delle formule\nIncarcerous\nAnno V · Lezione 4 · pagina 73\nEvoca corde che avvolgono il bersaglio e ne limitano i movimenti.\nEvoca corde che avvolgono il bersaglio e ne limitano i movimenti. Il contenimento è distinto dallo sbilanciamento e dal disarmo: trattenere non significa automaticamente aver concluso il pericolo.\nBombarda\nAnno VI · Lezione 3 · pagina 84\nProduce un’esplosione sul punto colpito.\nProduce un’esplosione sul punto colpito. L’effetto può danneggiare un ostacolo, ma coinvolge anche materiali, frammenti e ciò che si trova nelle vicinanze. Non equivale a una separazione precisa come un taglio.\nExpulso\nAnno VII · Lezione 3 · pagina 98\nProduce un effetto esplosivo sul bersaglio o nel punto colpito.\nNon coincide con un trasporto ordinato del bersaglio.",
+      "image": "pages/page-113.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nRepertorium\nEffetti e nozioni\nTavola III · Consultazione delle formule\nVermilius\nAnno II · Lezione 4 · pagina 31\nFormula associata nei trattati a scintille rosse.\nDistinguere Vermilius da Verdimilius e descrivere la manifestazione prima di interpretarne lo scopo.\nExpelliarmus\nAnno III · Lezione 1 · pagina 36\nDisarma il bersaglio, facendogli perdere la presa sulla bacchetta o sull’oggetto interessato dall’effetto.\nÈ il rapporto tra il bersaglio e l’oggetto che impugna.\nEvertestatum\nAnno III · Lezione 2 · pagina 39\nRespinge e sbilancia il bersaglio, provocandone un arretramento o una caduta secondo l’esecuzione.\nLa posizione del bersaglio influenza le conseguenze del movimento.",
       "title": "Effetti e nozioni",
       "folio": "113",
       "kind": "theory"
     },
     {
-      "image": "pages/page-114.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nRepertorium\nEffetti e nozioni\nTavola VII · Consultazione delle formule\nExpecto Patronum\nAnno VII · Lezione 4 · pagina 101\nEvoca un Patronus, manifestazione protettiva usata contro i Dissennatori.\nIl Patronus non è un animale naturale trasformato o evocato per la cura.",
+      "image": "pages/page-114.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nRepertorium\nEffetti e nozioni\nTavola IV · Consultazione delle formule\nFireball\nAnno IV · Lezione 3 · pagina 56\nManifestazione associata a una sfera di fuoco, studiata per il riconoscimento e il giudizio difensivo.\nQuarto anno: riconoscimento e dimostrazione circoscritta. Nessuna pratica di effetti estesi o propagazione.\nConfundo\nAnno V · Lezione 1 · pagina 64\nConfonde il bersaglio, alterandone temporaneamente la lucidità o la valutazione della situazione.\nLa confusione non conferisce controllo dei pensieri, delle decisioni o dei ricordi. Il quinto anno ne studia riconoscimento e responsabilità.\nPetrificus\nAnno V · Lezione 2 · pagina 67\nPetrificus immobilizza il corpo del bersaglio.\nDistinguere immobilità, coscienza e volontà; chiarire condizioni e ripristino prima di una prova.",
       "title": "Effetti e nozioni",
       "folio": "114",
       "kind": "theory"
     },
     {
-      "image": "pages/page-115.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nDisciplinae\nConfini e responsabilità\nLa materia nel programma della scuola\nIl programma annuale\nTarantallegra e Vermilius vengono affrontati nel secondo anno; Fireball e Confundo nel terzo; Confringo nel quarto. Ogni annualità comprende quattro incontri.\nI collegamenti fra materie\nDiffindo, Incendio e Incarcerous vengono ripresi nel quinto anno per comprenderne l’impiego difensivo. La conoscenza di una formula deve essere collegata allo scopo per cui viene usata.\nStudio e pratica\nLeggere una descrizione non equivale a padroneggiare una magia. Il docente stabilisce esercizi, bersagli e condizioni adatte alla preparazione degli allievi.\nLa responsabilità\nDimostrazioni e attività avanzate richiedono attenzione alle persone presenti. Un caso su tavola permette di esercitare il giudizio prima dell’esecuzione.",
-      "title": "Confini e responsabilità",
+      "image": "pages/page-115.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nRepertorium\nEffetti e nozioni\nTavola V · Consultazione delle formule\nIncarcerous\nAnno V · Lezione 3 · pagina 70\nEvoca corde che avvolgono il bersaglio e ne limitano i movimenti.\nEvoca corde che avvolgono il bersaglio e ne limitano i movimenti. Il contenimento è distinto dallo sbilanciamento e dal disarmo: trattenere non significa automaticamente aver concluso il pericolo.\nBombarda\nAnno VI · Lezione 3 · pagina 84\nProduce un’esplosione sul punto colpito.\nProduce un’esplosione sul punto colpito. L’effetto può danneggiare un ostacolo, ma coinvolge anche materiali, frammenti e ciò che si trova nelle vicinanze. Non equivale a una separazione precisa come un taglio.\nConfringo\nAnno VI · Lezione 4 · pagina 87\nProvoca un’esplosione nel punto o sul bersaglio raggiunto dalla formula.\nIl punto dell’impatto e gli effetti sull’ambiente vanno descritti separatamente.",
+      "title": "Effetti e nozioni",
       "folio": "115",
       "kind": "theory"
     },
     {
-      "image": "pages/page-116.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nLexicon\nLe parole della difesa\nUn lessico da usare con precisione\nMinaccia\nUna condizione capace di produrre un danno, da valutare nel suo contesto.\nBersaglio\nPersona, oggetto o effetto a cui è diretto l’intervento.\nProtezione\nAzione volta a ridurre l’esposizione; non coincide con invulnerabilità.\nDisarmo\nPerdita della presa sulla bacchetta o sull’oggetto interessato.\nSbilanciamento\nAlterazione dell’equilibrio, distinta dall’immobilizzazione.\nControllo\nCapacità di mantenere lo scopo e verificare le conseguenze dell’azione.\nProporzione\nRapporto ragionato fra problema, risultato necessario e conseguenze previste.",
-      "title": "Le parole della difesa",
+      "image": "pages/page-116.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nRepertorium\nEffetti e nozioni\nTavola VI · Consultazione delle formule\nExpulso\nAnno VII · Lezione 3 · pagina 98\nProduce un effetto esplosivo sul bersaglio o nel punto colpito.\nNon coincide con un trasporto ordinato del bersaglio.\nExpecto Patronum\nAnno VII · Lezione 4 · pagina 101\nEvoca un Patronus, manifestazione protettiva usata contro i Dissennatori.\nIl Patronus non è un animale naturale trasformato o evocato per la cura.",
+      "title": "Effetti e nozioni",
       "folio": "116",
       "kind": "theory"
     },
     {
-      "image": "pages/page-117.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nConsilium Magistri\nIl consiglio del maestro\nAlla conclusione del percorso\nConoscere\nConservate gli appunti delle lezioni e tornate sulle differenze fra gli effetti. La precisione del linguaggio aiuta a riconoscere una minaccia senza lasciarsi guidare soltanto dall’impressione.\nEsercitare\nLa costanza non consiste nel ripetere una formula senza attenzione. Ogni prova deve avere un bersaglio riconoscibile, uno scopo e un modo per valutare ciò che è accaduto.\nGiudicare\nSaper rinunciare a un intervento sproporzionato è parte della preparazione del difensore. Il valore di una decisione si misura anche nelle conseguenze per chi non partecipa al confronto.\nProseguire\nQuesti sette anni costituiscono un principio, non il termine dello studio. Cercate il confronto con i maestri, dichiarate ciò che non comprendete e custodite la fiducia di chi si affida alla vostra protezione.\nProfessor Silas Ravenshaw · Hogwarts · MDCCCXC",
-      "title": "Il consiglio del maestro",
+      "image": "pages/page-117.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nDisciplinae\nConfini e responsabilità\nLa materia nel programma della scuola\nIl programma annuale\nIl terzo anno introduce disarmo e lettura del duello; il quarto studia creature e Fireball in forma circoscritta. Confundo, Petrificus e Incarcerous appartengono al quinto; Bombarda e Confringo al sesto.\nI collegamenti fra materie\nDiffindo e Incendio sono richiamati nelle letture complementari come applicazioni di formule già apprese. Incarcerous è studiato nel quinto anno anche in Trasfigurazione: una stessa formula può avere contesti diversi, senza un secondo apprendimento.\nStudio e pratica\nLeggere una descrizione non equivale a padroneggiare una magia. Il docente stabilisce esercizi, bersagli e condizioni adatte alla preparazione degli allievi.\nLa responsabilità\nDimostrazioni e attività avanzate richiedono attenzione alle persone presenti. Un caso su tavola permette di esercitare il giudizio prima dell’esecuzione.",
+      "title": "Confini e responsabilità",
       "folio": "117",
       "kind": "theory"
     },
     {
-      "image": "pages/page-118.svg?v=20261122-inrole4",
-      "text": "CODEX DEFENSIONIS\nFinis\nConoscere la minaccia.\nScegliere con giudizio.\nSette annualità. Quattordici settimane. Ventotto lezioni per riconoscere, proteggere e comprendere le conseguenze delle proprie decisioni.\nSilas Ravenshaw\nHogwarts · MDCCCXC",
-      "title": "Conoscere la minaccia.",
+      "image": "pages/page-118.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nLexicon\nLe parole della difesa\nUn lessico da usare con precisione\nMinaccia\nUna condizione capace di produrre un danno, da valutare nel suo contesto.\nBersaglio\nPersona, oggetto o effetto a cui è diretto l’intervento.\nProtezione\nAzione volta a ridurre l’esposizione; non coincide con invulnerabilità.\nDisarmo\nPerdita della presa sulla bacchetta o sull’oggetto interessato.\nSbilanciamento\nAlterazione dell’equilibrio, distinta dall’immobilizzazione.\nControllo\nCapacità di mantenere lo scopo e verificare le conseguenze dell’azione.\nProporzione\nRapporto ragionato fra problema, risultato necessario e conseguenze previste.",
+      "title": "Le parole della difesa",
       "folio": "118",
       "kind": "theory"
     },
     {
-      "image": "pages/page-119.svg?v=20261122-inrole4",
+      "image": "pages/page-119.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nConsilium Magistri\nIl consiglio del maestro\nAlla conclusione del percorso\nConoscere\nConservate gli appunti delle lezioni e tornate sulle differenze fra gli effetti. La precisione del linguaggio aiuta a riconoscere una minaccia senza lasciarsi guidare soltanto dall’impressione.\nEsercitare\nLa costanza non consiste nel ripetere una formula senza attenzione. Ogni prova deve avere un bersaglio riconoscibile, uno scopo e un modo per valutare ciò che è accaduto.\nGiudicare\nSaper rinunciare a un intervento sproporzionato è parte della preparazione del difensore. Il valore di una decisione si misura anche nelle conseguenze per chi non partecipa al confronto.\nProseguire\nQuesti sette anni costituiscono un principio, non il termine dello studio. Cercate il confronto con i maestri, dichiarate ciò che non comprendete e custodite la fiducia di chi si affida alla vostra protezione.\nProfessor Silas Ravenshaw · Hogwarts · MDCCCXC",
+      "title": "Il consiglio del maestro",
+      "folio": "119",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-120.svg?v=20261128-revisione",
+      "text": "CODEX DEFENSIONIS\nFinis\nConoscere la minaccia.\nScegliere con giudizio.\nSette annualità. Quattordici settimane. Ventotto lezioni per riconoscere, proteggere e comprendere le conseguenze delle proprie decisioni.\nSilas Ravenshaw\nHogwarts · MDCCCXC",
+      "title": "Conoscere la minaccia.",
+      "folio": "120",
+      "kind": "theory"
+    },
+    {
+      "image": "pages/page-121.svg?v=20261128-revisione",
       "text": "Controguardia posteriore marmorizzata.",
       "title": "Controguardia posteriore",
       "folio": "Controguardia",
       "kind": "endpaper"
     },
     {
-      "image": "pages/page-120.svg?v=20261122-inrole4",
+      "image": "pages/page-122.svg?v=20261128-revisione",
       "text": "CODEX DEFENSIONIS\nSilas Ravenshaw\nHogwarts · 1890\nConoscenza, controllo e giudizio",
       "title": "Quarta di copertina",
       "folio": "Quarta di copertina",
@@ -903,27 +917,27 @@
       "page": 31
     },
     {
-      "title": "Anno III · Controllo, confusione e disarmo",
+      "title": "Anno III · Duello, misura e risposta",
       "page": 34
     },
     {
-      "title": "III.1 · Fireball",
+      "title": "III.1 · Expelliarmus",
       "page": 36
     },
     {
-      "title": "III.2 · Confundo",
+      "title": "III.2 · Evertestatum",
       "page": 39
     },
     {
-      "title": "III.3 · Expelliarmus",
+      "title": "III.3 · Rispondere senza aggravare",
       "page": 42
     },
     {
-      "title": "III.4 · Evertestatum",
+      "title": "III.4 · Leggere il duello",
       "page": 45
     },
     {
-      "title": "Anno IV · Pericoli viventi e immobilizzazione",
+      "title": "Anno IV · Creature e protezione del gruppo",
       "page": 48
     },
     {
@@ -935,35 +949,35 @@
       "page": 53
     },
     {
-      "title": "IV.3 · Confringo",
+      "title": "IV.3 · Fireball",
       "page": 56
     },
     {
-      "title": "IV.4 · Petrificus",
+      "title": "IV.4 · Proteggere il gruppo",
       "page": 59
     },
     {
-      "title": "Anno V · Tecniche avanzate e responsabilità",
+      "title": "Anno V · Contenimento e responsabilità",
       "page": 62
     },
     {
-      "title": "V.1 · Gli Auror",
+      "title": "V.1 · Confundo",
       "page": 64
     },
     {
-      "title": "V.2 · Diffindo",
+      "title": "V.2 · Petrificus",
       "page": 67
     },
     {
-      "title": "V.3 · Incendio",
+      "title": "V.3 · Incarcerous",
       "page": 70
     },
     {
-      "title": "V.4 · Incarcerous",
+      "title": "V.4 · Gli Auror",
       "page": 73
     },
     {
-      "title": "Anno VI · Oscurità, fuoco e distruzione",
+      "title": "Anno VI · Minacce oscure e magie esplosive",
       "page": 76
     },
     {
@@ -979,7 +993,7 @@
       "page": 84
     },
     {
-      "title": "VI.4 · Confringo · Approfondimento",
+      "title": "VI.4 · Confringo",
       "page": 87
     },
     {
@@ -1003,64 +1017,72 @@
       "page": 101
     },
     {
-      "title": "Approfondimento · I troll",
+      "title": "Approfondimento · I troll: forza, territorio e prudenza",
       "page": 104
     },
     {
-      "title": "Scegliere una difesa",
+      "title": "Approfondimento · Diffindo · Applicazione difensiva",
       "page": 105
     },
     {
-      "title": "Il rapporto dopo l’evento",
+      "title": "Approfondimento · Incendio · Applicazione difensiva",
       "page": 106
     },
     {
-      "title": "Le formule per anno",
+      "title": "Obliviate · Solo teoria",
       "page": 107
     },
     {
-      "title": "Repertorio · I",
+      "title": "Scegliere una difesa",
       "page": 108
     },
     {
-      "title": "Repertorio · II",
+      "title": "Il rapporto dopo l’evento",
       "page": 109
     },
     {
-      "title": "Repertorio · III",
+      "title": "Le formule per anno",
       "page": 110
     },
     {
-      "title": "Repertorio · IV",
+      "title": "Repertorio · I",
       "page": 111
     },
     {
-      "title": "Repertorio · V",
+      "title": "Repertorio · II",
       "page": 112
     },
     {
-      "title": "Repertorio · VI",
+      "title": "Repertorio · III",
       "page": 113
     },
     {
-      "title": "Repertorio · VII",
+      "title": "Repertorio · IV",
       "page": 114
     },
     {
-      "title": "Confini e responsabilità",
+      "title": "Repertorio · V",
       "page": 115
     },
     {
-      "title": "Lessico essenziale",
+      "title": "Repertorio · VI",
       "page": 116
     },
     {
-      "title": "Il consiglio del maestro",
+      "title": "Confini e responsabilità",
       "page": 117
     },
     {
-      "title": "Finis",
+      "title": "Lessico essenziale",
       "page": 118
+    },
+    {
+      "title": "Il consiglio del maestro",
+      "page": 119
+    },
+    {
+      "title": "Finis",
+      "page": 120
     }
   ],
   "sections": [
@@ -1101,24 +1123,28 @@
       89
     ],
     [
+      "Letture",
+      103
+    ],
+    [
       "Pratica",
-      104
-    ],
-    [
-      "Formule",
-      106
-    ],
-    [
-      "Repertorio",
       107
     ],
     [
+      "Formule",
+      109
+    ],
+    [
+      "Repertorio",
+      110
+    ],
+    [
       "Lessico",
-      115
+      117
     ],
     [
       "Consiglio",
-      116
+      118
     ]
   ]
 }

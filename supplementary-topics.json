@@ -34,5 +34,77 @@
     "meeting": 1,
     "week": 1,
     "source": "Programma del libro D.C.A.O. di Francis Lake · Anno III · Lezione 1"
+  },
+  {
+    "title": "Diffindo · Applicazione difensiva",
+    "subtitle": "Separare un materiale senza ignorare ciò che sostiene",
+    "theory": [
+      "Produce un taglio sul materiale verso cui è diretto. In un problema difensivo può essere studiato per comprendere come rimuovere un ostacolo, ma il risultato dipende dal bersaglio e da ciò che si trova vicino.",
+      "Tagliare una fune modifica anche ciò che quella fune sostiene. Il punto da separare e le conseguenze successive sono entrambi parte del compito.",
+      "Il docente propone materiali inanimati preparati e una tavola con carichi e ingombri. Prima della dimostrazione gli studenti indicano che cosa si trova dietro il bersaglio e confrontano la separazione magica con una soluzione più semplice."
+    ],
+    "notions": [
+      [
+        "Effetto",
+        "Produce un taglio sul materiale verso cui è diretto. In un problema difensivo può essere studiato per comprendere come rimuovere un ostacolo, ma il risultato dipende dal bersaglio e da ciò che si trova vicino."
+      ],
+      [
+        "Conseguenze",
+        "Tagliare una fune modifica anche ciò che quella fune sostiene. Il punto da separare e le conseguenze successive sono entrambi parte del compito."
+      ],
+      [
+        "Applicazione difensiva",
+        "Lo scopo va motivato e il risultato verificato nel contesto."
+      ]
+    ],
+    "opening": "Ottenere l’effetto desiderato basta a rendere corretta la scelta?",
+    "steps": [
+      "Descrivere il bersaglio e lo scopo in un caso immaginario.",
+      "Indicare le condizioni che mancano per decidere.",
+      "Confrontare il risultato utile con le conseguenze sullo spazio vicino."
+    ],
+    "question": "Quali elementi occorre valutare oltre alla riuscita della formula?",
+    "answer": "Bersaglio, ambiente, persone esposte e conseguenze successive. La riuscita tecnica da sola non dimostra che l’intervento sia adatto.",
+    "spell": "Diffindo",
+    "year": 5,
+    "meeting": 2,
+    "week": 1,
+    "source": "Silas Ravenshaw · Appunti per il corso di Difesa"
+  },
+  {
+    "title": "Incendio · Applicazione difensiva",
+    "subtitle": "Il fuoco come effetto da controllare",
+    "theory": [
+      "Genera una fiamma. La lezione studia l’accensione insieme alle condizioni che possono trasformarla in propagazione: materiali vicini, spazio e possibilità di tenere sotto controllo il risultato.",
+      "Fuoco e calore non sono risposte adatte a ogni minaccia. Una formula efficace sul materiale scelto può creare un problema maggiore se il contesto non è stato preparato.",
+      "Il lavoro parte dal riconoscimento dei materiali su tavola. Un’eventuale dimostrazione è predisposta dal docente; gli studenti non cercano di provare una difesa incendiando un ambiente o esponendo persone e creature."
+    ],
+    "notions": [
+      [
+        "Effetto",
+        "Genera una fiamma. La lezione studia l’accensione insieme alle condizioni che possono trasformarla in propagazione: materiali vicini, spazio e possibilità di tenere sotto controllo il risultato."
+      ],
+      [
+        "Conseguenze",
+        "Fuoco e calore non sono risposte adatte a ogni minaccia. Una formula efficace sul materiale scelto può creare un problema maggiore se il contesto non è stato preparato."
+      ],
+      [
+        "Applicazione difensiva",
+        "Lo scopo va motivato e il risultato verificato nel contesto."
+      ]
+    ],
+    "opening": "Ottenere l’effetto desiderato basta a rendere corretta la scelta?",
+    "steps": [
+      "Descrivere il bersaglio e lo scopo in un caso immaginario.",
+      "Indicare le condizioni che mancano per decidere.",
+      "Confrontare il risultato utile con le conseguenze sullo spazio vicino."
+    ],
+    "question": "Quali elementi occorre valutare oltre alla riuscita della formula?",
+    "answer": "Bersaglio, ambiente, persone esposte e conseguenze successive. La riuscita tecnica da sola non dimostra che l’intervento sia adatto.",
+    "spell": "Incendio",
+    "year": 5,
+    "meeting": 3,
+    "week": 2,
+    "source": "Silas Ravenshaw · Appunti per il corso di Difesa"
   }
 ]

@@ -1,31 +1,33 @@
 # Codex Defensionis
 
-Libro scolastico di Silas Ravenshaw, autore fittizio, per Hogwarts nel 1890.
-
 [Apri il libro](https://razor5489.github.io/Codex-Defensionis/)
 
-120 pagine, sette anni, 28 incontri. Due lezioni a settimana per due settimane per ogni annualità. L’ordinamento concordato del 22 novembre 2026 prevale sulle precedenti collocazioni delle formule modificate. Più schede di formula possono appartenere a un solo incontro.
+Edizione scolastica ambientata a Hogwarts nel 1890. 122 pagine; sette annualità e 28 incontri: due lezioni a settimana per due settimane. I primi due anni conservano il programma precedente. Testo del volume interamente in roleplay.
+
+## Programma dopo la revisione del 28 novembre 2026
 
 | Anno | Settimana I · Due incontri | Settimana II · Due incontri |
 |---|---|---|
 | 1 | Fattura, maleficio e maledizione; Rictusempra | Flipendo; Protego |
 | 2 | Il Molliccio e il potere della paura; Riddikulus e Coloshoo | Tarantallegra; Vermilius |
-| 3 | Fireball; Confundo | Expelliarmus; Evertestatum |
-| 4 | I licantropi; Le Acromantule | Confringo; Petrificus |
-| 5 | Gli Auror; Diffindo | Incendio; Incarcerous |
-| 6 | I Dissennatori; Gli Inferi | Bombarda; Confringo · Approfondimento |
+| 3 | Expelliarmus; Evertestatum | Rispondere senza aggravare; Leggere il duello |
+| 4 | I licantropi; Le Acromantule | Fireball; Proteggere il gruppo |
+| 5 | Confundo; Petrificus | Incarcerous; Gli Auror |
+| 6 | I Dissennatori; Gli Inferi | Bombarda; Confringo |
 | 7 | Gli Obscuriali; Il giudizio del difensore | Expulso; Expecto Patronum |
 
-## Collocazioni e limiti
+## Revisione didattica
 
-Incantesimi: al secondo anno Accio, Levioso, Alohomora e Colloportus nella prima settimana; Depulso e Puncheck nella seconda. Al terzo anno Descendo, Arresto Momentum e Ventus, seguiti da ripasso.
+Incantesimi: Arresto Momentum e Glacius al V anno; Reparo al III. Descendo e Ventus al III con pratica su oggetti. Diffindo al IV su materiali predisposti; magia non verbale dal VI in modo progressivo.
 
-D.C.A.O.: Tarantallegra e Vermilius nella seconda settimana del secondo anno; Fireball e Confundo al terzo; Confringo al quarto. La ripresa di Confringo al sesto è un approfondimento, non una nuova introduzione. Verdimilius resta distinto da Vermilius e conserva il primo anno di Incantesimi.
+DCAO: disarmo e sbilanciamento al III; Fireball al IV come studio e dimostrazione circoscritta; Confundo, Petrificus e Incarcerous al V; Bombarda e Confringo al VI; Expulso e Patronus al VII. Obliviate è solo teoria degli ultimi due anni, senza esercizi sui ricordi. Diffindo e Incendio sono letture complementari di applicazione, senza doppio sblocco.
 
-Puncheck simula un pugno magico, secondo la descrizione fornita dall’utente. I volumi pubblicati mantengono una voce interamente in roleplay; i dettagli tecnici e i riferimenti esterni restano in questa documentazione. Diffindo, Incendio e Incarcerous nel programma DCAO della fonte sono applicazioni difensive di formule condivise con altre materie. Gli anni non ridefiniti mantengono il percorso precedente e i richiami vengono coordinati.
+Trasfigurazione: Crinus Muto e Orchideus al III; Glisseo ed Epoximise al IV; Piertotum Locomotor al VII. Engorgio e Reducio al IV sugli oggetti. Draconifors al VI su modello circoscritto. Trasformazioni umane complete al VII come studio specialistico e supervisione; le lezioni non concedono doti innate o abilità Animagus. Geminio al VI su copie di oggetti comuni non incantati, senza valuta o oggetti speciali.
 
-## Fonti e generazione
+Le limitazioni descrivono il programma didattico e non dichiarano nuove meccaniche implementate. Nessun danno, durata, resistenza o tempo di recupero viene inventato. La revisione coordina testo, schede, indici, riferimenti e numerazione.
 
-Base: [Libro DCAO di Francis Lake](https://francislake.altervista.org/Libro%20DCAO.php) e DCAO.pdf fornito dall’utente, rielaborati secondo gli aggiornamenti concordati. Modificare `content.json`, `spell-index.json` e `supplementary-topics.json`, quindi eseguire `python build-book.py` con Python/ReportLab. Il tema dei troll è conservato come lettura complementare senza aggiungere incontri.
+## Generazione
 
-Il generatore sincronizza pagine SVG, indice, numerazione e dati incorporati. Lettore con ricerca, segnalibri e modalità a una o due pagine. Pubblicazione GitHub Pages da main, radice. Esclusioni richieste rispettate.
+Modificare `content.json`, `spell-index.json` e `supplementary-topics.json`, quindi eseguire `python build-book.py` con Python e ReportLab. Base didattica: libro DCAO di Francis Lake e DCAO.pdf fornito dall’utente, rielaborati secondo le assegnazioni concordate.
+
+GitHub Pages: main, cartella radice. Il lettore conserva ricerca, indice, segnalibri e modalità a una o due pagine.

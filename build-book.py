@@ -135,11 +135,18 @@ for yi,y in enumerate(DATA['years']):
         if l['meeting']==4:p.paragraph('Concluso il ciclo di due settimane. '+('Si prosegue con l’anno '+ROMAN[year]+'.' if year<7 else 'Il percorso dei sette anni è concluso.'),9,GOLD)
         add(p);PAGES[-1]['title']=l['title']+' · Attività e ripasso'
 
-p=Leaf('Approfondimento teorico','I troll: forza e territorio','Lettura complementare · Collegamento con il terzo anno')
 for topic in json.loads((ROOT/'supplementary-topics.json').read_text()):
+    p=Leaf('Lettura complementare',topic['title'],'Collegamento teorico · Non aggiunge incontri al calendario')
     for paragraph in topic['theory']:p.paragraph(paragraph,12,leading=18)
-p.box('Il collegamento','Una formula riuscita in un duello fra maghi non dimostra automaticamente lo stesso risultato contro una grande creatura. La lettura accompagna il corso senza aggiungere incontri al calendario.')
-add(p,'Approfondimento · I troll')
+    p.box('Il collegamento','Questa lettura confronta conoscenze già affrontate. Non introduce un secondo apprendimento della formula e non estende la pratica a nuovi bersagli.')
+    add(p,'Approfondimento · '+topic['title'])
+    if topic['title'].startswith('I troll'):SECTIONS.append(['Letture',len(PAGES)-1])
+p=Leaf('Memoria e responsabilità','Obliviate · Studio teorico','Confronto degli ultimi due anni · Nessun esercizio sui ricordi')
+p.paragraph('Obliviate interviene sui ricordi. La sua conoscenza teorica serve a distinguere una lacuna riferita, una testimonianza e un’ipotesi sulla causa. Nessuna singola dimenticanza dimostra da sola l’impiego di una formula.',12)
+p.heading('Il limite del corso');p.paragraph('Gli allievi non modificano i ricordi dei compagni e non tentano prove per verificare un sospetto. Una possibile alterazione della memoria viene affidata a chi possiede preparazione e responsabilità appropriate.',12)
+p.heading('Una ricostruzione attendibile');p.paragraph('Un rapporto utile separa osservazioni, parole della persona e interpretazioni. Non impone un ricordo, non assegna automaticamente una causa e non pretende di ricostruire ciò che non è stato verificato.',12)
+p.box('La consegna','Studiare una magia non conferisce il diritto di esercitarla. Il confronto teorico del sesto e settimo anno sviluppa riconoscimento e giudizio.')
+add(p,'Obliviate · Solo teoria')
 SECTIONS.append(['Pratica',len(PAGES)])
 p=Leaf('Consilium','Scegliere una difesa','Una decisione proporzionata alla situazione')
 for h,t in [('Riconoscere','Descrivere ciò che si vede prima di attribuirgli una causa. Distinguere un movimento, un effetto magico e una reazione di paura.'),('Proteggere','Individuare persone esposte e possibilità di allontanamento. Una formula difensiva richiede comunque direzione, attenzione e condizioni adatte.'),('Interrompere','Disarmare, sbilanciare e distrarre producono risultati diversi. Scegliere in rapporto al problema, senza confondere la varietà delle formule con la qualità del giudizio.'),('Verificare','Osservare ciò che è cambiato. Un effetto visibile non dimostra da solo che il pericolo sia concluso.')]:p.heading(h);p.paragraph(t,11.5,leading=17)
@@ -160,7 +167,7 @@ for part in range(math.ceil(len(SPELLS)/3)):
         p.paragraph(s['effect'],11,leading=16);p.paragraph(s['notions'],10.5,leading=15)
     add(p,'Repertorio · '+ROMAN[part])
 p=Leaf('Disciplinae','Confini e responsabilità','La materia nel programma della scuola')
-for h,t in [('Il programma annuale','Tarantallegra e Vermilius vengono affrontati nel secondo anno; Fireball e Confundo nel terzo; Confringo nel quarto. Ogni annualità comprende quattro incontri.'),('I collegamenti fra materie','Diffindo, Incendio e Incarcerous vengono ripresi nel quinto anno per comprenderne l’impiego difensivo. La conoscenza di una formula deve essere collegata allo scopo per cui viene usata.'),('Studio e pratica','Leggere una descrizione non equivale a padroneggiare una magia. Il docente stabilisce esercizi, bersagli e condizioni adatte alla preparazione degli allievi.'),('La responsabilità','Dimostrazioni e attività avanzate richiedono attenzione alle persone presenti. Un caso su tavola permette di esercitare il giudizio prima dell’esecuzione.')]:p.heading(h);p.paragraph(t,11,leading=16)
+for h,t in [('Il programma annuale','Il terzo anno introduce disarmo e lettura del duello; il quarto studia creature e Fireball in forma circoscritta. Confundo, Petrificus e Incarcerous appartengono al quinto; Bombarda e Confringo al sesto.'),('I collegamenti fra materie','Diffindo e Incendio sono richiamati nelle letture complementari come applicazioni di formule già apprese. Incarcerous è studiato nel quinto anno anche in Trasfigurazione: una stessa formula può avere contesti diversi, senza un secondo apprendimento.'),('Studio e pratica','Leggere una descrizione non equivale a padroneggiare una magia. Il docente stabilisce esercizi, bersagli e condizioni adatte alla preparazione degli allievi.'),('La responsabilità','Dimostrazioni e attività avanzate richiedono attenzione alle persone presenti. Un caso su tavola permette di esercitare il giudizio prima dell’esecuzione.')]:p.heading(h);p.paragraph(t,11,leading=16)
 add(p,'Confini e responsabilità')
 p=Leaf('Lexicon','Le parole della difesa','Un lessico da usare con precisione')
 for h,t in [('Minaccia','Una condizione capace di produrre un danno, da valutare nel suo contesto.'),('Bersaglio','Persona, oggetto o effetto a cui è diretto l’intervento.'),('Protezione','Azione volta a ridurre l’esposizione; non coincide con invulnerabilità.'),('Disarmo','Perdita della presa sulla bacchetta o sull’oggetto interessato.'),('Sbilanciamento','Alterazione dell’equilibrio, distinta dall’immobilizzazione.'),('Controllo','Capacità di mantenere lo scopo e verificare le conseguenze dell’azione.'),('Proporzione','Rapporto ragionato fra problema, risultato necessario e conseguenze previste.')]:p.heading(h);p.paragraph(t,11,leading=16)
@@ -194,11 +201,12 @@ for index,year in ANNUAL:
     replace_leaf(index,p)
 chapter_pages={c['title']:c['page'] for c in CHAPTERS}
 p=Leaf('Tabula Materiarum','Indice del volume','Sette annualità · Ventotto lezioni')
-for title in ['Prefazione','Il percorso delle due settimane','Il metodo della difesa']+['Anno '+ROMAN[i]+' · '+y['name'] for i,y in enumerate(DATA['years'])]+['Scegliere una difesa','Il rapporto dopo l’evento','Le formule per anno','Repertorio · I','Lessico essenziale','Il consiglio del maestro','Finis']:p.row(title,str(chapter_pages[title]))
-p.paragraph('Il repertorio contiene sette tavole di consultazione. La ricerca permette di trovare formule, argomenti e singole lezioni.',10,MUTED);replace_leaf(2,p)
+for title in ['Prefazione','Il percorso delle due settimane','Il metodo della difesa']+['Anno '+ROMAN[i]+' · '+y['name'] for i,y in enumerate(DATA['years'])]+['Approfondimento · I troll: forza, territorio e prudenza','Obliviate · Solo teoria','Scegliere una difesa','Il rapporto dopo l’evento','Le formule per anno','Repertorio · I','Lessico essenziale','Il consiglio del maestro','Finis']:
+    p.row(title,str(chapter_pages[title]));p.y-=3
+p.paragraph('Il repertorio raccoglie le schede delle formule del corso. La ricerca permette di trovare formule, argomenti e singole lezioni.',10,MUTED);replace_leaf(2,p)
 assert len(PAGES)>100,len(PAGES)
 assert len(DATA['lessons'])==28
-for item in PAGES:item['image']+='?v=20261122-inrole4'
+for item in PAGES:item['image']+='?v=20261128-revisione'
 packed={'pages':PAGES,'chapters':CHAPTERS,'sections':SECTIONS}
 (ROOT/'book-data.json').write_text(json.dumps(packed,ensure_ascii=False,indent=2)+'\n')
 index=ROOT/'index.html';embedded=json.dumps(packed,ensure_ascii=False).replace('</','<\\/')

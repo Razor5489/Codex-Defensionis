@@ -12,20 +12,20 @@
       "goal": "Prima settimana: Molliccio, Riddikulus e Coloshoo. Seconda settimana: Tarantallegra e Vermilius, distinguendo effetti, segnali e conseguenze."
     },
     {
-      "name": "Controllo, confusione e disarmo",
-      "goal": "Studiare Fireball sul piano teorico, Confundo, Expelliarmus ed Evertestatum, collegando gli effetti al giudizio difensivo."
+      "name": "Duello, misura e risposta",
+      "goal": "Studiare disarmo e sbilanciamento, poi riconoscere quando interrompere il confronto."
     },
     {
-      "name": "Pericoli viventi e immobilizzazione",
-      "goal": "Confrontare licantropi e Acromantule, introdurre Confringo e studiare Petrificus."
+      "name": "Creature e protezione del gruppo",
+      "goal": "Conoscere licantropi e Acromantule, affrontare Fireball come studio circoscritto e proteggere i percorsi."
     },
     {
-      "name": "Tecniche avanzate e responsabilità",
-      "goal": "Valutare le conseguenze dei sortilegi e i metodi di chi contrasta professionalmente le Arti Oscure."
+      "name": "Contenimento e responsabilità",
+      "goal": "Studiare Confundo, Petrificus e Incarcerous e confrontare la preparazione scolastica con il lavoro degli Auror."
     },
     {
-      "name": "Oscurità, fuoco e distruzione",
-      "goal": "Studiare Dissennatori, Inferi e Bombarda, quindi approfondire Confringo già introdotto al quarto anno."
+      "name": "Minacce oscure e magie esplosive",
+      "goal": "Studiare Dissennatori e Inferi, quindi Bombarda e Confringo con preparazione e supervisione."
     },
     {
       "name": "Il confine delle Arti Oscure",
@@ -326,81 +326,9 @@
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa"
     },
     {
-      "title": "Fireball",
-      "subtitle": "Il fuoco e il giudizio del difensore",
-      "theory": [
-        "Fireball richiama l’immagine di una sfera di fuoco. Lo studio del terzo anno riguarda anzitutto il riconoscimento di una manifestazione incendiaria e le conseguenze della sua presenza nell’ambiente. La semplice conoscenza del nome non sostituisce la preparazione dell’incantatore.",
-        "Non si deve confondere Fireball con Incendio. Prima di proporre un impiego difensivo occorre comprendere quale effetto si stia affrontando, dove possa propagarsi il fuoco e quali persone o materiali si trovino vicini. La forza apparente non sostituisce il controllo.",
-        "La lezione procede attraverso descrizioni e casi su tavola. La dimostrazione pratica è affidata al docente e richiede condizioni predisposte. Agli allievi si chiede di motivare una decisione, considerare le vie di allontanamento e riconoscere quando una risposta incendiaria possa aggravare il pericolo."
-      ],
-      "notions": [
-        [
-          "Riconoscimento",
-          "Distinguere l’aspetto della manifestazione dalle conseguenze che può avere nel luogo."
-        ],
-        [
-          "Confronto",
-          "Fireball e Incendio non vanno trattati come nomi intercambiabili."
-        ],
-        [
-          "Giudizio",
-          "Una risposta incendiaria richiede di considerare anche persone e materiali vicini."
-        ]
-      ],
-      "opening": "Una manifestazione più vistosa è necessariamente una difesa migliore?",
-      "steps": [
-        "Leggere il caso immaginario predisposto dal docente.",
-        "Individuare persone, materiali e vie di allontanamento.",
-        "Motivare se una risposta incendiaria sia proporzionata."
-      ],
-      "question": "Perché il difensore deve osservare anche ciò che circonda il bersaglio?",
-      "answer": "Perché il fuoco può coinvolgere l’ambiente e trasformare una scelta apparentemente efficace in un nuovo pericolo.",
-      "spell": "Fireball",
       "year": 3,
       "meeting": 1,
       "week": 1,
-      "source": "Silas Ravenshaw · Appunti per il corso di Difesa"
-    },
-    {
-      "year": 3,
-      "meeting": 2,
-      "week": 1,
-      "title": "Confundo",
-      "subtitle": "La lucidità e le sue alterazioni",
-      "theory": [
-        "Confonde il bersaglio, alterandone temporaneamente la lucidità o la valutazione della situazione. Si distingue l’effetto descritto da una semplice distrazione dovuta al contesto. Un comportamento insolito non basta a identificarne la causa.",
-        "Confusione, cancellazione della memoria e controllo delle azioni non sono lo stesso effetto. Occorre descrivere il cambiamento effettivamente osservato.",
-        "La lezione affronta riconoscimento e confronto teorico. Non prevede prove segrete sulla lucidità dei compagni. Si ricostruiscono condizioni, cambiamenti e limiti del resoconto, senza dichiarare che ogni esitazione dimostri un’influenza magica."
-      ],
-      "notions": [
-        [
-          "Lucidità",
-          "La valutazione della situazione può essere alterata senza cancellare i ricordi."
-        ],
-        [
-          "Indizio",
-          "Una variazione osservata non identifica automaticamente una formula."
-        ],
-        [
-          "Rispetto",
-          "La spiegazione di un effetto non autorizza esperimenti non concordati."
-        ]
-      ],
-      "opening": "Una persona esitante è necessariamente sotto l’effetto di Confundo?",
-      "steps": [
-        "Confrontare una distrazione ordinaria e un caso descritto dal docente.",
-        "Elencare i fatti disponibili senza scegliere subito una causa.",
-        "Indicare quali informazioni aiuterebbero la valutazione."
-      ],
-      "question": "Confusione e cancellazione della memoria sono la stessa cosa?",
-      "answer": "No. Riguardano aspetti differenti e non vanno dedotti l’uno dall’altro.",
-      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": "Confundo"
-    },
-    {
-      "year": 3,
-      "meeting": 3,
-      "week": 2,
       "title": "Expelliarmus",
       "subtitle": "Il disarmo come risultato circoscritto",
       "theory": [
@@ -431,12 +359,13 @@
       "question": "Disarmo e immobilizzazione sono lo stesso effetto?",
       "answer": "No. Il disarmo riguarda la presa sull’oggetto, non ogni movimento o capacità del bersaglio.",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": "Expelliarmus"
+      "spell": "Expelliarmus",
+      "id": 9
     },
     {
       "year": 3,
-      "meeting": 4,
-      "week": 2,
+      "meeting": 2,
+      "week": 1,
       "title": "Evertestatum",
       "subtitle": "Arretramento, equilibrio e conseguenze",
       "theory": [
@@ -467,7 +396,82 @@
       "question": "Perché un arretramento corretto nella direzione può essere comunque inadatto?",
       "answer": "Perché appoggi, ostacoli e persone vicine possono rendere pericoloso il punto d’arrivo.",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": "Evertestatum"
+      "spell": "Evertestatum",
+      "id": 10
+    },
+    {
+      "title": "Rispondere senza aggravare",
+      "subtitle": "L’interruzione e la possibilità di allontanarsi",
+      "theory": [
+        "Un confronto difensivo non richiede di rendere impotente ogni persona presente. Il risultato necessario può essere interrompere un gesto, creare uno spazio o consentire l’allontanamento. Il terzo anno confronta disarmo e sbilanciamento senza scambiarli per controllo della mente.",
+        "L’effetto di Expelliarmus riguarda il disarmo; Evertestatum produce arretramento o perdita di equilibrio. La persona colpita non perde per questo ogni possibilità di reagire. Il difensore deve osservare ciò che accade dopo il primo effetto.",
+        "Le esercitazioni seguono ruoli e segnali concordati con il docente. Una caduta o una bacchetta lasciata non giustificano l’insistenza. Quando lo scopo è raggiunto, si interrompe la prova e si confrontano risultato e conseguenze."
+      ],
+      "notions": [
+        [
+          "Scopo",
+          "Definire il rischio da interrompere."
+        ],
+        [
+          "Misura",
+          "Scegliere un effetto sufficiente senza moltiplicare gli interventi."
+        ],
+        [
+          "Riscontro",
+          "Osservare se la situazione consenta l’allontanamento."
+        ]
+      ],
+      "opening": "Un avversario disarmato è automaticamente incapace di qualunque azione?",
+      "steps": [
+        "Leggere il caso scritto e distinguere fatti e ipotesi.",
+        "Indicare bersaglio, persone esposte e risultato necessario.",
+        "Motivare una scelta e il momento in cui chiedere l’intervento del docente."
+      ],
+      "question": "Un avversario disarmato è automaticamente incapace di qualunque azione?",
+      "answer": "No. Il disarmo modifica una condizione, non cancella volontà, movimento e possibilità di risposta.",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
+      "spell": null,
+      "id": 11,
+      "year": 3,
+      "meeting": 3,
+      "week": 2
+    },
+    {
+      "title": "Leggere il duello",
+      "subtitle": "Bersaglio, spazio e conclusione della prova",
+      "theory": [
+        "La lettura di un duello considera direzione, ostacoli e posizione dei compagni. Saper riconoscere un’occasione per fermarsi è parte della preparazione: non si valuta soltanto chi abbia mostrato l’effetto più vistoso.",
+        "L’effetto di Expelliarmus riguarda il disarmo; Evertestatum produce arretramento o perdita di equilibrio. La persona colpita non perde per questo ogni possibilità di reagire. Il difensore deve osservare ciò che accade dopo il primo effetto.",
+        "Le esercitazioni seguono ruoli e segnali concordati con il docente. Una caduta o una bacchetta lasciata non giustificano l’insistenza. Quando lo scopo è raggiunto, si interrompe la prova e si confrontano risultato e conseguenze."
+      ],
+      "notions": [
+        [
+          "Scopo",
+          "Definire il rischio da interrompere."
+        ],
+        [
+          "Misura",
+          "Scegliere un effetto sufficiente senza moltiplicare gli interventi."
+        ],
+        [
+          "Riscontro",
+          "Osservare se la situazione consenta l’allontanamento."
+        ]
+      ],
+      "opening": "Un avversario disarmato è automaticamente incapace di qualunque azione?",
+      "steps": [
+        "Leggere il caso scritto e distinguere fatti e ipotesi.",
+        "Indicare bersaglio, persone esposte e risultato necessario.",
+        "Motivare una scelta e il momento in cui chiedere l’intervento del docente."
+      ],
+      "question": "Un avversario disarmato è automaticamente incapace di qualunque azione?",
+      "answer": "No. Il disarmo modifica una condizione, non cancella volontà, movimento e possibilità di risposta.",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
+      "spell": null,
+      "id": 12,
+      "year": 3,
+      "meeting": 4,
+      "week": 2
     },
     {
       "year": 4,
@@ -503,7 +507,8 @@
       "question": "Si può riconoscere un rischio senza ridurre la persona alla sua condizione?",
       "answer": "Sì. La precisione riguarda circostanze e fatti, non giudizi generali sul valore della persona.",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": null
+      "spell": null,
+      "id": 13
     },
     {
       "title": "Le Acromantule",
@@ -539,54 +544,130 @@
       "year": 4,
       "meeting": 2,
       "week": 1,
-      "source": "Silas Ravenshaw · Appunti per il corso di Difesa"
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
+      "id": 14
     },
     {
-      "year": 4,
-      "meeting": 3,
-      "week": 2,
-      "title": "Confringo",
-      "subtitle": "Potenza e responsabilità del risultato",
+      "title": "Fireball",
+      "subtitle": "Riconoscimento e dimostrazione circoscritta",
       "theory": [
-        "Provoca un’esplosione nel punto o sul bersaglio raggiunto dalla formula. Si conserva la distinzione tra descrizione di un effetto offensivo e decisione di impiegarlo. La sua presenza nel programma non autorizza prove libere sull’ambiente.",
-        "Va distinto da Incendio, studiato per la produzione di fuoco. La classificazione offensiva e le condizioni d’impiego appartengono alla lezione di D.C.A.O.",
-        "Il confronto con Expulso non introduce differenze numeriche che i materiali non stabiliscono. Entrambe le voci richiedono di ragionare su ciò che può essere coinvolto oltre al bersaglio. La riuscita difensiva non coincide con il danno più grande possibile."
+        "Fireball richiama l’immagine di una sfera di fuoco. Lo studio del quarto anno riguarda anzitutto il riconoscimento di una manifestazione incendiaria e le conseguenze della sua presenza nell’ambiente. La semplice conoscenza del nome non sostituisce la preparazione dell’incantatore.",
+        "Non si deve confondere Fireball con Incendio. Prima di proporre un impiego difensivo occorre comprendere quale effetto si stia affrontando, dove possa propagarsi il fuoco e quali persone o materiali si trovino vicini. La forza apparente non sostituisce il controllo.",
+        "Il quarto anno affronta riconoscimento e valutazione su tavola. Il docente può mostrare una manifestazione circoscritta in condizioni predisposte; non sono previste prove di esplosione, propagazione o attacchi estesi. La comparsa del fuoco non autorizza ad attribuirgli ogni effetto incendiario."
       ],
       "notions": [
         [
           "Riconoscimento",
-          "Il punto dell’impatto e gli effetti sull’ambiente vanno descritti separatamente."
+          "Distinguere l’aspetto della manifestazione dalle conseguenze che può avere nel luogo."
         ],
         [
           "Confronto",
-          "Due formule affini non si distinguono inventando portate o potenziamenti."
+          "Fireball e Incendio non vanno trattati come nomi intercambiabili."
         ],
         [
-          "Scopo",
-          "L’obiettivo di protezione deve restare riconoscibile."
+          "Giudizio",
+          "Una risposta incendiaria richiede di considerare anche persone e materiali vicini."
         ]
       ],
-      "opening": "Distruggere un ostacolo risolve il problema se blocca l’unico accesso disponibile?",
+      "opening": "Una manifestazione più vistosa è necessariamente una difesa migliore?",
       "steps": [
-        "Analizzare una scena immaginaria con un ostacolo e un passaggio.",
-        "Valutare una conseguenza dell’effetto che comprometta l’obiettivo.",
-        "Proporre quali informazioni servano prima di una dimostrazione."
+        "Leggere il caso immaginario predisposto dal docente.",
+        "Individuare persone, materiali e vie di allontanamento.",
+        "Motivare se una risposta incendiaria sia proporzionata."
       ],
-      "question": "Un danno maggiore dimostra una difesa migliore?",
-      "answer": "No. Si giudica la corrispondenza con l’obiettivo e le conseguenze per le persone e il luogo.",
+      "question": "Perché il difensore deve osservare anche ciò che circonda il bersaglio?",
+      "answer": "Perché il fuoco può coinvolgere l’ambiente e trasformare una scelta apparentemente efficace in un nuovo pericolo.",
+      "spell": "Fireball",
+      "year": 4,
+      "meeting": 3,
+      "week": 2,
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": "Confringo"
+      "id": 15
     },
     {
+      "title": "Proteggere il gruppo",
+      "subtitle": "Creature, percorsi e richiesta di assistenza",
+      "theory": [
+        "Negli incontri con creature, le formule studiate fra maghi non garantiscono lo stesso risultato. Il quarto anno collega licantropi e Acromantule alla protezione del gruppo: identificare percorsi e persone esposte precede qualsiasi dimostrazione.",
+        "L’effetto di Expelliarmus riguarda il disarmo; Evertestatum produce arretramento o perdita di equilibrio. La persona colpita non perde per questo ogni possibilità di reagire. Il difensore deve osservare ciò che accade dopo il primo effetto.",
+        "Le esercitazioni seguono ruoli e segnali concordati con il docente. Una caduta o una bacchetta lasciata non giustificano l’insistenza. Quando lo scopo è raggiunto, si interrompe la prova e si confrontano risultato e conseguenze."
+      ],
+      "notions": [
+        [
+          "Scopo",
+          "Definire il rischio da interrompere."
+        ],
+        [
+          "Misura",
+          "Scegliere un effetto sufficiente senza moltiplicare gli interventi."
+        ],
+        [
+          "Riscontro",
+          "Osservare se la situazione consenta l’allontanamento."
+        ]
+      ],
+      "opening": "Un avversario disarmato è automaticamente incapace di qualunque azione?",
+      "steps": [
+        "Leggere il caso scritto e distinguere fatti e ipotesi.",
+        "Indicare bersaglio, persone esposte e risultato necessario.",
+        "Motivare una scelta e il momento in cui chiedere l’intervento del docente."
+      ],
+      "question": "Un avversario disarmato è automaticamente incapace di qualunque azione?",
+      "answer": "No. Il disarmo modifica una condizione, non cancella volontà, movimento e possibilità di risposta.",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
+      "spell": null,
+      "id": 16,
       "year": 4,
       "meeting": 4,
-      "week": 2,
+      "week": 2
+    },
+    {
+      "year": 5,
+      "meeting": 1,
+      "week": 1,
+      "title": "Confundo",
+      "subtitle": "La lucidità e le sue alterazioni",
+      "theory": [
+        "Confonde il bersaglio, alterandone temporaneamente la lucidità o la valutazione della situazione. Si distingue l’effetto descritto da una semplice distrazione dovuta al contesto. Un comportamento insolito non basta a identificarne la causa.",
+        "Confusione, cancellazione della memoria e controllo delle azioni non sono lo stesso effetto. Occorre descrivere il cambiamento effettivamente osservato.",
+        "Il quinto anno affronta riconoscimento e giudizio teorico. Non si impartiscono ordini al pensiero della persona né si considera ogni esitazione come prova di confusione magica. Le dimostrazioni non comprendono tentativi segreti di alterare decisioni, testimonianze o ricordi dei compagni."
+      ],
+      "notions": [
+        [
+          "Lucidità",
+          "La valutazione della situazione può essere alterata senza cancellare i ricordi."
+        ],
+        [
+          "Indizio",
+          "Una variazione osservata non identifica automaticamente una formula."
+        ],
+        [
+          "Rispetto",
+          "La spiegazione di un effetto non autorizza esperimenti non concordati."
+        ]
+      ],
+      "opening": "Una persona esitante è necessariamente sotto l’effetto di Confundo?",
+      "steps": [
+        "Confrontare una distrazione ordinaria e un caso descritto dal docente.",
+        "Elencare i fatti disponibili senza scegliere subito una causa.",
+        "Indicare quali informazioni aiuterebbero la valutazione."
+      ],
+      "question": "Confusione e cancellazione della memoria sono la stessa cosa?",
+      "answer": "No. Riguardano aspetti differenti e non vanno dedotti l’uno dall’altro.",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
+      "spell": "Confundo",
+      "id": 17
+    },
+    {
+      "year": 5,
+      "meeting": 2,
+      "week": 1,
       "title": "Petrificus",
       "subtitle": "Immobilizzazione e stato del bersaglio",
       "theory": [
         "Petrificus immobilizza il corpo del bersaglio. Il bersaglio viene irrigidito e limitato nei movimenti.  Il concetto centrale è il vincolo del movimento, distinto da una trasformazione del materiale.",
         "Si conserva il nome mostrato dalla scuola. Immobilizzazione, perdita di coscienza e trasformazione in pietra sono concetti diversi.",
-        "La trattazione chiarisce che immobilità, perdita di coscienza e cessazione delle percezioni non sono equivalenti. La pratica su persone non viene presunta dal testo: il docente sceglie dimostrazione e condizioni. Non si aggiungono varianti, durate o contromisure non comprese nel repertorio adottato."
+        "Il quinto anno studia la limitazione del movimento distinguendola da perdita di coscienza e controllo della volontà. La dimostrazione del docente chiarisce le condizioni dell’effetto e del ripristino; nessuno studente prolunga un contenimento dopo la cessazione della prova."
       ],
       "notions": [
         [
@@ -611,12 +692,50 @@
       "question": "Il nome della formula giustifica parlare di una trasformazione in pietra?",
       "answer": "No. Il corso descrive immobilizzazione e irrigidimento, senza dedurre un cambiamento materiale dal nome.",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": "Petrificus"
+      "spell": "Petrificus",
+      "id": 18
+    },
+    {
+      "title": "Incarcerous",
+      "subtitle": "Le corde e il limite del contenimento",
+      "theory": [
+        "Evoca corde che avvolgono il bersaglio e ne limitano i movimenti. Il contenimento è distinto dallo sbilanciamento e dal disarmo: trattenere non significa automaticamente aver concluso il pericolo.",
+        "Le corde possono produrre cadute o compressioni. La disposizione del bersaglio e la possibilità di interrompere il contenimento fanno parte della valutazione, senza trasformare una formula in un diritto di trattenere chiunque.",
+        "La dimostrazione utilizza sagome e oggetti preparati. Prima si chiariscono le condizioni del contenimento e del rilascio. La presenza delle funi non annulla il ruolo degli altri presenti, ai quali può spettare segnalare il pericolo e chiedere la liberazione."
+      ],
+      "notions": [
+        [
+          "Effetto",
+          "Evoca corde che avvolgono il bersaglio e ne limitano i movimenti. Il contenimento è distinto dallo sbilanciamento e dal disarmo: trattenere non significa automaticamente aver concluso il pericolo."
+        ],
+        [
+          "Conseguenze",
+          "Le corde possono produrre cadute o compressioni. La disposizione del bersaglio e la possibilità di interrompere il contenimento fanno parte della valutazione, senza trasformare una formula in un diritto di trattenere chiunque."
+        ],
+        [
+          "Applicazione difensiva",
+          "Lo scopo va motivato e il risultato verificato nel contesto."
+        ]
+      ],
+      "opening": "Ottenere l’effetto desiderato basta a rendere corretta la scelta?",
+      "steps": [
+        "Descrivere il bersaglio e lo scopo in un caso immaginario.",
+        "Indicare le condizioni che mancano per decidere.",
+        "Confrontare il risultato utile con le conseguenze sullo spazio vicino."
+      ],
+      "question": "Quali elementi occorre valutare oltre alla riuscita della formula?",
+      "answer": "Bersaglio, ambiente, persone esposte e conseguenze successive. La riuscita tecnica da sola non dimostra che l’intervento sia adatto.",
+      "spell": "Incarcerous",
+      "year": 5,
+      "meeting": 3,
+      "week": 2,
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
+      "id": 19
     },
     {
       "year": 5,
-      "meeting": 1,
-      "week": 1,
+      "meeting": 4,
+      "week": 2,
       "title": "Gli Auror",
       "subtitle": "Autorità, preparazione e responsabilità",
       "theory": [
@@ -647,115 +766,8 @@
       "question": "Studiare D.C.A.O. equivale a diventare Auror?",
       "answer": "No. Il corso fornisce basi; ruolo, preparazione professionale e autorizzazioni sono questioni differenti.",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": null
-    },
-    {
-      "title": "Diffindo",
-      "subtitle": "Separare un materiale senza ignorare ciò che sostiene",
-      "theory": [
-        "Produce un taglio sul materiale verso cui è diretto. In un problema difensivo può essere studiato per comprendere come rimuovere un ostacolo, ma il risultato dipende dal bersaglio e da ciò che si trova vicino.",
-        "Tagliare una fune modifica anche ciò che quella fune sostiene. Il punto da separare e le conseguenze successive sono entrambi parte del compito.",
-        "Il docente propone materiali inanimati preparati e una tavola con carichi e ingombri. Prima della dimostrazione gli studenti indicano che cosa si trova dietro il bersaglio e confrontano la separazione magica con una soluzione più semplice."
-      ],
-      "notions": [
-        [
-          "Effetto",
-          "Produce un taglio sul materiale verso cui è diretto. In un problema difensivo può essere studiato per comprendere come rimuovere un ostacolo, ma il risultato dipende dal bersaglio e da ciò che si trova vicino."
-        ],
-        [
-          "Conseguenze",
-          "Tagliare una fune modifica anche ciò che quella fune sostiene. Il punto da separare e le conseguenze successive sono entrambi parte del compito."
-        ],
-        [
-          "Applicazione difensiva",
-          "Lo scopo va motivato e il risultato verificato nel contesto."
-        ]
-      ],
-      "opening": "Ottenere l’effetto desiderato basta a rendere corretta la scelta?",
-      "steps": [
-        "Descrivere il bersaglio e lo scopo in un caso immaginario.",
-        "Indicare le condizioni che mancano per decidere.",
-        "Confrontare il risultato utile con le conseguenze sullo spazio vicino."
-      ],
-      "question": "Quali elementi occorre valutare oltre alla riuscita della formula?",
-      "answer": "Bersaglio, ambiente, persone esposte e conseguenze successive. La riuscita tecnica da sola non dimostra che l’intervento sia adatto.",
-      "spell": "Diffindo",
-      "year": 5,
-      "meeting": 2,
-      "week": 1,
-      "source": "Silas Ravenshaw · Appunti per il corso di Difesa"
-    },
-    {
-      "title": "Incendio",
-      "subtitle": "Il fuoco come effetto da controllare",
-      "theory": [
-        "Genera una fiamma. La lezione studia l’accensione insieme alle condizioni che possono trasformarla in propagazione: materiali vicini, spazio e possibilità di tenere sotto controllo il risultato.",
-        "Fuoco e calore non sono risposte adatte a ogni minaccia. Una formula efficace sul materiale scelto può creare un problema maggiore se il contesto non è stato preparato.",
-        "Il lavoro parte dal riconoscimento dei materiali su tavola. Un’eventuale dimostrazione è predisposta dal docente; gli studenti non cercano di provare una difesa incendiando un ambiente o esponendo persone e creature."
-      ],
-      "notions": [
-        [
-          "Effetto",
-          "Genera una fiamma. La lezione studia l’accensione insieme alle condizioni che possono trasformarla in propagazione: materiali vicini, spazio e possibilità di tenere sotto controllo il risultato."
-        ],
-        [
-          "Conseguenze",
-          "Fuoco e calore non sono risposte adatte a ogni minaccia. Una formula efficace sul materiale scelto può creare un problema maggiore se il contesto non è stato preparato."
-        ],
-        [
-          "Applicazione difensiva",
-          "Lo scopo va motivato e il risultato verificato nel contesto."
-        ]
-      ],
-      "opening": "Ottenere l’effetto desiderato basta a rendere corretta la scelta?",
-      "steps": [
-        "Descrivere il bersaglio e lo scopo in un caso immaginario.",
-        "Indicare le condizioni che mancano per decidere.",
-        "Confrontare il risultato utile con le conseguenze sullo spazio vicino."
-      ],
-      "question": "Quali elementi occorre valutare oltre alla riuscita della formula?",
-      "answer": "Bersaglio, ambiente, persone esposte e conseguenze successive. La riuscita tecnica da sola non dimostra che l’intervento sia adatto.",
-      "spell": "Incendio",
-      "year": 5,
-      "meeting": 3,
-      "week": 2,
-      "source": "Silas Ravenshaw · Appunti per il corso di Difesa"
-    },
-    {
-      "title": "Incarcerous",
-      "subtitle": "Le corde e il limite del contenimento",
-      "theory": [
-        "Evoca corde che avvolgono il bersaglio e ne limitano i movimenti. Il contenimento è distinto dallo sbilanciamento e dal disarmo: trattenere non significa automaticamente aver concluso il pericolo.",
-        "Le corde possono produrre cadute o compressioni. La disposizione del bersaglio e la possibilità di interrompere il contenimento fanno parte della valutazione, senza trasformare una formula in un diritto di trattenere chiunque.",
-        "La lezione utilizza oggetti o sagome preparate. La classe osserva forma e disposizione dei legami e discute quando un contenimento non sia proporzionato. Non sono previsti esperimenti liberi sui compagni."
-      ],
-      "notions": [
-        [
-          "Effetto",
-          "Evoca corde che avvolgono il bersaglio e ne limitano i movimenti. Il contenimento è distinto dallo sbilanciamento e dal disarmo: trattenere non significa automaticamente aver concluso il pericolo."
-        ],
-        [
-          "Conseguenze",
-          "Le corde possono produrre cadute o compressioni. La disposizione del bersaglio e la possibilità di interrompere il contenimento fanno parte della valutazione, senza trasformare una formula in un diritto di trattenere chiunque."
-        ],
-        [
-          "Applicazione difensiva",
-          "Lo scopo va motivato e il risultato verificato nel contesto."
-        ]
-      ],
-      "opening": "Ottenere l’effetto desiderato basta a rendere corretta la scelta?",
-      "steps": [
-        "Descrivere il bersaglio e lo scopo in un caso immaginario.",
-        "Indicare le condizioni che mancano per decidere.",
-        "Confrontare il risultato utile con le conseguenze sullo spazio vicino."
-      ],
-      "question": "Quali elementi occorre valutare oltre alla riuscita della formula?",
-      "answer": "Bersaglio, ambiente, persone esposte e conseguenze successive. La riuscita tecnica da sola non dimostra che l’intervento sia adatto.",
-      "spell": "Incarcerous",
-      "year": 5,
-      "meeting": 4,
-      "week": 2,
-      "source": "Silas Ravenshaw · Appunti per il corso di Difesa"
+      "spell": null,
+      "id": 20
     },
     {
       "year": 6,
@@ -791,7 +803,8 @@
       "question": "Protego ed Expecto Patronum possono essere dichiarati intercambiabili?",
       "answer": "No. Lo scudo generico e il Patronus hanno compiti differenti, da non confondere.",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": null
+      "spell": null,
+      "id": 21
     },
     {
       "year": 6,
@@ -827,7 +840,8 @@
       "question": "Il movimento di un corpo dimostra che sia tornata la persona che era?",
       "answer": "No. Nell’Inferius si studia un’animazione imposta, distinta dal ritorno alla vita.",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": null
+      "spell": null,
+      "id": 22
     },
     {
       "title": "Bombarda",
@@ -863,18 +877,19 @@
       "year": 6,
       "meeting": 3,
       "week": 2,
-      "source": "Silas Ravenshaw · Appunti per il corso di Difesa"
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
+      "id": 23
     },
     {
       "year": 6,
       "meeting": 4,
       "week": 2,
-      "title": "Confringo · Approfondimento",
-      "subtitle": "Ripresa avanzata della formula introdotta al quarto anno",
+      "title": "Confringo",
+      "subtitle": "Introduzione alla magia esplosiva avanzata",
       "theory": [
-        "Confringo è già introdotto nel quarto anno. Il sesto anno ne riprende l’effetto esplosivo per valutarne le conseguenze in un caso più complesso; non lo presenta come una formula nuova. Provoca un’esplosione nel punto o sul bersaglio raggiunto dalla formula. Si conserva la distinzione tra descrizione di un effetto offensivo e decisione di impiegarlo. La sua presenza nel programma non autorizza prove libere sull’ambiente.",
+        "Provoca un’esplosione nel punto o sul bersaglio raggiunto dalla formula. Si conserva la distinzione tra descrizione di un effetto offensivo e decisione di impiegarlo. La sua presenza nel programma non autorizza prove libere sull’ambiente.",
         "Va distinto da Incendio, studiato per la produzione di fuoco. La classificazione offensiva e le condizioni d’impiego appartengono alla lezione di D.C.A.O.",
-        "Il confronto con Expulso non introduce differenze numeriche che i materiali non stabiliscono. Entrambe le voci richiedono di ragionare su ciò che può essere coinvolto oltre al bersaglio. La riuscita difensiva non coincide con il danno più grande possibile."
+        "Il sesto anno collega l’effetto al materiale colpito e alle conseguenze nell’ambiente. Lo studio procede su tavola; una dimostrazione richiede un bersaglio isolato predisposto dal docente. Non si attribuiscono alla sola conoscenza della formula precisione assoluta o autorità sulle strutture della scuola."
       ],
       "notions": [
         [
@@ -899,7 +914,8 @@
       "question": "Un danno maggiore dimostra una difesa migliore?",
       "answer": "No. Si giudica la corrispondenza con l’obiettivo e le conseguenze per le persone e il luogo.",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": "Confringo"
+      "spell": "Confringo",
+      "id": 24
     },
     {
       "title": "Gli Obscuriali",
