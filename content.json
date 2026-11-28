@@ -5,19 +5,19 @@
   "years": [
     {
       "name": "I fondamenti della difesa",
-      "goal": "Imparare a distinguere una minaccia da uno scherzo, conservare il controllo e reagire senza eccessi."
+      "goal": "Distinguere categorie, bersaglio e conseguenze e introdurre Rictusempra e Protego."
     },
     {
       "name": "La paura e le prime fatture",
-      "goal": "Prima settimana: Molliccio, Riddikulus e Coloshoo. Seconda settimana: Tarantallegra e Vermilius, distinguendo effetti, segnali e conseguenze."
+      "goal": "Studiare Molliccio, Riddikulus, Coloshoo e Tarantallegra, quindi consolidare la lettura del confronto."
     },
     {
-      "name": "Duello, misura e risposta",
-      "goal": "Studiare distanza, sbilanciamento e lettura del duello, riconoscendo quando interrompere il confronto."
+      "name": "Impulso, segnali e corrente",
+      "goal": "Prima settimana: Flipendo e Vermilius. Seconda settimana: Ventus e ripasso delle tre formule."
     },
     {
       "name": "Creature e protezione del gruppo",
-      "goal": "Conoscere licantropi e Acromantule, affrontare Fireball come studio circoscritto e proteggere i percorsi."
+      "goal": "Conoscere licantropi e Acromantule, affrontare Fireball in forma circoscritta e studiare Evertestatum."
     },
     {
       "name": "Contenimento e responsabilità",
@@ -25,7 +25,7 @@
     },
     {
       "name": "Minacce oscure, esplosione e disarmo",
-      "goal": "Studiare Dissennatori e Inferi, confrontare Bombarda e Confringo, quindi introdurre Expelliarmus."
+      "goal": "Studiare Dissennatori e Inferi, approfondire Bombarda e introdurre Expelliarmus."
     },
     {
       "name": "Il confine delle Arti Oscure",
@@ -67,7 +67,8 @@
       "question": "Perché il nome della categoria non basta a giudicare una situazione?",
       "answer": "Perché gravità e risposta dipendono anche da condizioni, bersaglio e conseguenze osservabili.",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": null
+      "spell": null,
+      "id": 1
     },
     {
       "year": 1,
@@ -97,49 +98,51 @@
       "opening": "Il fatto che qualcuno rida dimostra che desideri continuare la prova?",
       "steps": [
         "Descrivere l’effetto senza attribuirgli automaticamente innocuità.",
-        "Confrontarlo con uno spostamento prodotto da Flipendo.",
-        "Confrontare il solletico con gli altri effetti difensivi che saranno studiati nel primo anno."
+        "Confrontare una sensazione imposta con un cambiamento della concentrazione osservato in una scena descritta.",
+        "Confrontare il solletico e la protezione affrontati nel primo anno."
       ],
       "question": "Rictusempra garantisce che il bersaglio non possa più agire?",
       "answer": "No. Un’interferenza con la concentrazione non equivale a un’immobilizzazione completa.",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": "Rictusempra"
+      "spell": "Rictusempra",
+      "id": 2
     },
     {
-      "year": 1,
-      "meeting": 3,
-      "week": 2,
-      "title": "Flipendo",
-      "subtitle": "L’impulso e il punto d’arrivo",
+      "title": "Bersaglio e risultato",
+      "subtitle": "Descrivere prima di intervenire",
       "theory": [
-        "Colpisce con un impulso capace di respingere o rovesciare il bersaglio. Nel programma della scuola appartiene al primo anno. Il suo studio distingue il semplice spostamento dal controllo delle conseguenze che seguono lo sbilanciamento.",
-        "L’impulso offensivo si distingue dal trasporto controllato di un oggetto. Nella classificazione della scuola la formula appartiene a D.C.A.O.",
-        "La pratica usa un bersaglio inanimato e uno spazio predisposto. Il punto d’arrivo conta quanto il movimento iniziale: allontanare un oggetto verso una persona o un passaggio non risolve il problema. Una maggiore preparazione si riconosce anche nella capacità di scegliere un impulso contenuto."
+        "Una descrizione utile distingue la persona, l’oggetto e l’effetto osservato. Il nome di una categoria non permette da solo di sapere quali conseguenze abbia avuto una magia o quale risposta sia necessaria.",
+        "Luogo, persone vicine e possibilità di movimento modificano il problema. Prima di intervenire si osservano percorsi e ostacoli, evitando di trasformare un’incertezza in una conclusione sicura.",
+        "L’attività usa scene scritte e tavole del luogo. Gli allievi individuano fatti, ipotesi e informazioni mancanti e preparano una segnalazione chiara. Non si introducono formule pratiche aggiuntive in questo incontro."
       ],
       "notions": [
         [
-          "Impulso",
-          "Produce movimento o rovesciamento, non una guida libera e continua."
+          "Bersaglio",
+          "Identificare chi o che cosa sia coinvolto."
         ],
         [
-          "Destinazione",
-          "La zona verso cui si muove il bersaglio deve essere considerata prima."
+          "Risultato",
+          "Descrivere ciò che cambia, senza presumere ogni conseguenza."
         ],
         [
-          "Misura",
-          "Un effetto più intenso non è automaticamente più adatto."
+          "Scelta",
+          "Motivare l’intervento o la richiesta di assistenza."
         ]
       ],
-      "opening": "Liberare il proprio spazio può creare un nuovo problema per chi si trova dietro al bersaglio?",
+      "opening": "Una sola osservazione basta a spiegare tutte le cause della situazione?",
       "steps": [
-        "Individuare origine e punto d’arrivo di un oggetto su una tavola.",
-        "Svolgere il compito guidato su un bersaglio preparato.",
-        "Confrontare risultato previsto ed effetti sullo spazio vicino."
+        "Descrivere la scena predisposta dal docente.",
+        "Separare osservazioni e ipotesi.",
+        "Indicare quale informazione serva prima di scegliere una risposta."
       ],
-      "question": "Perché spostare un bersaglio non significa necessariamente aver risolto il rischio?",
-      "answer": "Perché il movimento può trasferire il pericolo verso altri o creare ostacoli non previsti.",
+      "question": "Una sola osservazione basta a spiegare tutte le cause della situazione?",
+      "answer": "No. Occorre distinguere ciò che è stato visto dalle interpretazioni e dai dati ancora mancanti.",
+      "spell": null,
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": "Flipendo"
+      "id": 3,
+      "year": 1,
+      "meeting": 3,
+      "week": 2
     },
     {
       "year": 1,
@@ -175,7 +178,8 @@
       "question": "Protego è una garanzia universale contro qualsiasi effetto?",
       "answer": "No. La sua efficacia va riferita alla minaccia e alle condizioni conosciute, senza estenderla automaticamente ad altri casi.",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": "Protego"
+      "spell": "Protego",
+      "id": 4
     },
     {
       "title": "Il Molliccio e il potere della paura",
@@ -211,7 +215,8 @@
       "year": 2,
       "meeting": 1,
       "week": 1,
-      "source": "Silas Ravenshaw · Appunti per il corso di Difesa"
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
+      "id": 5
     },
     {
       "year": 2,
@@ -251,7 +256,8 @@
       "spells": [
         "Riddikulus",
         "Coloshoo"
-      ]
+      ],
+      "id": 6
     },
     {
       "year": 2,
@@ -287,13 +293,88 @@
       "question": "Tarantallegra dimostra un controllo completo sulla persona?",
       "answer": "No. Si descrive l’effetto sugli arti inferiori senza dedurne altri poteri.",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": "Tarantallegra"
+      "spell": "Tarantallegra",
+      "id": 7
+    },
+    {
+      "title": "Leggere il confronto",
+      "subtitle": "Spazio, segnali e decisioni",
+      "theory": [
+        "Una descrizione utile distingue la persona, l’oggetto e l’effetto osservato. Il nome di una categoria non permette da solo di sapere quali conseguenze abbia avuto una magia o quale risposta sia necessaria.",
+        "Luogo, persone vicine e possibilità di movimento modificano il problema. Prima di intervenire si osservano percorsi e ostacoli, evitando di trasformare un’incertezza in una conclusione sicura.",
+        "L’attività usa scene scritte e tavole del luogo. Gli allievi individuano fatti, ipotesi e informazioni mancanti e preparano una segnalazione chiara. Non si introducono formule pratiche aggiuntive in questo incontro."
+      ],
+      "notions": [
+        [
+          "Bersaglio",
+          "Identificare chi o che cosa sia coinvolto."
+        ],
+        [
+          "Risultato",
+          "Descrivere ciò che cambia, senza presumere ogni conseguenza."
+        ],
+        [
+          "Scelta",
+          "Motivare l’intervento o la richiesta di assistenza."
+        ]
+      ],
+      "opening": "Una sola osservazione basta a spiegare tutte le cause della situazione?",
+      "steps": [
+        "Descrivere la scena predisposta dal docente.",
+        "Separare osservazioni e ipotesi.",
+        "Indicare quale informazione serva prima di scegliere una risposta."
+      ],
+      "question": "Una sola osservazione basta a spiegare tutte le cause della situazione?",
+      "answer": "No. Occorre distinguere ciò che è stato visto dalle interpretazioni e dai dati ancora mancanti.",
+      "spell": null,
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
+      "id": 8,
+      "year": 2,
+      "meeting": 4,
+      "week": 2
+    },
+    {
+      "year": 3,
+      "meeting": 1,
+      "week": 1,
+      "title": "Flipendo",
+      "subtitle": "L’impulso e il punto d’arrivo",
+      "theory": [
+        "Colpisce con un impulso capace di respingere o rovesciare il bersaglio. Nel programma della scuola appartiene al terzo anno. Il suo studio distingue il semplice spostamento dal controllo delle conseguenze che seguono lo sbilanciamento.",
+        "L’impulso offensivo si distingue dal trasporto controllato di un oggetto. Nella classificazione della scuola la formula appartiene a D.C.A.O.",
+        "La pratica usa un bersaglio inanimato e uno spazio predisposto. Il punto d’arrivo conta quanto il movimento iniziale: allontanare un oggetto verso una persona o un passaggio non risolve il problema. Una maggiore preparazione si riconosce anche nella capacità di scegliere un impulso contenuto."
+      ],
+      "notions": [
+        [
+          "Impulso",
+          "Produce movimento o rovesciamento, non una guida libera e continua."
+        ],
+        [
+          "Destinazione",
+          "La zona verso cui si muove il bersaglio deve essere considerata prima."
+        ],
+        [
+          "Misura",
+          "Un effetto più intenso non è automaticamente più adatto."
+        ]
+      ],
+      "opening": "Liberare il proprio spazio può creare un nuovo problema per chi si trova dietro al bersaglio?",
+      "steps": [
+        "Individuare origine e punto d’arrivo di un oggetto su una tavola.",
+        "Svolgere il compito guidato su un bersaglio preparato.",
+        "Confrontare risultato previsto ed effetti sullo spazio vicino."
+      ],
+      "question": "Perché spostare un bersaglio non significa necessariamente aver risolto il rischio?",
+      "answer": "Perché il movimento può trasferire il pericolo verso altri o creare ostacoli non previsti.",
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
+      "spell": "Flipendo",
+      "id": 9
     },
     {
       "title": "Vermilius",
       "subtitle": "Le scintille rosse e la lettura del segnale",
       "theory": [
-        "Vermilius viene studiato nel secondo anno di Difesa contro le Arti Oscure. Nei trattati la formula è associata a scintille rosse. L’osservazione della manifestazione luminosa richiede attenzione alla direzione della bacchetta e alle persone presenti.",
+        "Vermilius viene studiato nel terzo anno di Difesa contro le Arti Oscure. Nei trattati la formula è associata a scintille rosse. L’osservazione della manifestazione luminosa richiede attenzione alla direzione della bacchetta e alle persone presenti.",
         "Vermilius e Verdimilius restano due formule distinte. La somiglianza dei nomi non permette di confonderne gli effetti. Un segnale luminoso, un’illuminazione e un colpo diretto sono risultati differenti: l’allievo deve descrivere ciò che osserva prima di interpretarne lo scopo.",
         "Il docente presenta la formula nelle condizioni predisposte per la lezione. Gli allievi descrivono colore, direzione e visibilità della manifestazione senza aggiungere proprietà che non abbiano osservato. La pratica non consiste nel rivolgere la bacchetta verso i compagni per misurarne le reazioni."
       ],
@@ -320,154 +401,81 @@
       "question": "Perché non usare indifferentemente Vermilius e Verdimilius?",
       "answer": "Perché la somiglianza dei nomi non rende identiche le formule o i loro effetti.",
       "spell": "Vermilius",
-      "year": 2,
-      "meeting": 4,
-      "week": 2,
-      "source": "Silas Ravenshaw · Appunti per il corso di Difesa"
-    },
-    {
-      "title": "Distanza e osservazione",
-      "subtitle": "Leggere il confronto prima di intervenire",
-      "theory": [
-        "La difesa comincia dal riconoscimento delle persone, dei percorsi e dei cambiamenti del luogo. Prima di scegliere una formula, l’allievo descrive che cosa stia accadendo e quale risultato sia necessario. Un gesto isolato non permette di conoscere ogni intenzione dell’altro.",
-        "Una distanza maggiore non costituisce da sola una protezione. Ostacoli, appoggi e presenza dei compagni possono cambiare la possibilità di allontanarsi. L’osservazione prepara il giudizio senza attribuire alla propria scelta un risultato garantito.",
-        "La lezione usa casi su tavola e movimenti concordati senza lanciare nuove formule. Gli studenti individuano un percorso, segnalano un ostacolo e spiegano quando chiedere l’intervento del docente. Il terzo anno sviluppa lettura del confronto e controllo dello sbilanciamento."
-      ],
-      "notions": [
-        [
-          "Distanza",
-          "Va letta insieme agli ostacoli e alle persone presenti."
-        ],
-        [
-          "Osservazione",
-          "Descrivere ciò che cambia senza presumere di conoscere ogni intenzione."
-        ],
-        [
-          "Decisione",
-          "Definire un risultato necessario e il momento in cui fermarsi."
-        ]
-      ],
-      "opening": "Una maggiore distanza elimina automaticamente il pericolo?",
-      "steps": [
-        "Leggere il caso scritto e distinguere fatti e ipotesi.",
-        "Indicare bersaglio, persone esposte e risultato necessario.",
-        "Motivare una scelta e il momento in cui chiedere l’intervento del docente."
-      ],
-      "question": "Una maggiore distanza elimina automaticamente il pericolo?",
-      "answer": "No. Percorsi, ostacoli e possibilità di movimento devono essere valutati insieme.",
-      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": null,
-      "id": 9,
-      "year": 3,
-      "meeting": 1,
-      "week": 1
-    },
-    {
       "year": 3,
       "meeting": 2,
       "week": 1,
-      "title": "Evertestatum",
-      "subtitle": "Arretramento, equilibrio e conseguenze",
-      "theory": [
-        "Respinge e sbilancia il bersaglio, provocandone un arretramento o una caduta secondo l’esecuzione. Il confronto con Flipendo permette di ragionare su effetti affini senza dichiararli identici per intensità o applicazioni.",
-        "Sbilanciamento e immobilizzazione non coincidono. Un bersaglio spostato può conservare capacità di movimento.",
-        "La spiegazione considera equilibrio e appoggi. Un arretramento può risolvere una vicinanza oppure creare una caduta. Gli allievi lavorano su traiettorie disegnate e bersagli predisposti, senza usare il compagno come misura della forza della formula."
-      ],
-      "notions": [
-        [
-          "Equilibrio",
-          "La posizione del bersaglio influenza le conseguenze del movimento."
-        ],
-        [
-          "Confronto",
-          "Somiglianza del risultato non significa identità di condizioni d’impiego."
-        ],
-        [
-          "Misura",
-          "La distanza richiesta dal compito non coincide con la massima ottenibile."
-        ]
-      ],
-      "opening": "La stessa spinta ha conseguenze uguali su un piano libero e vicino a una scala?",
-      "steps": [
-        "Confrontare due posizioni iniziali su tavola.",
-        "Indicare il movimento previsto e una conseguenza da evitare.",
-        "Motivare la scelta senza attribuire portata o potenza numerica alla formula."
-      ],
-      "question": "Perché un arretramento corretto nella direzione può essere comunque inadatto?",
-      "answer": "Perché appoggi, ostacoli e persone vicine possono rendere pericoloso il punto d’arrivo.",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": "Evertestatum",
       "id": 10
     },
     {
-      "title": "Rispondere senza aggravare",
-      "subtitle": "L’interruzione e la possibilità di allontanarsi",
+      "title": "Ventus",
+      "subtitle": "La corrente e la lettura dello spazio",
       "theory": [
-        "Un confronto difensivo non richiede di rendere impotente ogni persona presente. Il risultato necessario può essere interrompere un gesto, creare uno spazio o consentire l’allontanamento. Il terzo anno studia lettura del confronto e sbilanciamento senza scambiarli per controllo della mente.",
-        "Evertestatum produce arretramento o perdita di equilibrio. La persona colpita non perde per questo ogni possibilità di reagire. Il difensore deve osservare ciò che accade dopo il primo effetto, invece di presumere che il confronto sia già concluso.",
-        "Le esercitazioni seguono ruoli e segnali concordati con il docente. Uno sbilanciamento non giustificano l’insistenza. Quando lo scopo è raggiunto, si interrompe la prova e si confrontano risultato e conseguenze."
+        "Ventus produce un effetto di vento governato dalla bacchetta. La prova definisce una direzione e un bersaglio che permettano di osservare il movimento senza coinvolgere l’intero ambiente.",
+        "L’intensità va riferita al compito: un indicatore che si muove nella direzione prevista offre un riscontro più chiaro di materiali dispersi senza controllo.",
+        "La pratica usa indicatori leggeri e una corrente contenuta. L’allievo descrive anche gli oggetti vicini e non impiega la dimostrazione per provocare cadute o impedire il movimento dei compagni."
       ],
       "notions": [
         [
-          "Scopo",
-          "Definire il rischio da interrompere."
+          "Corrente",
+          "Genera una corrente di vento diretta, studiata su materiali leggeri e oggetti inanimati."
         ],
         [
-          "Misura",
-          "Scegliere un effetto sufficiente senza moltiplicare gli interventi."
+          "Ambiente",
+          "Il vento agisce sull’ambiente attraversato: direzione, ostacoli e oggetti vicini contribuiscono al risultato. Si distingue dalla spinta concentrata di Depulso su un bersaglio."
         ],
         [
-          "Riscontro",
-          "Osservare se la situazione consenta l’allontanamento."
+          "Difesa",
+          "Considerare anche ciò che il vento può coinvolgere oltre al bersaglio scelto."
         ]
       ],
-      "opening": "Una persona sbilanciata ha perso automaticamente ogni possibilità di risposta?",
+      "opening": "Perché bisogna osservare anche ciò che sta accanto all’oggetto scelto?",
       "steps": [
-        "Leggere il caso scritto e distinguere fatti e ipotesi.",
-        "Indicare bersaglio, persone esposte e risultato necessario.",
-        "Motivare una scelta e il momento in cui chiedere l’intervento del docente."
+        "Definisci direzione e limite dell’effetto.",
+        "Osserva o esegui Ventus sul bersaglio predisposto.",
+        "Verifica anche gli oggetti che non dovevano essere coinvolti."
       ],
-      "question": "Una persona sbilanciata ha perso automaticamente ogni possibilità di risposta?",
-      "answer": "No. La perdita di equilibrio non cancella volontà, percezione e possibilità di reagire.",
+      "question": "Perché bisogna osservare anche ciò che sta accanto all’oggetto scelto?",
+      "answer": "Perché la corrente può coinvolgere altri materiali lungo il suo percorso.",
+      "spell": "Ventus",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": null,
       "id": 11,
       "year": 3,
       "meeting": 3,
       "week": 2
     },
     {
-      "title": "Leggere il duello",
-      "subtitle": "Bersaglio, spazio e conclusione della prova",
+      "title": "Confronto e ripasso del terzo anno",
+      "subtitle": "Flipendo, Vermilius e Ventus",
       "theory": [
-        "La lettura di un duello considera direzione, ostacoli e posizione dei compagni. Saper riconoscere un’occasione per fermarsi è parte della preparazione: non si valuta soltanto chi abbia mostrato l’effetto più vistoso.",
-        "Evertestatum produce arretramento o perdita di equilibrio. La persona colpita non perde per questo ogni possibilità di reagire. Il difensore deve osservare ciò che accade dopo il primo effetto, invece di presumere che il confronto sia già concluso.",
-        "Le esercitazioni seguono ruoli e segnali concordati con il docente. Uno sbilanciamento non giustificano l’insistenza. Quando lo scopo è raggiunto, si interrompe la prova e si confrontano risultato e conseguenze."
+        "Flipendo imprime un impulso capace di respingere o rovesciare; Vermilius viene riconosciuto attraverso la manifestazione di scintille rosse; Ventus produce una corrente di vento. Il ripasso mantiene distinti questi tre risultati.",
+        "Una spinta su un bersaglio e una corrente nell’ambiente possono avere conseguenze differenti. Una manifestazione luminosa richiede a sua volta di distinguere ciò che è visibile dallo scopo attribuito al segnale. Nomi e impressioni non sostituiscono la descrizione.",
+        "La classe analizza un caso su tavola, indica persone e materiali esposti e motiva una scelta. Le dimostrazioni restano quelle predisposte dal docente; il ripasso non introduce nuove formule né combinazioni con proprietà aggiuntive."
       ],
       "notions": [
         [
-          "Scopo",
-          "Definire il rischio da interrompere."
+          "Impulso",
+          "Distinguere il bersaglio spinto e il punto d’arrivo."
         ],
         [
-          "Misura",
-          "Scegliere un effetto sufficiente senza moltiplicare gli interventi."
+          "Segnale",
+          "Descrivere la manifestazione prima di interpretarne lo scopo."
         ],
         [
-          "Riscontro",
-          "Osservare se la situazione consenta l’allontanamento."
+          "Corrente",
+          "Osservare lo spazio attraversato e gli oggetti vicini."
         ]
       ],
-      "opening": "Una persona sbilanciata ha perso automaticamente ogni possibilità di risposta?",
+      "opening": "Una spinta concentrata e una corrente di vento coinvolgono sempre gli stessi oggetti?",
       "steps": [
-        "Leggere il caso scritto e distinguere fatti e ipotesi.",
-        "Indicare bersaglio, persone esposte e risultato necessario.",
-        "Motivare una scelta e il momento in cui chiedere l’intervento del docente."
+        "Confrontare le tre schede degli effetti.",
+        "Individuare una risposta proporzionata al caso descritto.",
+        "Spiegare un limite e una conseguenza da controllare."
       ],
-      "question": "Una persona sbilanciata ha perso automaticamente ogni possibilità di risposta?",
-      "answer": "No. La perdita di equilibrio non cancella volontà, percezione e possibilità di reagire.",
-      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
+      "question": "Una spinta concentrata e una corrente di vento coinvolgono sempre gli stessi oggetti?",
+      "answer": "No. Il bersaglio diretto e i materiali attraversati dalla corrente devono essere considerati separatamente.",
       "spell": null,
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
       "id": 12,
       "year": 3,
       "meeting": 4,
@@ -585,41 +593,41 @@
       "id": 15
     },
     {
-      "title": "Proteggere il gruppo",
-      "subtitle": "Creature, percorsi e richiesta di assistenza",
+      "year": 4,
+      "meeting": 4,
+      "week": 2,
+      "title": "Evertestatum",
+      "subtitle": "Arretramento, equilibrio e conseguenze",
       "theory": [
-        "Negli incontri con creature, le formule studiate fra maghi non garantiscono lo stesso risultato. Il quarto anno collega licantropi e Acromantule alla protezione del gruppo: identificare percorsi e persone esposte precede qualsiasi dimostrazione.",
-        "La lettura di una creatura richiede di considerare territorio, vie di allontanamento e posizione del gruppo. Un effetto riuscito fra maghi non costituisce una prova della sua efficacia contro un essere di natura differente.",
-        "Le esercitazioni seguono ruoli e segnali concordati con il docente. Una caduta o una bacchetta lasciata non giustificano l’insistenza. Quando lo scopo è raggiunto, si interrompe la prova e si confrontano risultato e conseguenze."
+        "Respinge e sbilancia il bersaglio, provocandone un arretramento o una caduta secondo l’esecuzione. Il confronto con Flipendo permette di ragionare su effetti affini senza dichiararli identici per intensità o applicazioni.",
+        "Sbilanciamento e immobilizzazione non coincidono. Un bersaglio spostato può conservare capacità di movimento.",
+        "La spiegazione considera equilibrio e appoggi. Un arretramento può risolvere una vicinanza oppure creare una caduta. Gli allievi lavorano su traiettorie disegnate e bersagli predisposti, senza usare il compagno come misura della forza della formula."
       ],
       "notions": [
         [
-          "Scopo",
-          "Definire il rischio da interrompere."
+          "Equilibrio",
+          "La posizione del bersaglio influenza le conseguenze del movimento."
+        ],
+        [
+          "Confronto",
+          "Somiglianza del risultato non significa identità di condizioni d’impiego."
         ],
         [
           "Misura",
-          "Scegliere un effetto sufficiente senza moltiplicare gli interventi."
-        ],
-        [
-          "Riscontro",
-          "Osservare se la situazione consenta l’allontanamento."
+          "La distanza richiesta dal compito non coincide con la massima ottenibile."
         ]
       ],
-      "opening": "Una formula efficace in un duello ha necessariamente lo stesso risultato su una creatura?",
+      "opening": "La stessa spinta ha conseguenze uguali su un piano libero e vicino a una scala?",
       "steps": [
-        "Leggere il caso scritto e distinguere fatti e ipotesi.",
-        "Indicare bersaglio, persone esposte e risultato necessario.",
-        "Motivare una scelta e il momento in cui chiedere l’intervento del docente."
+        "Confrontare due posizioni iniziali su tavola.",
+        "Indicare il movimento previsto e una conseguenza da evitare.",
+        "Motivare la scelta senza attribuire portata o potenza numerica alla formula."
       ],
-      "question": "Una formula efficace in un duello ha necessariamente lo stesso risultato su una creatura?",
-      "answer": "No. Natura del bersaglio, ambiente e condizioni dell’incontro richiedono una valutazione distinta.",
+      "question": "Perché un arretramento corretto nella direzione può essere comunque inadatto?",
+      "answer": "Perché appoggi, ostacoli e persone vicine possono rendere pericoloso il punto d’arrivo.",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": null,
-      "id": 16,
-      "year": 4,
-      "meeting": 4,
-      "week": 2
+      "spell": "Evertestatum",
+      "id": 16
     },
     {
       "year": 5,
@@ -844,25 +852,25 @@
       "id": 22
     },
     {
-      "title": "Bombarda e Confringo",
-      "subtitle": "Confronto fra effetti esplosivi",
+      "title": "Bombarda",
+      "subtitle": "L’esplosione e il confronto difensivo",
       "theory": [
-        "Bombarda: Produce un’esplosione sul punto colpito. L’effetto può danneggiare un ostacolo, ma coinvolge anche materiali, frammenti e ciò che si trova nelle vicinanze. Non equivale a una separazione precisa come un taglio.",
-        "Confringo: Provoca un’esplosione nel punto o sul bersaglio raggiunto dalla formula. Si conserva la distinzione tra descrizione di un effetto offensivo e decisione di impiegarlo. La sua presenza nel programma non autorizza prove libere sull’ambiente.",
-        "Il sesto anno confronta bersaglio e conseguenze delle due formule senza attribuire differenze non osservate. Lo studio procede su tavola; una dimostrazione richiede un bersaglio isolato predisposto dal docente. Si considerano frammenti, materiali vicini e persone esposte prima di decidere se intervenire."
+        "Bombarda produce un’esplosione sul punto colpito. Lo studio del sesto anno considera materiali, frammenti e persone vicine, distinguendo l’effetto sul bersaglio dalle conseguenze nel luogo.",
+        "Confringo è già affrontato nel terzo anno di Incantesimi. Il confronto difensivo richiama quella conoscenza senza introdurre un secondo apprendimento e senza attribuire superiorità o proprietà nuove alla somiglianza dei risultati.",
+        "La dimostrazione richiede un bersaglio isolato predisposto dal docente. Prima si considerano ciò che è visibile e ciò che non si conosce dietro il materiale; saper rinunciare a una risposta esplosiva fa parte del giudizio del difensore."
       ],
       "notions": [
         [
           "Bombarda",
-          "Studiare il punto colpito e le conseguenze dell’esplosione sui materiali vicini."
-        ],
-        [
-          "Confringo",
-          "Distinguere la manifestazione offensiva dal giudizio sulla necessità di impiegarla."
+          "Distinguere punto colpito e conseguenze sui materiali vicini."
         ],
         [
           "Confronto",
-          "Non dedurre portata, precisione o superiorità di una formula dalla sola somiglianza dei risultati."
+          "Confringo è richiamato come formula già studiata in Incantesimi."
+        ],
+        [
+          "Scelta",
+          "Non dedurre portata, precisione o necessità dell’intervento dalla sola forza apparente."
         ]
       ],
       "opening": "Ottenere l’effetto desiderato basta a rendere corretta la scelta?",
@@ -873,16 +881,12 @@
       ],
       "question": "Quali elementi occorre valutare oltre alla riuscita della formula?",
       "answer": "Bersaglio, ambiente, persone esposte e conseguenze successive. La riuscita tecnica da sola non dimostra che l’intervento sia adatto.",
-      "spell": null,
+      "spell": "Bombarda",
       "year": 6,
       "meeting": 3,
       "week": 2,
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "id": 23,
-      "spells": [
-        "Bombarda",
-        "Confringo"
-      ]
+      "id": 23
     },
     {
       "year": 6,
@@ -955,7 +959,8 @@
       "year": 7,
       "meeting": 1,
       "week": 1,
-      "source": "Silas Ravenshaw · Appunti per il corso di Difesa"
+      "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
+      "id": 25
     },
     {
       "year": 7,
@@ -991,7 +996,8 @@
       "question": "Qual è il traguardo comune dei sette anni?",
       "answer": "Comprendere gli effetti e scegliere una risposta controllata, senza confondere capacità, necessità e autorizzazione.",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": null
+      "spell": null,
+      "id": 26
     },
     {
       "year": 7,
@@ -1027,7 +1033,8 @@
       "question": "Perché Expulso non va descritto come una semplice spinta più forte?",
       "answer": "Perché la natura esplosiva richiede una valutazione distinta delle conseguenze sul luogo.",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": "Expulso"
+      "spell": "Expulso",
+      "id": 27
     },
     {
       "year": 7,
@@ -1063,7 +1070,8 @@
       "question": "Conoscere la formula garantisce un Patronus corporeo?",
       "answer": "No. Il risultato richiede una padronanza avanzata che non deriva dalla sola lettura.",
       "source": "Silas Ravenshaw · Appunti per il corso di Difesa",
-      "spell": "Expecto Patronum"
+      "spell": "Expecto Patronum",
+      "id": 28
     }
   ]
 }

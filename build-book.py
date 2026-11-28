@@ -158,7 +158,7 @@ SPELLS=json.loads((ROOT/'spell-index.json').read_text())
 p=Leaf('Formulae','Le formule per anno','Le formule del programma aggiornato')
 for s in SPELLS:
     p.row(f"{ROMAN[s['year']-1]} · {s['name']}",str(LESSON_POS[(s['year'],s['meeting'])]));p.y-=4
-p.paragraph('La tavola indica la prima introduzione. I programmi annuali precisano le settimane e gli eventuali approfondimenti successivi.',10,MUTED)
+p.paragraph('La tavola indica la prima introduzione. I programmi annuali precisano settimane e approfondimenti. Confringo appartiene al terzo anno di Incantesimi ed è richiamato qui soltanto per confronto.',10,MUTED)
 add(p,'Le formule per anno');SECTIONS.append(['Formule',len(PAGES)-1]);SECTIONS.append(['Repertorio',len(PAGES)])
 for part in range(math.ceil(len(SPELLS)/3)):
     p=Leaf('Repertorium','Effetti e nozioni','Tavola '+ROMAN[part]+' · Consultazione delle formule')
@@ -167,7 +167,7 @@ for part in range(math.ceil(len(SPELLS)/3)):
         p.paragraph(s['effect'],11,leading=16);p.paragraph(s['notions'],10.5,leading=15)
     add(p,'Repertorio · '+ROMAN[part])
 p=Leaf('Disciplinae','Confini e responsabilità','La materia nel programma della scuola')
-for h,t in [('Il programma annuale','Il terzo anno affronta distanza, sbilanciamento e lettura del duello; il quarto studia creature e Fireball in forma circoscritta. Confundo, Petrificus e Incarcerous appartengono al quinto; Bombarda, Confringo ed Expelliarmus al sesto.'),('I collegamenti fra materie','Diffindo e Incendio sono richiamati nelle letture complementari come applicazioni di formule già apprese. Incarcerous è studiato nel quinto anno anche in Trasfigurazione: una stessa formula può avere contesti diversi, senza un secondo apprendimento.'),('Studio e pratica','Leggere una descrizione non equivale a padroneggiare una magia. Il docente stabilisce esercizi, bersagli e condizioni adatte alla preparazione degli allievi.'),('La responsabilità','Dimostrazioni e attività avanzate richiedono attenzione alle persone presenti. Un caso su tavola permette di esercitare il giudizio prima dell’esecuzione.')]:p.heading(h);p.paragraph(t,11,leading=16)
+for h,t in [('Il programma annuale','Il terzo anno studia Flipendo, Vermilius e Ventus, con un incontro di ripasso. Il quarto affronta creature, Fireball ed Evertestatum. Confundo, Petrificus e Incarcerous sono al quinto; Bombarda ed Expelliarmus al sesto.'),('I collegamenti fra materie','Diffindo e Incendio sono richiamati nelle letture complementari come applicazioni di formule già apprese. Incarcerous è studiato nel quinto anno anche in Trasfigurazione: una stessa formula può avere contesti diversi, senza un secondo apprendimento.'),('Studio e pratica','Leggere una descrizione non equivale a padroneggiare una magia. Il docente stabilisce esercizi, bersagli e condizioni adatte alla preparazione degli allievi.'),('La responsabilità','Dimostrazioni e attività avanzate richiedono attenzione alle persone presenti. Un caso su tavola permette di esercitare il giudizio prima dell’esecuzione.')]:p.heading(h);p.paragraph(t,11,leading=16)
 add(p,'Confini e responsabilità')
 p=Leaf('Lexicon','Le parole della difesa','Un lessico da usare con precisione')
 for h,t in [('Minaccia','Una condizione capace di produrre un danno, da valutare nel suo contesto.'),('Bersaglio','Persona, oggetto o effetto a cui è diretto l’intervento.'),('Protezione','Azione volta a ridurre l’esposizione; non coincide con invulnerabilità.'),('Disarmo','Perdita della presa sulla bacchetta o sull’oggetto interessato.'),('Sbilanciamento','Alterazione dell’equilibrio, distinta dall’immobilizzazione.'),('Controllo','Capacità di mantenere lo scopo e verificare le conseguenze dell’azione.'),('Proporzione','Rapporto ragionato fra problema, risultato necessario e conseguenze previste.')]:p.heading(h);p.paragraph(t,11,leading=16)
@@ -206,7 +206,7 @@ for title in ['Prefazione','Il percorso delle due settimane','Il metodo della di
 p.paragraph('Il repertorio raccoglie le schede delle formule del corso. La ricerca permette di trovare formule, argomenti e singole lezioni.',10,MUTED);replace_leaf(2,p)
 assert len(PAGES)>100,len(PAGES)
 assert len(DATA['lessons'])==28
-for item in PAGES:item['image']+='?v=20261128-disarmo6'
+for item in PAGES:item['image']+='?v=20261128-terzoanno'
 packed={'pages':PAGES,'chapters':CHAPTERS,'sections':SECTIONS}
 (ROOT/'book-data.json').write_text(json.dumps(packed,ensure_ascii=False,indent=2)+'\n')
 index=ROOT/'index.html';embedded=json.dumps(packed,ensure_ascii=False).replace('</','<\\/')

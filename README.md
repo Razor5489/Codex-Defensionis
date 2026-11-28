@@ -2,32 +2,30 @@
 
 [Apri il libro](https://razor5489.github.io/Codex-Defensionis/)
 
-Edizione scolastica ambientata a Hogwarts nel 1890. 122 pagine; sette annualità e 28 incontri: due lezioni a settimana per due settimane. I primi due anni conservano il programma precedente. Testo del volume interamente in roleplay.
+Volume scolastico ambientato a Hogwarts nel 1890, con testi interamente in roleplay. Sette annualità, 28 incontri: due lezioni a settimana per due settimane per ciascun anno.
 
-## Programma dopo la revisione del 28 novembre 2026
+## Ultima assegnazione del terzo anno · 28 novembre 2026
+
+Incantesimi: Confringo, Descendo e Arresto Momentum. DCAO: Flipendo, Vermilius e Ventus. Il quarto incontro di ciascuna materia è dedicato a confronto, applicazione guidata e ripasso; non introduce una quarta formula. Riddikulus non fa parte del terzo anno e rimane nel percorso del secondo.
 
 | Anno | Settimana I · Due incontri | Settimana II · Due incontri |
 |---|---|---|
-| 1 | Fattura, maleficio e maledizione; Rictusempra | Flipendo; Protego |
-| 2 | Il Molliccio e il potere della paura; Riddikulus e Coloshoo | Tarantallegra; Vermilius |
-| 3 | Distanza e osservazione; Evertestatum | Rispondere senza aggravare; Leggere il duello |
-| 4 | I licantropi; Le Acromantule | Fireball; Proteggere il gruppo |
+| 1 | Fattura, maleficio e maledizione; Rictusempra | Bersaglio e risultato; Protego |
+| 2 | Il Molliccio e il potere della paura; Riddikulus e Coloshoo | Tarantallegra; Leggere il confronto |
+| 3 | Flipendo; Vermilius | Ventus; Confronto e ripasso del terzo anno |
+| 4 | I licantropi; Le Acromantule | Fireball; Evertestatum |
 | 5 | Confundo; Petrificus | Incarcerous; Gli Auror |
-| 6 | I Dissennatori; Gli Inferi | Bombarda e Confringo; Expelliarmus |
+| 6 | I Dissennatori; Gli Inferi | Bombarda; Expelliarmus |
 | 7 | Gli Obscuriali; Il giudizio del difensore | Expulso; Expecto Patronum |
 
-## Revisione didattica
+## Coerenza del percorso
 
-Incantesimi: Arresto Momentum e Glacius al V anno; Reparo al III. Descendo e Ventus al III con pratica su oggetti. Diffindo al IV su materiali predisposti; magia non verbale dal VI in modo progressivo.
+Le assegnazioni più recenti prevalgono sulle precedenti. Levioso resta al primo anno di Incantesimi ed Expelliarmus al sesto di DCAO. Reparo viene ora introdotto al quarto anno di Incantesimi; Evertestatum al quarto di DCAO. Arresto Momentum viene approfondito al quinto dopo la prima introduzione al terzo. Vermilius resta distinto da Verdimilius.
 
-DCAO: distanza, lettura del duello e sbilanciamento al III; Fireball al IV come studio e dimostrazione circoscritta; Confundo, Petrificus e Incarcerous al V; Bombarda, Confringo ed Expelliarmus al VI; Expulso e Patronus al VII. Obliviate è solo teoria degli ultimi due anni, senza esercizi sui ricordi. Diffindo e Incendio sono letture complementari di applicazione, senza doppio sblocco.
-
-Trasfigurazione: Crinus Muto e Orchideus al III; Glisseo ed Epoximise al IV; Piertotum Locomotor al VII. Engorgio e Reducio al IV sugli oggetti. Draconifors al VI su modello circoscritto. Trasformazioni umane complete al VII come studio specialistico e supervisione; le lezioni non concedono doti innate o abilità Animagus. Geminio al VI su copie di oggetti comuni non incantati, senza valuta o oggetti speciali.
-
-Le limitazioni descrivono il programma didattico e non dichiarano nuove meccaniche implementate. Nessun danno, durata, resistenza o tempo di recupero viene inventato. La revisione coordina testo, schede, indici, riferimenti e numerazione.
+Confringo è insegnato in Incantesimi al terzo anno; il confronto con Bombarda in DCAO al sesto è un’applicazione di conoscenze pregresse, senza secondo apprendimento. Diffindo e Incendio restano letture complementari di applicazione in DCAO. Obliviate è solo studio teorico degli ultimi due anni. Le dimostrazioni rispettano bersagli e limiti descritti nelle lezioni, senza attribuire danni, durate o meccaniche non confermate.
 
 ## Generazione
 
-Modificare `content.json`, `spell-index.json` e `supplementary-topics.json`, quindi eseguire `python build-book.py` con Python e ReportLab. Base didattica: libro DCAO di Francis Lake e DCAO.pdf fornito dall’utente, rielaborati secondo le assegnazioni concordate.
+Modificare `content.json`, `spell-index.json` e `supplementary-topics.json`; eseguire `python build-book.py` con Python e ReportLab. Base didattica: materiali DCAO forniti e libro Francis Lake, rielaborati secondo le assegnazioni successive.
 
-GitHub Pages: main, cartella radice. Il lettore conserva ricerca, indice, segnalibri e modalità a una o due pagine.
+Il generatore aggiorna pagine SVG, indice, numerazione e dati incorporati. GitHub Pages: main, radice.
